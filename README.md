@@ -80,15 +80,13 @@ for the full assessment and resolution.
 1. **Data Architecture** — relational schema with enforced referential integrity (`02_SQL/01_schema.sql`)
 2. **Data Recovery & Reconciliation** — detection and resolution logic for 7 categories of data-quality issue (`02_SQL/03_reconciliation.sql`, Notebook 2)
 3. **Exploratory & Statistical Analysis** — 8 Jupyter notebooks (`03_Python_Analysis/`), each **executed end-to-end** against the reconciled dataset, including a scikit-learn regression model of transaction-level margin drivers
-4. **Business Intelligence Design** — 5 linked, interactive dashboards built with Streamlit + Plotly (`07_Streamlit_Dashboard/`), based on the original Power BI wireframes (`04_PowerBI_Dashboard/`)
+4. **Business Intelligence Design** — 5 linked, interactive dashboards built with Streamlit + Plotly (`07_Streamlit_Dashboard/`)
 5. **Consulting Synthesis** — findings translated into root causes, prioritized recommendations, an implementation roadmap, and simulated business impact (`05_Reports/`, `06_Presentation/`)
 
 ## Interactive Dashboard Suite
 
 The five dashboards are delivered as a **live, interactive Streamlit + Plotly
-application** in [`07_Streamlit_Dashboard/`](07_Streamlit_Dashboard/), built
-directly from the original Power BI wireframes in
-[`04_PowerBI_Dashboard/Dashboard_Design_Specifications.md`](04_PowerBI_Dashboard/Dashboard_Design_Specifications.md).
+application** in [`07_Streamlit_Dashboard/`](07_Streamlit_Dashboard/),
 All five dashboards share one reconciled data layer and a persistent set of
 global filters (Date Range, Region), and are cross-linked via both a
 navigation strip on every page and Streamlit's native sidebar page list:
