@@ -163,12 +163,3 @@ Retail-Business-Analytics-Consulting-Project/
 ├── 07_Streamlit_Dashboard/       # Live interactive 5-dashboard app (Streamlit + Plotly)
 └── README.md
 ```
-
-## Portfolio Relevance
-
-This project is designed to be portfolio-ready for **Business Analyst,
-Business Intelligence Analyst, Analytics Consultant, Data Analyst, and
-Consulting** roles, demonstrating the ability to work with imperfect
-enterprise data, reconcile it into a trustworthy foundation, perform
-statistically grounded analysis, design executive BI, and communicate
-findings the way a Big-Four or MBB consulting team would.
