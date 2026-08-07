@@ -1,0 +1,13 @@
+Campaign_ID,Campaign_Name,Campaign_Type,Campaign_Cost,Customers_Reached,Revenue_Generated,Conversion_Rate
+CMP001,New Year Mega Sale,In-Store Promo,585630.12,259833,45429083.64,0.0088
+CMP002,Valentine Specials,Social Media,5472982.01,103690,131783332.2,0.0499
+CMP003,Back to School Bundle,SMS Promo,1058245.0,359846,77930757.2,0.0219
+CMP004,Easter Discount Week,Influencer,523115.36,202638,161720839.76,0.0328
+CMP005,Mid-Year Clearance,In-Store Promo,7664442.25,44973,20343392.0,0.0178
+CMP006,Independence Day Deals,SMS Promo,6120035.78,129988,62569364.69,0.023
+CMP007,Detty December Promo,Influencer,2586807.57,262821,73265909.79,0.0111
+CMP008,Black Friday Blast,Radio,5394666.71,35538,15491184.04,0.0416
+CMP009,Flash Weekend Sale,Social Media,4213383.99,89340,47077945.2,0.0262
+CMP010,Ramadan Family Bundle,Influencer,6072316.09,111070,102606703.38,0.0594
+CMP011,Electronics Roadshow,Influencer,7715787.43,99171,125148251.2,0.0476
+CMP012,Fashion Week Discount,Influencer,1062084.39,376155,408295310.8,0.0523

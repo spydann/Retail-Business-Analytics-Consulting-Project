@@ -1,0 +1,2501 @@
+Customer_ID,Customer_Name,Gender,Age_Group,Customer_Segment,Location,Customer_Since,Customer_Value_Category
+C00001,Kunle Obi,Female,55-64,Regular,Ibadan,2025-08-15,High Value
+C00002,Adaeze Eze,Female,25-34,Occasional,Abuja,2020-12-23,Medium Value
+C00003,Ifeoma Adekunle,Male,25-34,Occasional,Lagos Island,2023-09-26,Medium Value
+C00004,Amaka Okonkwo,Female,35-44,Corporate,Uyo,2024-01-15,Medium Value
+C00005,Bukola Eze,Female,35-44,Occasional,Uyo,2025-06-10,Medium Value
+C00006,Zainab Abubakar,Male,25-34,Corporate,Lagos Island,2021-04-26,Medium Value
+C00007,Kelechi Obi,Male,25-34,Regular,Enugu,2021-05-17,Medium Value
+C00008,Femi Danjuma,Female,45-54,Premium,Lagos Island,2021-08-12,Low Value
+C00009,Ibrahim Ogunleye,Female,18-24,Corporate,Abeokuta,2021-03-08,Low Value
+C00010,Patience Okonkwo,Male,18-24,Regular,Jos,2020-07-09,Medium Value
+C00011,Femi Nnamdi,Male,45-54,Regular,Uyo,2018-10-26,Medium Value
+C00012,Musa Okafor,Male,45-54,Regular,Ilorin,2025-05-11,Medium Value
+C00013,Aisha Eze,Female,18-24,Premium,Ilorin,2024-04-02,Low Value
+C00014,Uche Danjuma,Female,45-54,Premium,Lagos Island,2024-09-04,Low Value
+C00015,Femi Afolabi,Male,45-54,Regular,Ilorin,2023-04-29,Medium Value
+C00016,Segun Danjuma,Male,45-54,Regular,Uyo,2020-09-06,Medium Value
+C00017,Emeka Abubakar,Male,25-34,Occasional,Akure,2024-01-22,High Value
+C00018,Uche Obi,Female,25-34,Regular,Abuja,2022-07-28,Medium Value
+C00019,Musa Okafor,Female,35-44,Corporate,Abeokuta,2024-07-20,Low Value
+C00020,Zainab Obi,Male,35-44,Regular,Jos,2022-09-13,High Value
+C00021,Amaka Adekunle,Male,45-54,Corporate,Onitsha,2021-10-08,Medium Value
+C00022,Chika Aliyu,Male,18-24,Regular,Ilorin,2022-06-02,High Value
+C00023,Kelechi Chukwu,Male,35-44,Regular,Uyo,2020-12-01,Medium Value
+C00024,Segun Balogun,Female,18-24,Premium,Uyo,2022-09-23,Medium Value
+C00025,Sunday Adeyemi,Male,55-64,Regular,Lagos Island,2018-10-09,Medium Value
+C00026,Tunde Okoro,Male,35-44,Regular,Ibadan,2020-09-04,Low Value
+C00027,Tobi Ogunleye,Male,45-54,Regular,Abeokuta,2019-11-19,High Value
+C00028,Rita Uche,Female,25-34,Occasional,Ikeja,2018-04-16,Medium Value
+C00029,Aisha Eze,Female,55-64,Premium,Ikeja,2025-01-13,Low Value
+C00030,Patience Adeyemi,Female,35-44,Occasional,Ikeja,2024-05-07,Medium Value
+C00031,Chinedu Nnamdi,Female,18-24,Corporate,Ilorin,2021-10-29,Low Value
+C00032,Bimpe Suleiman,Female,35-44,Corporate,Jos,2022-11-19,Medium Value
+C00033,Chika Afolabi,Female,55-64,Occasional,Ikeja,2026-03-14,Medium Value
+C00034,Aisha Danjuma,Female,25-34,Premium,Uyo,2023-01-21,High Value
+C00035,Ngozi Afolabi,Female,25-34,Premium,Ibadan,2020-05-18,Medium Value
+C00036,Yusuf Balogun,Male,45-54,Premium,Abeokuta,2023-10-18,Low Value
+C00037,Musa Okoro,Female,45-54,Regular,Abeokuta,2025-03-30,Medium Value
+C00038,Folake Aliyu,Female,35-44,Premium,Abuja,2020-09-23,Low Value
+C00039,Uche Yakubu,Female,25-34,Regular,Ikeja,2024-03-04,Low Value
+C00040,Ifeoma Obi,Male,25-34,Occasional,Ibadan,2021-07-16,Low Value
+C00041,Tobi Uche,Male,45-54,Regular,Uyo,2023-11-19,High Value
+C00042,Musa Obi,Male,25-34,Corporate,Onitsha,2018-02-27,Medium Value
+C00043,Damilola Okoro,Male,55-64,Premium,Jos,2019-06-02,Medium Value
+C00044,Bimpe Adeyemi,Female,55-64,Premium,Ikeja,2021-10-27,Medium Value
+C00045,Chika Adeyemi,Male,18-24,Premium,Abeokuta,2018-10-31,High Value
+C00046,Ifeoma Obi,Female,35-44,Occasional,Abeokuta,2020-10-13,Low Value
+C00047,Femi Danjuma,Female,55-64,Corporate,Abeokuta,2022-04-08,Medium Value
+C00048,Tobi Eze,Male,35-44,Regular,Ikeja,2018-09-04,High Value
+C00049,Zainab Balogun,Male,18-24,Premium,Onitsha,2019-12-13,Medium Value
+C00050,Aisha Uche,Female,45-54,Premium,Abeokuta,2018-05-14,Low Value
+C00051,Chika Okonkwo,Female,18-24,Regular,Surulere,2025-01-04,Low Value
+C00052,Emeka Adeyemi,Male,45-54,Premium,Enugu,2019-08-06,Low Value
+C00053,Ifeoma Danjuma,Female,45-54,Corporate,Ilorin,2022-12-04,Medium Value
+C00054,Emeka Ogunleye,Male,55-64,Occasional,Onitsha,2022-11-29,Medium Value
+C00055,Aisha Aliyu,Male,65+,Occasional,Ibadan,2019-01-10,Medium Value
+C00056,Bimpe Okoro,Female,55-64,Regular,Enugu,2026-06-25,Medium Value
+C00057,Emeka Okoro,Female,25-34,Regular,Ikeja,2023-07-08,Low Value
+C00058,Blessing Okoro,Female,35-44,Regular,Onitsha,2021-09-12,High Value
+C00059,Uche Afolabi,Female,18-24,Occasional,Ilorin,2018-12-27,Low Value
+C00060,Amaka Obi,Female,25-34,Regular,Uyo,2018-01-05,Medium Value
+C00061,Damilola Danjuma,Male,25-34,Premium,Abeokuta,2023-08-04,Medium Value
+C00062,Grace Eze,Male,65+,Premium,Abeokuta,2025-10-31,Low Value
+C00063,Zainab Okafor,Female,18-24,Corporate,Ikeja,2021-06-26,Medium Value
+C00064,Damilola Abubakar,Female,55-64,Regular,Ibadan,2019-04-27,Medium Value
+C00065,Grace Bello,Female,35-44,Regular,Onitsha,2023-05-31,Medium Value
+C00066,Bukola Balogun,Female,45-54,Occasional,Uyo,2019-07-14,Low Value
+C00067,Segun Okafor,Female,45-54,Occasional,Enugu,2023-09-11,Low Value
+C00068,Bukola Abubakar,Female,35-44,Regular,Onitsha,2023-06-29,Low Value
+C00069,Femi Chukwu,Male,65+,Regular,Uyo,2022-03-26,Medium Value
+C00070,Adaeze Chukwu,Female,45-54,Occasional,Uyo,2022-08-10,Low Value
+C00071,Tunde Okoro,Male,18-24,Corporate,Uyo,2025-04-24,Low Value
+C00072,Ifeoma Suleiman,Female,18-24,Regular,Surulere,2022-12-09,High Value
+C00073,Uche Ogunleye,Female,35-44,Occasional,Onitsha,2020-12-21,Medium Value
+C00074,Damilola Okoro,Male,35-44,Regular,Abeokuta,2021-07-21,Low Value
+C00075,Emeka Nnamdi,Male,45-54,Occasional,Ikeja,2026-05-17,Medium Value
+C00076,Folake Okafor,Male,25-34,Regular,Uyo,2025-10-13,Medium Value
+C00077,Aisha Suleiman,Female,35-44,Occasional,Lagos Island,2019-08-20,High Value
+C00078,Bukola Adekunle,Male,35-44,Premium,Abeokuta,2024-11-01,Medium Value
+C00079,Femi Afolabi,Male,55-64,Premium,Abeokuta,2020-11-06,Low Value
+C00080,Emeka Danjuma,Female,65+,Regular,Abuja,2019-10-10,Low Value
+C00081,Bukola Uche,Male,65+,Occasional,Ikeja,2023-02-15,Medium Value
+C00082,Ngozi Aliyu,Female,65+,Regular,Uyo,2024-05-31,Medium Value
+C00083,Bukola Adeyemi,Female,45-54,Corporate,Abeokuta,2024-05-07,Medium Value
+C00084,Aisha Okonkwo,Female,45-54,Occasional,Surulere,2021-12-14,Medium Value
+C00085,Damilola Adeyemi,Female,45-54,Regular,Uyo,2025-01-14,Low Value
+C00086,Rita Uche,Female,45-54,Regular,Surulere,2019-01-05,Low Value
+C00087,Ibrahim Suleiman,Female,45-54,Regular,Jos,2022-02-07,Low Value
+C00088,Halima Chukwu,Male,35-44,Regular,Abeokuta,2021-04-23,Low Value
+C00089,Amaka Adekunle,Female,18-24,Regular,Ibadan,2026-02-14,Medium Value
+C00090,Ngozi Afolabi,Female,45-54,Corporate,Ikeja,2023-02-06,Low Value
+C00091,Chinedu Ogunleye,Female,55-64,Regular,Ikeja,2023-04-16,Medium Value
+C00092,Rita Uche,Female,18-24,Regular,Lagos Island,2023-03-17,Medium Value
+C00093,Ifeoma Eze,Male,55-64,Regular,Ilorin,2023-07-11,Medium Value
+C00094,Musa Obi,Female,35-44,Occasional,Abuja,2026-05-02,Low Value
+C00095,Tobi Nnamdi,Female,18-24,Regular,Ilorin,2023-06-28,Medium Value
+C00096,Bukola Yakubu,Male,65+,Regular,Uyo,2020-08-25,High Value
+C00097,Yusuf Eze,Female,18-24,Regular,Onitsha,2021-02-04,Low Value
+C00098,Patience Chukwu,Male,65+,Occasional,Akure,2018-07-27,High Value
+C00099,Yusuf Aliyu,Male,45-54,Regular,Surulere,2024-03-20,Low Value
+C00100,Chinedu Afolabi,Male,65+,Premium,Lagos Island,2024-09-07,High Value
+C00101,Tunde Okafor,Female,45-54,Regular,Uyo,2018-04-16,High Value
+C00102,Adaeze Abubakar,Female,35-44,Occasional,Jos,2020-12-22,Medium Value
+C00103,Ibrahim Aliyu,Male,35-44,Regular,Onitsha,2022-01-22,High Value
+C00104,Ibrahim Uche,Female,35-44,Regular,Jos,2025-05-22,Low Value
+C00105,Amaka Eze,Female,45-54,Regular,Ikeja,2022-10-13,Medium Value
+C00106,Emeka Abubakar,Female,35-44,Premium,Uyo,2019-08-31,Medium Value
+C00107,Ibrahim Uche,Female,35-44,Regular,Ikeja,2024-09-12,Low Value
+C00108,Chidi Obi,Male,35-44,Occasional,Abuja,2025-04-20,Medium Value
+C00109,Kelechi Nnamdi,Male,25-34,Regular,Ibadan,2023-02-01,Medium Value
+C00110,Amaka Okoro,Male,18-24,Regular,Abuja,2019-09-18,High Value
+C00111,Ngozi Abubakar,Male,35-44,Premium,Uyo,2026-04-15,Low Value
+C00112,Ngozi Nnamdi,Male,65+,Premium,Uyo,2022-08-10,High Value
+C00113,Yusuf Abubakar,Female,25-34,Regular,Onitsha,2023-09-10,Medium Value
+C00114,Chika Bello,Female,45-54,Corporate,Onitsha,2021-02-15,Medium Value
+C00115,Zainab Okafor,Female,18-24,Regular,Abeokuta,2025-03-17,Low Value
+C00116,Chinedu Nwosu,Male,35-44,Regular,Surulere,2021-12-08,Low Value
+C00117,Emeka Suleiman,Male,25-34,Premium,Lagos Island,2018-05-06,Medium Value
+C00118,Uche Aliyu,Male,55-64,Regular,Onitsha,2026-02-03,High Value
+C00119,Segun Danjuma,Female,35-44,Regular,Ibadan,2018-12-01,Medium Value
+C00120,Ifeoma Yakubu,Female,18-24,Occasional,Enugu,2023-09-30,Medium Value
+C00121,Folake Adeyemi,Male,25-34,Premium,Lagos Island,2025-06-25,Medium Value
+C00122,Sunday Abubakar,Female,25-34,Regular,Jos,2020-05-15,Low Value
+C00123,Tunde Adekunle,Male,35-44,Occasional,Uyo,2019-12-21,High Value
+C00124,Adaeze Nnamdi,Male,35-44,Regular,Uyo,2026-04-28,Medium Value
+C00125,Kelechi Nnamdi,Female,18-24,Regular,Uyo,2024-06-06,High Value
+C00126,Femi Yakubu,Male,35-44,Regular,Abuja,2024-12-06,Medium Value
+C00127,Emeka Adekunle,Female,45-54,Regular,Lagos Island,2023-11-17,High Value
+C00128,Ifeoma Suleiman,Male,55-64,Regular,Surulere,2025-02-06,Medium Value
+C00129,Segun Okonkwo,Male,35-44,Occasional,Ikeja,2019-08-23,High Value
+C00130,Grace Danjuma,Female,45-54,Occasional,Onitsha,2025-01-16,Medium Value
+C00131,Uche Abubakar,Female,18-24,Regular,Abeokuta,2025-01-13,Low Value
+C00132,Adaeze Yakubu,Male,25-34,Premium,Lagos Island,2024-08-19,Medium Value
+C00133,Emeka Balogun,Female,35-44,Premium,Lagos Island,2021-03-21,Medium Value
+C00134,Damilola Okonkwo,Female,35-44,Premium,Lagos Island,2024-05-30,Medium Value
+C00135,Musa Balogun,Male,18-24,Occasional,Ilorin,2021-11-07,Medium Value
+C00136,Bimpe Yakubu,Female,55-64,Regular,Uyo,2024-11-02,Low Value
+C00137,Patience Chukwu,Male,25-34,Premium,Uyo,2018-08-03,Medium Value
+C00138,Bukola Ogunleye,Male,25-34,Premium,Surulere,2026-02-12,Low Value
+C00139,Damilola Adekunle,Male,35-44,Corporate,Abeokuta,2021-06-24,Medium Value
+C00140,Patience Chukwu,Male,45-54,Occasional,Ilorin,2025-03-20,High Value
+C00141,Blessing Suleiman,Female,18-24,Regular,Akure,2025-07-09,Medium Value
+C00142,Yusuf Bello,Male,25-34,Regular,Ikeja,2023-06-15,Medium Value
+C00143,Kunle Suleiman,Male,35-44,Occasional,Onitsha,2024-01-20,High Value
+C00144,Tunde Nwosu,Male,45-54,Occasional,Lagos Island,2022-03-24,Low Value
+C00145,Blessing Yakubu,Male,65+,Premium,Ilorin,2018-06-28,Medium Value
+C00146,Folake Okoro,Male,25-34,Corporate,Ilorin,2020-09-06,Medium Value
+C00147,Sunday Adekunle,Female,65+,Occasional,Onitsha,2021-02-28,High Value
+C00148,Adaeze Okoro,Female,35-44,Regular,Ilorin,2020-10-21,Low Value
+C00149,Emeka Nwosu,Female,35-44,Premium,Abuja,2021-03-13,High Value
+C00150,Kunle Danjuma,Female,55-64,Regular,Uyo,2020-06-28,Medium Value
+C00151,Kelechi Balogun,Female,25-34,Regular,Ikeja,2020-08-23,Low Value
+C00152,Uche Abubakar,Male,18-24,Corporate,Jos,2025-04-16,Low Value
+C00153,Sunday Okoro,Female,35-44,Corporate,Lagos Island,2019-07-23,Medium Value
+C00154,Zainab Ogunleye,Female,18-24,Regular,Abeokuta,2019-09-05,High Value
+C00155,Blessing Ogunleye,Female,18-24,Occasional,Jos,2020-09-03,Medium Value
+C00156,Damilola Suleiman,Male,45-54,Regular,Lagos Island,2018-03-09,Medium Value
+C00157,Chika Nnamdi,Male,35-44,Regular,Uyo,2020-09-12,High Value
+C00158,Zainab Suleiman,Male,25-34,Premium,Uyo,2023-11-25,Low Value
+C00159,Halima Okafor,Female,45-54,Regular,Ikeja,2020-11-04,Low Value
+C00160,Sunday Chukwu,Male,18-24,Premium,Lagos Island,2026-03-31,Low Value
+C00161,Femi Okoro,Male,45-54,Regular,Ilorin,2025-09-05,High Value
+C00162,Adaeze Okonkwo,Male,25-34,Regular,Uyo,2020-04-05,Low Value
+C00163,Grace Afolabi,Male,45-54,Regular,Uyo,2024-02-03,Low Value
+C00164,Bukola Chukwu,Female,18-24,Regular,Uyo,2018-07-15,Low Value
+C00165,Uche Nwosu,Female,45-54,Regular,Ilorin,2022-05-03,Medium Value
+C00166,Halima Nnamdi,Male,35-44,Corporate,Lagos Island,2018-12-05,Medium Value
+C00167,Ifeoma Balogun,Female,35-44,Regular,Onitsha,2021-08-08,Low Value
+C00168,Musa Danjuma,Female,35-44,Occasional,Uyo,2019-11-14,Medium Value
+C00169,Segun Adeyemi,Male,45-54,Regular,Ilorin,2022-11-17,Low Value
+C00170,Bimpe Okafor,Male,45-54,Occasional,Ilorin,2025-08-14,High Value
+C00171,Aisha Yakubu,Female,25-34,Premium,Onitsha,2018-10-03,High Value
+C00172,Ngozi Yakubu,Female,45-54,Premium,Ilorin,2023-01-17,Medium Value
+C00173,Damilola Afolabi,Male,65+,Regular,Lagos Island,2021-07-11,Medium Value
+C00174,Rita Obi,Male,25-34,Regular,Ilorin,2022-05-05,Medium Value
+C00175,Folake Okoro,Male,18-24,Occasional,Ilorin,2024-11-11,High Value
+C00176,Femi Balogun,Female,35-44,Occasional,Onitsha,2025-12-31,Medium Value
+C00177,Bukola Nwosu,Male,45-54,Premium,Ikeja,2021-05-13,Low Value
+C00178,Aisha Okoro,Male,25-34,Premium,Ilorin,2019-07-23,Low Value
+C00179,Tunde Ogunleye,Male,18-24,Regular,Jos,2024-03-09,Medium Value
+C00180,Kunle Aliyu,Male,18-24,Regular,Ikeja,2022-08-05,Medium Value
+C00181,Ibrahim Yakubu,Male,55-64,Occasional,Enugu,2025-08-17,High Value
+C00182,Blessing Suleiman,Male,45-54,Premium,Abeokuta,2019-06-13,High Value
+C00183,Rita Bello,Female,55-64,Premium,Abeokuta,2021-08-14,Low Value
+C00184,Yusuf Obi,Female,18-24,Regular,Onitsha,2020-10-23,High Value
+C00185,Bimpe Aliyu,Male,25-34,Premium,Onitsha,2025-03-10,Medium Value
+C00186,Adaeze Okafor,Male,18-24,Premium,Enugu,2024-04-27,Medium Value
+C00187,Sunday Aliyu,Female,35-44,Regular,Onitsha,2020-05-13,Medium Value
+C00188,Grace Bello,Female,25-34,Regular,Lagos Island,2021-05-22,High Value
+C00189,Grace Danjuma,Male,25-34,Regular,Uyo,2022-08-30,Low Value
+C00190,Kelechi Abubakar,Female,35-44,Regular,Abeokuta,2021-11-15,Medium Value
+C00191,Femi Bello,Male,18-24,Regular,Uyo,2020-12-31,Low Value
+C00192,Aisha Nwosu,Female,55-64,Occasional,Akure,2022-09-09,Low Value
+C00193,Ibrahim Danjuma,Female,55-64,Premium,Ikeja,2023-08-03,Low Value
+C00194,Femi Bello,Male,35-44,Regular,Abeokuta,2023-09-02,Medium Value
+C00195,Amaka Okoro,Female,35-44,Occasional,Abuja,2025-05-03,High Value
+C00196,Halima Yakubu,Female,25-34,Regular,Enugu,2020-12-19,Medium Value
+C00197,Zainab Uche,Male,25-34,Premium,Onitsha,2022-01-24,Medium Value
+C00198,Amaka Ogunleye,Male,18-24,Regular,Uyo,2024-12-27,Low Value
+C00199,Zainab Yakubu,Male,25-34,Premium,Ilorin,2021-10-20,High Value
+C00200,Tunde Chukwu,Female,35-44,Regular,Ilorin,2018-06-09,High Value
+C00201,Uche Nwosu,Female,65+,Occasional,Abeokuta,2024-11-16,Medium Value
+C00202,Kunle Suleiman,Female,45-54,Regular,Lagos Island,2023-09-09,Medium Value
+C00203,Ifeoma Nnamdi,Female,45-54,Occasional,Lagos Island,2025-07-22,Medium Value
+C00204,Damilola Aliyu,Male,45-54,Premium,Lagos Island,2020-12-23,Medium Value
+C00205,Tobi Adekunle,Male,45-54,Regular,Enugu,2026-02-01,Low Value
+C00206,Yusuf Okafor,Female,25-34,Regular,Akure,2019-03-27,Medium Value
+C00207,Rita Okoro,Male,45-54,Premium,Onitsha,2024-11-09,Medium Value
+C00208,Grace Suleiman,Female,25-34,Regular,Onitsha,2025-06-05,Medium Value
+C00209,Amaka Afolabi,Female,25-34,Regular,Onitsha,2021-12-22,Medium Value
+C00210,Sunday Uche,Male,45-54,Premium,Jos,2021-05-04,Medium Value
+C00211,Segun Uche,Male,35-44,Premium,Uyo,2026-02-03,Low Value
+C00212,Folake Adeyemi,Female,65+,Regular,Ilorin,2019-08-23,Low Value
+C00213,Grace Okonkwo,Male,45-54,Regular,Onitsha,2026-05-20,Low Value
+C00214,Ifeoma Ogunleye,Male,25-34,Occasional,Ilorin,2019-07-17,Medium Value
+C00215,Adaeze Eze,Female,25-34,Premium,Surulere,2020-08-11,High Value
+C00216,Rita Nwosu,Female,35-44,Occasional,Jos,2024-03-04,Medium Value
+C00217,Sunday Uche,Female,25-34,Regular,Ikeja,2020-03-27,Low Value
+C00218,Zainab Adeyemi,Male,25-34,Occasional,Lagos Island,2020-08-09,Low Value
+C00219,Patience Okoro,Male,55-64,Corporate,Abeokuta,2022-06-15,Low Value
+C00220,Folake Aliyu,Male,55-64,Regular,Ilorin,2018-02-07,Low Value
+C00221,Ibrahim Okoro,Male,55-64,Premium,Akure,2024-02-04,Low Value
+C00222,Bimpe Danjuma,Female,45-54,Regular,Uyo,2021-09-16,Low Value
+C00223,Amaka Okonkwo,Male,35-44,Premium,Uyo,2024-05-14,Low Value
+C00224,Uche Balogun,Female,35-44,Regular,Surulere,2023-10-12,Medium Value
+C00225,Chinedu Afolabi,Female,25-34,Occasional,Uyo,2020-10-13,Medium Value
+C00226,Chika Okafor,Female,35-44,Occasional,Lagos Island,2026-02-08,Low Value
+C00227,Folake Nwosu,Female,45-54,Corporate,Abeokuta,2023-03-22,Low Value
+C00228,Rita Uche,Female,35-44,Regular,Surulere,2025-03-01,Medium Value
+C00229,Halima Ogunleye,Female,25-34,Premium,Jos,2023-02-07,Low Value
+C00230,Kunle Okonkwo,Male,45-54,Premium,Ikeja,2025-06-13,Medium Value
+C00231,Musa Yakubu,Male,55-64,Regular,Onitsha,2023-12-04,Low Value
+C00232,Chika Obi,Male,25-34,Occasional,Ilorin,2020-04-08,High Value
+C00233,Musa Aliyu,Female,18-24,Premium,Lagos Island,2020-04-21,Medium Value
+C00234,Blessing Danjuma,Male,35-44,Occasional,Abeokuta,2023-10-04,Low Value
+C00235,Segun Okafor,Male,35-44,Regular,Uyo,2022-06-10,Low Value
+C00236,Adaeze Balogun,Female,18-24,Regular,Surulere,2024-01-26,Low Value
+C00237,Damilola Nnamdi,Female,65+,Regular,Uyo,2026-03-07,Medium Value
+C00238,Amaka Obi,Male,35-44,Regular,Lagos Island,2025-08-28,Low Value
+C00239,Ibrahim Abubakar,Male,45-54,Occasional,Abeokuta,2022-05-29,Medium Value
+C00240,Zainab Nnamdi,Female,45-54,Regular,Uyo,2026-01-24,High Value
+C00241,Rita Eze,Male,45-54,Regular,Lagos Island,2020-02-12,Medium Value
+C00242,Ifeoma Ogunleye,Male,35-44,Occasional,Lagos Island,2018-10-03,Medium Value
+C00243,Kelechi Danjuma,Male,35-44,Occasional,Lagos Island,2018-07-01,High Value
+C00244,Aisha Aliyu,Female,35-44,Occasional,Uyo,2021-03-30,Medium Value
+C00245,Amaka Suleiman,Male,25-34,Regular,Onitsha,2019-08-10,Low Value
+C00246,Rita Nwosu,Female,35-44,Regular,Uyo,2026-03-31,Low Value
+C00247,Kelechi Suleiman,Female,45-54,Regular,Abeokuta,2025-07-12,Medium Value
+C00248,Zainab Okoro,Male,45-54,Regular,Surulere,2026-06-18,Low Value
+C00249,Zainab Nnamdi,Female,35-44,Regular,Abeokuta,2018-08-25,Medium Value
+C00250,Damilola Balogun,Female,45-54,Regular,Akure,2021-09-14,High Value
+C00251,Amaka Ogunleye,Male,55-64,Regular,Enugu,2022-03-25,Low Value
+C00252,Yusuf Okoro,Male,55-64,Regular,Lagos Island,2024-04-08,Medium Value
+C00253,Halima Eze,Female,55-64,Occasional,Akure,2020-02-18,Medium Value
+C00254,Zainab Chukwu,Female,25-34,Premium,Uyo,2020-09-07,Medium Value
+C00255,Ibrahim Okoro,Female,18-24,Corporate,Jos,2022-01-13,Low Value
+C00256,Rita Okonkwo,Female,25-34,Regular,Abeokuta,2021-08-04,Low Value
+C00257,Segun Obi,Female,25-34,Regular,Abeokuta,2018-03-08,Medium Value
+C00258,Grace Obi,Female,25-34,Occasional,Jos,2020-10-03,Medium Value
+C00259,Patience Yakubu,Male,18-24,Premium,Lagos Island,2026-03-21,Low Value
+C00260,Damilola Adeyemi,Male,45-54,Regular,Lagos Island,2024-01-30,Low Value
+C00261,Tunde Bello,Male,45-54,Regular,Ilorin,2022-08-17,Medium Value
+C00262,Tobi Ogunleye,Female,35-44,Regular,Onitsha,2018-09-05,Medium Value
+C00263,Chinedu Suleiman,Female,35-44,Regular,Ilorin,2018-02-18,Low Value
+C00264,Blessing Nwosu,Male,55-64,Premium,Abeokuta,2025-07-23,High Value
+C00265,Segun Yakubu,Female,45-54,Regular,Uyo,2023-11-27,Medium Value
+C00266,Musa Bello,Female,45-54,Occasional,Lagos Island,2020-09-23,High Value
+C00267,Kelechi Obi,Female,18-24,Regular,Lagos Island,2022-04-03,High Value
+C00268,Damilola Chukwu,Male,55-64,Corporate,Abeokuta,2022-11-13,Medium Value
+C00269,Chidi Aliyu,Female,25-34,Corporate,Ibadan,2025-10-06,Low Value
+C00270,Amaka Adeyemi,Male,55-64,Regular,Akure,2024-04-27,Medium Value
+C00271,Kunle Adekunle,Male,25-34,Premium,Enugu,2026-06-09,Low Value
+C00272,Amaka Obi,Female,25-34,Occasional,Ikeja,2022-05-13,Medium Value
+C00273,Adaeze Eze,Female,25-34,Regular,Onitsha,2021-11-17,Low Value
+C00274,Kelechi Chukwu,Male,35-44,Occasional,Ilorin,2024-09-05,Medium Value
+C00275,Zainab Adekunle,Female,25-34,Premium,Uyo,2021-12-28,High Value
+C00276,Folake Bello,Male,18-24,Regular,Surulere,2024-12-08,Low Value
+C00277,Ngozi Eze,Male,18-24,Regular,Uyo,2021-07-21,Low Value
+C00278,Tunde Balogun,Male,35-44,Premium,Ilorin,2019-02-23,Medium Value
+C00279,Emeka Yakubu,Male,35-44,Occasional,Uyo,2018-04-18,High Value
+C00280,Kelechi Balogun,Male,35-44,Regular,Uyo,2022-08-22,High Value
+C00281,Folake Afolabi,Female,18-24,Regular,Ibadan,2021-01-06,Medium Value
+C00282,Patience Balogun,Female,25-34,Regular,Jos,2023-06-07,Medium Value
+C00283,Femi Eze,Male,25-34,Corporate,Uyo,2020-03-11,Low Value
+C00284,Patience Chukwu,Female,25-34,Occasional,Onitsha,2022-04-06,High Value
+C00285,Tobi Okonkwo,Female,25-34,Corporate,Uyo,2021-08-06,Medium Value
+C00286,Damilola Okoro,Male,25-34,Regular,Uyo,2025-10-17,Medium Value
+C00287,Yusuf Aliyu,Male,45-54,Premium,Ilorin,2024-04-28,Low Value
+C00288,Femi Uche,Male,45-54,Occasional,Abuja,2020-05-08,Low Value
+C00289,Damilola Uche,Male,25-34,Regular,Abuja,2019-07-25,Low Value
+C00290,Femi Ogunleye,Female,35-44,Premium,Abuja,2018-10-30,Medium Value
+C00291,Musa Obi,Male,18-24,Regular,Uyo,2022-01-12,High Value
+C00292,Adaeze Aliyu,Female,65+,Regular,Abuja,2024-11-14,High Value
+C00293,Segun Bello,Male,35-44,Regular,Enugu,2019-02-08,Low Value
+C00294,Ngozi Okafor,Female,18-24,Regular,Ikeja,2019-09-10,High Value
+C00295,Tunde Yakubu,Female,25-34,Occasional,Ilorin,2026-03-10,Medium Value
+C00296,Ifeoma Danjuma,Female,25-34,Regular,Ikeja,2023-05-05,High Value
+C00297,Damilola Eze,Male,55-64,Occasional,Ilorin,2021-11-06,High Value
+C00298,Uche Obi,Female,65+,Regular,Uyo,2019-10-18,Medium Value
+C00299,Damilola Nnamdi,Female,18-24,Premium,Akure,2020-02-03,Medium Value
+C00300,Kelechi Okafor,Male,25-34,Occasional,Ikeja,2022-10-26,Medium Value
+C00301,Bimpe Yakubu,Female,25-34,Regular,Jos,2024-01-09,Medium Value
+C00302,Uche Ogunleye,Female,35-44,Premium,Uyo,2025-03-02,Medium Value
+C00303,Tobi Nwosu,Female,55-64,Premium,Surulere,2023-02-19,Medium Value
+C00304,Folake Eze,Male,25-34,Regular,Uyo,2020-09-04,Medium Value
+C00305,Chika Adekunle,Female,25-34,Premium,Lagos Island,2019-07-19,Medium Value
+C00306,Folake Abubakar,Male,25-34,Premium,Lagos Island,2023-06-29,Low Value
+C00307,Grace Abubakar,Male,45-54,Corporate,Ilorin,2018-02-09,Low Value
+C00308,Amaka Okoro,Female,45-54,Regular,Lagos Island,2022-08-03,High Value
+C00309,Patience Bello,Female,18-24,Regular,Abeokuta,2018-05-07,High Value
+C00310,Chika Okoro,Male,35-44,Regular,Onitsha,2023-02-17,Low Value
+C00311,Zainab Adeyemi,Female,35-44,Corporate,Ikeja,2022-02-11,Low Value
+C00312,Sunday Bello,Female,55-64,Regular,Ibadan,2025-05-01,Medium Value
+C00313,Femi Eze,Male,25-34,Occasional,Uyo,2018-12-23,Low Value
+C00314,Damilola Nnamdi,Male,35-44,Occasional,Akure,2024-11-04,Low Value
+C00315,Ngozi Obi,Female,35-44,Regular,Abeokuta,2024-05-24,Medium Value
+C00316,Bukola Suleiman,Male,18-24,Occasional,Abuja,2020-12-31,Low Value
+C00317,Bukola Abubakar,Male,25-34,Occasional,Abeokuta,2021-02-09,Low Value
+C00318,Kelechi Okoro,Male,35-44,Regular,Abuja,2025-08-01,Medium Value
+C00319,Damilola Balogun,Female,35-44,Regular,Uyo,2018-11-06,Medium Value
+C00320,Uche Aliyu,Male,55-64,Occasional,Ikeja,2023-06-23,Low Value
+C00321,Damilola Yakubu,Male,45-54,Regular,Abuja,2023-02-21,Low Value
+C00322,Segun Chukwu,Female,25-34,Premium,Enugu,2023-07-20,Low Value
+C00323,Chidi Adeyemi,Male,18-24,Occasional,Ilorin,2021-11-08,High Value
+C00324,Femi Danjuma,Male,65+,Regular,Surulere,2019-10-10,Low Value
+C00325,Bimpe Afolabi,Male,35-44,Regular,Uyo,2021-05-21,Low Value
+C00326,Bimpe Adeyemi,Female,35-44,Occasional,Abeokuta,2025-04-11,Medium Value
+C00327,Musa Eze,Male,25-34,Regular,Enugu,2019-01-09,Medium Value
+C00328,Femi Okafor,Male,45-54,Occasional,Abuja,2025-08-17,Low Value
+C00329,Emeka Bello,Female,18-24,Occasional,Ikeja,2023-05-11,Medium Value
+C00330,Tunde Adekunle,Male,35-44,Occasional,Ikeja,2021-05-10,Medium Value
+C00331,Tobi Nwosu,Female,25-34,Regular,Surulere,2018-02-04,Low Value
+C00332,Amaka Danjuma,Male,18-24,Regular,Ikeja,2024-11-28,Medium Value
+C00333,Ngozi Nnamdi,Female,45-54,Regular,Ikeja,2022-04-22,Medium Value
+C00334,Tobi Ogunleye,Female,45-54,Occasional,Abeokuta,2024-09-27,Medium Value
+C00335,Ibrahim Okonkwo,Female,25-34,Regular,Abeokuta,2024-10-21,Medium Value
+C00336,Aisha Okoro,Male,35-44,Corporate,Uyo,2019-04-07,Low Value
+C00337,Kelechi Aliyu,Female,25-34,Occasional,Jos,2019-06-25,Low Value
+C00338,Chinedu Aliyu,Male,18-24,Regular,Lagos Island,2018-10-26,Low Value
+C00339,Ibrahim Uche,Female,25-34,Regular,Onitsha,2022-06-19,Medium Value
+C00340,Segun Balogun,Female,18-24,Corporate,Surulere,2019-09-18,Medium Value
+C00341,Chika Balogun,Female,45-54,Occasional,Abeokuta,2022-05-20,High Value
+C00342,Rita Nnamdi,Male,35-44,Premium,Abeokuta,2018-12-20,Low Value
+C00343,Halima Nwosu,Male,18-24,Regular,Lagos Island,2025-05-19,High Value
+C00344,Ibrahim Suleiman,Female,25-34,Regular,Ibadan,2021-11-21,Low Value
+C00345,Sunday Okafor,Female,45-54,Regular,Ikeja,2019-04-29,Medium Value
+C00346,Damilola Balogun,Female,35-44,Regular,Jos,2024-06-19,Low Value
+C00347,Ngozi Nwosu,Female,45-54,Occasional,Ikeja,2019-11-15,Medium Value
+C00348,Chinedu Adeyemi,Male,25-34,Premium,Uyo,2023-09-16,Low Value
+C00349,Rita Adeyemi,Female,25-34,Regular,Uyo,2020-01-04,Medium Value
+C00350,Chika Yakubu,Male,35-44,Corporate,Lagos Island,2018-11-16,Medium Value
+C00351,Adaeze Adekunle,Male,55-64,Occasional,Abeokuta,2023-10-14,Medium Value
+C00352,Femi Okafor,Female,25-34,Premium,Abeokuta,2024-03-15,Low Value
+C00353,Femi Yakubu,Female,65+,Occasional,Onitsha,2020-09-20,Low Value
+C00354,Tunde Okafor,Female,18-24,Premium,Lagos Island,2020-10-01,Low Value
+C00355,Sunday Adekunle,Female,18-24,Premium,Abeokuta,2018-01-06,Medium Value
+C00356,Tunde Afolabi,Male,18-24,Regular,Ilorin,2018-09-03,Medium Value
+C00357,Femi Balogun,Male,35-44,Premium,Uyo,2022-03-06,High Value
+C00358,Adaeze Nnamdi,Male,25-34,Regular,Uyo,2024-05-14,Low Value
+C00359,Musa Chukwu,Female,35-44,Regular,Akure,2022-05-29,High Value
+C00360,Ifeoma Abubakar,Male,25-34,Premium,Abuja,2024-07-22,High Value
+C00361,Sunday Okonkwo,Female,25-34,Regular,Ikeja,2022-01-07,High Value
+C00362,Folake Ogunleye,Male,25-34,Occasional,Surulere,2025-09-11,High Value
+C00363,Ngozi Adekunle,Male,45-54,Regular,Lagos Island,2020-10-13,High Value
+C00364,Bukola Danjuma,Male,18-24,Regular,Surulere,2022-07-15,High Value
+C00365,Kunle Bello,Male,25-34,Regular,Ikeja,2018-09-10,Medium Value
+C00366,Rita Balogun,Male,65+,Regular,Ilorin,2020-11-26,Low Value
+C00367,Chidi Chukwu,Male,18-24,Premium,Lagos Island,2019-01-12,Low Value
+C00368,Kunle Adekunle,Female,18-24,Occasional,Lagos Island,2022-11-10,Medium Value
+C00369,Segun Afolabi,Female,55-64,Regular,Onitsha,2020-02-06,Medium Value
+C00370,Folake Okoro,Female,55-64,Premium,Ikeja,2025-04-05,Medium Value
+C00371,Blessing Okonkwo,Male,35-44,Occasional,Lagos Island,2019-07-17,Low Value
+C00372,Ngozi Okoro,Female,25-34,Premium,Uyo,2025-12-31,Medium Value
+C00373,Chinedu Chukwu,Male,18-24,Occasional,Ibadan,2020-01-07,High Value
+C00374,Ibrahim Yakubu,Male,65+,Regular,Abeokuta,2023-04-17,Medium Value
+C00375,Adaeze Bello,Female,25-34,Occasional,Lagos Island,2026-04-07,High Value
+C00376,Uche Yakubu,Male,45-54,Regular,Enugu,2024-08-23,Medium Value
+C00377,Yusuf Okoro,Female,25-34,Regular,Lagos Island,2024-04-25,Medium Value
+C00378,Chinedu Suleiman,Female,18-24,Corporate,Akure,2020-06-15,Low Value
+C00379,Musa Nwosu,Female,18-24,Regular,Surulere,2021-10-27,Low Value
+C00380,Bukola Yakubu,Male,25-34,Corporate,Uyo,2023-11-26,Medium Value
+C00381,Folake Chukwu,Male,65+,Occasional,Abuja,2021-10-10,Low Value
+C00382,Damilola Chukwu,Male,45-54,Premium,Onitsha,2023-06-19,Low Value
+C00383,Amaka Aliyu,Male,25-34,Occasional,Abeokuta,2020-07-03,High Value
+C00384,Chinedu Aliyu,Female,55-64,Occasional,Enugu,2026-03-05,High Value
+C00385,Uche Ogunleye,Male,35-44,Regular,Jos,2024-10-03,High Value
+C00386,Emeka Bello,Female,65+,Regular,Ikeja,2026-05-11,Low Value
+C00387,Damilola Chukwu,Female,18-24,Regular,Ikeja,2025-07-07,Medium Value
+C00388,Halima Okafor,Male,25-34,Occasional,Lagos Island,2019-03-19,Low Value
+C00389,Chidi Adekunle,Female,35-44,Regular,Jos,2023-07-13,Low Value
+C00390,Damilola Bello,Male,35-44,Occasional,Lagos Island,2024-06-25,Medium Value
+C00391,Segun Eze,Male,25-34,Occasional,Lagos Island,2021-07-29,Low Value
+C00392,Chidi Balogun,Female,35-44,Premium,Jos,2024-02-19,Low Value
+C00393,Damilola Nwosu,Female,25-34,Regular,Akure,2022-11-02,Low Value
+C00394,Musa Obi,Female,35-44,Regular,Ikeja,2022-08-04,High Value
+C00395,Zainab Okoro,Male,18-24,Regular,Ikeja,2024-05-30,Medium Value
+C00396,Damilola Ogunleye,Female,25-34,Regular,Lagos Island,2025-06-04,Medium Value
+C00397,Grace Eze,Female,45-54,Premium,Ibadan,2018-12-02,High Value
+C00398,Kelechi Nwosu,Female,55-64,Regular,Ilorin,2024-02-07,High Value
+C00399,Femi Afolabi,Male,45-54,Premium,Surulere,2022-12-07,Low Value
+C00400,Ifeoma Balogun,Female,45-54,Regular,Enugu,2025-06-26,Medium Value
+C00401,Kunle Adekunle,Female,65+,Occasional,Jos,2018-09-07,Medium Value
+C00402,Grace Uche,Male,25-34,Occasional,Lagos Island,2020-08-23,Medium Value
+C00403,Patience Aliyu,Male,18-24,Occasional,Lagos Island,2023-10-18,Low Value
+C00404,Yusuf Okonkwo,Male,18-24,Regular,Abuja,2019-11-16,Medium Value
+C00405,Tunde Ogunleye,Female,25-34,Occasional,Ikeja,2025-01-13,High Value
+C00406,Kelechi Obi,Female,55-64,Premium,Lagos Island,2024-03-28,Low Value
+C00407,Chika Suleiman,Female,18-24,Regular,Enugu,2024-12-27,Medium Value
+C00408,Rita Eze,Male,45-54,Occasional,Uyo,2019-02-15,Low Value
+C00409,Kelechi Okoro,Female,18-24,Regular,Surulere,2020-12-17,Medium Value
+C00410,Musa Adekunle,Male,25-34,Occasional,Abeokuta,2025-08-20,High Value
+C00411,Rita Afolabi,Female,18-24,Occasional,Abeokuta,2023-05-01,Medium Value
+C00412,Bukola Eze,Male,18-24,Corporate,Ilorin,2023-07-07,Low Value
+C00413,Segun Nnamdi,Male,25-34,Regular,Abuja,2021-08-07,Low Value
+C00414,Bukola Yakubu,Male,35-44,Regular,Abeokuta,2023-10-17,Low Value
+C00415,Tunde Suleiman,Male,25-34,Occasional,Akure,2022-07-11,Low Value
+C00416,Adaeze Danjuma,Male,55-64,Occasional,Ibadan,2020-10-18,Medium Value
+C00417,Ibrahim Adekunle,Male,45-54,Regular,Jos,2023-03-17,Medium Value
+C00418,Bukola Okoro,Female,25-34,Occasional,Ibadan,2019-12-29,Low Value
+C00419,Emeka Uche,Male,25-34,Regular,Enugu,2025-09-22,Low Value
+C00420,Bukola Bello,Male,45-54,Regular,Abuja,2020-05-27,Medium Value
+C00421,Chinedu Okoro,Male,35-44,Premium,Lagos Island,2025-08-26,Medium Value
+C00422,Patience Uche,Female,25-34,Regular,Uyo,2024-10-27,Medium Value
+C00423,Femi Uche,Female,35-44,Regular,Uyo,2020-06-12,Medium Value
+C00424,Tobi Uche,Female,45-54,Premium,Uyo,2024-08-29,Low Value
+C00425,Uche Afolabi,Female,35-44,Corporate,Abeokuta,2025-03-08,High Value
+C00426,Sunday Bello,Male,45-54,Occasional,Onitsha,2023-10-20,Medium Value
+C00427,Amaka Abubakar,Male,35-44,Corporate,Ibadan,2021-08-02,Low Value
+C00428,Kelechi Adeyemi,Male,25-34,Occasional,Onitsha,2022-07-16,Medium Value
+C00429,Rita Yakubu,Female,45-54,Occasional,Onitsha,2023-05-03,High Value
+C00430,Grace Abubakar,Female,45-54,Premium,Lagos Island,2019-02-04,Low Value
+C00431,Damilola Balogun,Male,25-34,Occasional,Abeokuta,2021-10-06,Medium Value
+C00432,Ngozi Afolabi,Female,35-44,Regular,Lagos Island,2021-09-19,Low Value
+C00433,Chika Ogunleye,Male,35-44,Regular,Ikeja,2024-07-18,Low Value
+C00434,Ibrahim Uche,Female,18-24,Occasional,Surulere,2022-04-13,Low Value
+C00435,Blessing Aliyu,Female,18-24,Occasional,Lagos Island,2021-11-04,Low Value
+C00436,Uche Nwosu,Female,35-44,Regular,Ibadan,2023-06-21,Medium Value
+C00437,Chika Nwosu,Female,45-54,Occasional,Surulere,2019-11-22,Medium Value
+C00438,Blessing Adekunle,Female,65+,Regular,Lagos Island,2025-02-07,Medium Value
+C00439,Ngozi Okafor,Female,45-54,Premium,Lagos Island,2026-03-12,Low Value
+C00440,Halima Bello,Male,45-54,Regular,Surulere,2025-01-10,High Value
+C00441,Chika Uche,Male,18-24,Regular,Abeokuta,2023-08-24,Medium Value
+C00442,Tobi Suleiman,Female,35-44,Occasional,Surulere,2023-11-02,Medium Value
+C00443,Ngozi Okonkwo,Male,55-64,Corporate,Uyo,2023-07-01,High Value
+C00444,Halima Abubakar,Male,45-54,Premium,Lagos Island,2020-07-07,High Value
+C00445,Damilola Adeyemi,Female,55-64,Regular,Onitsha,2025-12-22,Medium Value
+C00446,Adaeze Eze,Male,18-24,Regular,Ilorin,2024-08-29,Medium Value
+C00447,Segun Okoro,Male,25-34,Occasional,Lagos Island,2024-02-20,Medium Value
+C00448,Ifeoma Suleiman,Female,35-44,Occasional,Abuja,2025-06-03,Low Value
+C00449,Ibrahim Ogunleye,Male,25-34,Occasional,Jos,2019-03-06,High Value
+C00450,Sunday Afolabi,Male,25-34,Regular,Lagos Island,2020-03-29,High Value
+C00451,Rita Okonkwo,Female,25-34,Regular,Ikeja,2023-07-27,Low Value
+C00452,Amaka Okoro,Male,55-64,Occasional,Ikeja,2024-06-09,Low Value
+C00453,Chidi Afolabi,Male,35-44,Corporate,Ibadan,2019-02-19,Medium Value
+C00454,Kunle Nwosu,Male,55-64,Regular,Uyo,2019-02-13,Medium Value
+C00455,Ifeoma Adeyemi,Male,55-64,Occasional,Lagos Island,2019-04-20,Medium Value
+C00456,Tobi Afolabi,Male,25-34,Regular,Ikeja,2022-11-28,Medium Value
+C00457,Segun Adekunle,Female,45-54,Premium,Lagos Island,2023-02-13,High Value
+C00458,Halima Adeyemi,Male,18-24,Corporate,Jos,2025-10-22,Low Value
+C00459,Femi Nwosu,Female,45-54,Premium,Surulere,2025-08-10,Medium Value
+C00460,Ifeoma Nnamdi,Female,18-24,Regular,Uyo,2023-06-23,High Value
+C00461,Ibrahim Aliyu,Male,65+,Occasional,Uyo,2025-08-08,Medium Value
+C00462,Musa Ogunleye,Male,35-44,Occasional,Jos,2025-09-20,Medium Value
+C00463,Damilola Adekunle,Male,45-54,Premium,Onitsha,2025-08-02,High Value
+C00464,Rita Nwosu,Female,55-64,Occasional,Ikeja,2025-03-20,Low Value
+C00465,Aisha Chukwu,Female,18-24,Regular,Uyo,2021-08-06,Medium Value
+C00466,Emeka Danjuma,Female,45-54,Regular,Jos,2020-08-20,Medium Value
+C00467,Grace Okafor,Male,25-34,Regular,Onitsha,2019-05-02,High Value
+C00468,Patience Ogunleye,Female,55-64,Premium,Ilorin,2019-01-08,Low Value
+C00469,Kunle Adeyemi,Male,45-54,Regular,Onitsha,2022-01-28,Medium Value
+C00470,Amaka Yakubu,Female,18-24,Occasional,Abeokuta,2026-01-14,High Value
+C00471,Kunle Uche,Female,45-54,Regular,Lagos Island,2021-12-25,Medium Value
+C00472,Halima Nnamdi,Male,25-34,Regular,Ikeja,2026-01-15,Low Value
+C00473,Yusuf Danjuma,Male,45-54,Regular,Abuja,2022-05-29,High Value
+C00474,Kunle Aliyu,Male,45-54,Premium,Enugu,2025-02-06,Low Value
+C00475,Grace Okafor,Male,35-44,Regular,Enugu,2019-07-06,Medium Value
+C00476,Sunday Nwosu,Male,45-54,Regular,Uyo,2023-09-14,Low Value
+C00477,Chidi Chukwu,Female,25-34,Premium,Abeokuta,2024-10-18,Medium Value
+C00478,Folake Danjuma,Male,18-24,Premium,Ilorin,2021-11-05,Medium Value
+C00479,Zainab Chukwu,Male,25-34,Premium,Abeokuta,2025-11-13,Low Value
+C00480,Tunde Nwosu,Female,45-54,Occasional,Onitsha,2025-07-17,Medium Value
+C00481,Amaka Nnamdi,Female,55-64,Regular,Lagos Island,2024-05-26,Medium Value
+C00482,Kelechi Abubakar,Male,45-54,Regular,Lagos Island,2018-04-14,Low Value
+C00483,Segun Abubakar,Male,45-54,Regular,Onitsha,2025-08-31,High Value
+C00484,Ifeoma Ogunleye,Male,45-54,Premium,Abeokuta,2023-01-28,Medium Value
+C00485,Folake Adeyemi,Female,25-34,Corporate,Uyo,2025-10-22,Low Value
+C00486,Chinedu Afolabi,Male,35-44,Occasional,Ilorin,2018-08-09,Low Value
+C00487,Musa Yakubu,Male,45-54,Corporate,Abeokuta,2025-02-08,Medium Value
+C00488,Emeka Nwosu,Male,45-54,Regular,Lagos Island,2025-08-28,Medium Value
+C00489,Segun Abubakar,Male,35-44,Regular,Uyo,2024-03-29,Medium Value
+C00490,Adaeze Abubakar,Female,35-44,Occasional,Onitsha,2019-09-27,Low Value
+C00491,Grace Aliyu,Female,18-24,Occasional,Ilorin,2021-05-18,Medium Value
+C00492,Ibrahim Balogun,Male,25-34,Premium,Ikeja,2020-01-24,Medium Value
+C00493,Amaka Chukwu,Female,25-34,Regular,Onitsha,2020-05-23,Medium Value
+C00494,Kunle Okafor,Male,35-44,Regular,Onitsha,2024-04-18,Low Value
+C00495,Adaeze Chukwu,Female,55-64,Corporate,Uyo,2020-09-25,Medium Value
+C00496,Folake Okafor,Female,35-44,Premium,Jos,2026-02-13,High Value
+C00497,Yusuf Chukwu,Male,55-64,Regular,Onitsha,2025-04-22,Medium Value
+C00498,Emeka Okonkwo,Male,55-64,Regular,Ikeja,2025-01-11,Medium Value
+C00499,Chidi Nnamdi,Male,45-54,Regular,Ilorin,2025-11-18,Low Value
+C00500,Emeka Balogun,Male,25-34,Regular,Ikeja,2018-06-05,Medium Value
+C00501,Rita Afolabi,Female,25-34,Premium,Abuja,2020-07-21,Medium Value
+C00502,Amaka Eze,Male,35-44,Premium,Enugu,2022-05-15,High Value
+C00503,Ngozi Suleiman,Male,25-34,Occasional,Onitsha,2018-10-25,High Value
+C00504,Kelechi Adekunle,Male,35-44,Premium,Surulere,2022-11-28,Low Value
+C00505,Folake Abubakar,Female,45-54,Corporate,Uyo,2024-02-14,Low Value
+C00506,Zainab Obi,Male,18-24,Regular,Onitsha,2018-02-15,Medium Value
+C00507,Emeka Uche,Male,45-54,Corporate,Uyo,2024-02-21,Medium Value
+C00508,Bukola Suleiman,Male,25-34,Regular,Ibadan,2025-03-30,High Value
+C00509,Amaka Aliyu,Male,55-64,Corporate,Onitsha,2020-01-13,Medium Value
+C00510,Emeka Uche,Male,25-34,Regular,Enugu,2024-03-01,Medium Value
+C00511,Ngozi Abubakar,Male,18-24,Premium,Akure,2021-09-17,Medium Value
+C00512,Uche Ogunleye,Female,45-54,Regular,Enugu,2023-01-20,Medium Value
+C00513,Blessing Nwosu,Male,25-34,Occasional,Abuja,2021-07-19,Medium Value
+C00514,Tunde Chukwu,Female,35-44,Regular,Abeokuta,2022-01-12,Medium Value
+C00515,Bimpe Ogunleye,Male,45-54,Occasional,Surulere,2019-03-22,Low Value
+C00516,Segun Balogun,Male,55-64,Occasional,Lagos Island,2020-03-15,Low Value
+C00517,Kelechi Aliyu,Male,55-64,Premium,Onitsha,2024-06-29,Low Value
+C00518,Grace Abubakar,Female,25-34,Occasional,Enugu,2024-01-20,Low Value
+C00519,Tunde Danjuma,Male,25-34,Premium,Abeokuta,2021-04-06,Low Value
+C00520,Amaka Nwosu,Male,35-44,Regular,Enugu,2024-11-20,Low Value
+C00521,Halima Okoro,Female,18-24,Occasional,Abeokuta,2019-08-22,High Value
+C00522,Aisha Adeyemi,Male,35-44,Occasional,Uyo,2022-02-22,Medium Value
+C00523,Chidi Adeyemi,Male,65+,Regular,Ilorin,2023-02-06,Medium Value
+C00524,Kunle Afolabi,Male,25-34,Regular,Enugu,2021-01-25,Low Value
+C00525,Ibrahim Afolabi,Female,65+,Regular,Uyo,2018-11-15,Medium Value
+C00526,Grace Okoro,Male,35-44,Regular,Lagos Island,2021-11-14,Medium Value
+C00527,Damilola Afolabi,Male,25-34,Regular,Onitsha,2023-10-09,Low Value
+C00528,Amaka Bello,Female,45-54,Occasional,Jos,2019-04-30,Low Value
+C00529,Yusuf Aliyu,Male,35-44,Regular,Abeokuta,2023-05-17,High Value
+C00530,Chika Nwosu,Male,35-44,Regular,Enugu,2024-06-07,High Value
+C00531,Segun Nwosu,Female,35-44,Premium,Lagos Island,2019-11-13,Low Value
+C00532,Amaka Uche,Male,25-34,Premium,Jos,2026-03-01,Low Value
+C00533,Aisha Nnamdi,Male,45-54,Occasional,Lagos Island,2019-11-30,Medium Value
+C00534,Segun Nwosu,Female,55-64,Premium,Ikeja,2023-09-24,Medium Value
+C00535,Tunde Eze,Male,25-34,Occasional,Ilorin,2022-04-28,Low Value
+C00536,Tobi Eze,Male,35-44,Premium,Lagos Island,2019-09-05,Low Value
+C00537,Ibrahim Eze,Male,35-44,Regular,Onitsha,2023-12-17,Medium Value
+C00538,Chidi Nnamdi,Female,25-34,Regular,Ilorin,2018-01-05,Medium Value
+C00539,Patience Adekunle,Female,35-44,Occasional,Enugu,2023-05-29,High Value
+C00540,Segun Okoro,Male,55-64,Regular,Onitsha,2019-07-03,Low Value
+C00541,Segun Okonkwo,Male,45-54,Occasional,Enugu,2022-08-01,Medium Value
+C00542,Chinedu Adekunle,Male,45-54,Regular,Uyo,2023-10-30,High Value
+C00543,Damilola Aliyu,Female,25-34,Premium,Enugu,2022-10-12,Medium Value
+C00544,Amaka Adekunle,Male,25-34,Occasional,Jos,2021-02-02,High Value
+C00545,Zainab Okoro,Female,65+,Premium,Uyo,2024-04-09,Low Value
+C00546,Ifeoma Bello,Female,45-54,Corporate,Ikeja,2025-05-24,Medium Value
+C00547,Patience Chukwu,Male,25-34,Corporate,Lagos Island,2022-06-29,Low Value
+C00548,Grace Ogunleye,Female,18-24,Regular,Uyo,2019-08-19,High Value
+C00549,Halima Adekunle,Female,35-44,Premium,Onitsha,2018-06-04,High Value
+C00550,Damilola Okoro,Female,18-24,Occasional,Ilorin,2019-12-19,Medium Value
+C00551,Patience Ogunleye,Male,35-44,Occasional,Uyo,2018-05-18,Medium Value
+C00552,Bimpe Balogun,Female,45-54,Regular,Uyo,2018-01-02,Medium Value
+C00553,Ibrahim Okafor,Male,55-64,Premium,Onitsha,2020-03-31,Low Value
+C00554,Ngozi Afolabi,Male,35-44,Regular,Uyo,2021-11-26,Medium Value
+C00555,Bimpe Nnamdi,Male,35-44,Premium,Uyo,2020-12-05,Low Value
+C00556,Segun Obi,Female,45-54,Corporate,Enugu,2023-10-04,Medium Value
+C00557,Sunday Chukwu,Female,45-54,Occasional,Lagos Island,2020-09-23,Medium Value
+C00558,Emeka Adekunle,Male,45-54,Regular,Uyo,2020-11-22,Medium Value
+C00559,Ibrahim Obi,Male,45-54,Regular,Abeokuta,2021-12-17,High Value
+C00560,Halima Chukwu,Male,35-44,Regular,Uyo,2025-07-22,Medium Value
+C00561,Segun Nwosu,Male,35-44,Regular,Abeokuta,2024-06-07,Low Value
+C00562,Aisha Okonkwo,Male,45-54,Regular,Ikeja,2020-04-26,High Value
+C00563,Amaka Okoro,Male,45-54,Premium,Lagos Island,2018-11-18,Low Value
+C00564,Tobi Chukwu,Female,55-64,Occasional,Enugu,2022-03-01,Low Value
+C00565,Bimpe Suleiman,Female,25-34,Occasional,Surulere,2023-07-04,High Value
+C00566,Grace Obi,Male,35-44,Regular,Lagos Island,2022-09-30,Medium Value
+C00567,Musa Suleiman,Female,25-34,Regular,Akure,2019-05-09,Medium Value
+C00568,Uche Yakubu,Female,25-34,Regular,Ibadan,2019-02-17,Medium Value
+C00569,Uche Yakubu,Male,35-44,Regular,Uyo,2024-11-16,Medium Value
+C00570,Segun Danjuma,Male,35-44,Corporate,Abeokuta,2022-06-29,Low Value
+C00571,Segun Bello,Female,55-64,Regular,Surulere,2026-01-31,Medium Value
+C00572,Bimpe Nnamdi,Female,18-24,Occasional,Ilorin,2018-02-09,Medium Value
+C00573,Patience Okoro,Female,25-34,Occasional,Lagos Island,2021-07-17,Medium Value
+C00574,Bimpe Adeyemi,Male,45-54,Premium,Ikeja,2025-09-29,Medium Value
+C00575,Segun Yakubu,Female,35-44,Corporate,Ibadan,2021-10-02,Medium Value
+C00576,Ifeoma Yakubu,Male,35-44,Premium,Onitsha,2022-08-14,High Value
+C00577,Ngozi Chukwu,Female,45-54,Regular,Ikeja,2021-03-11,Medium Value
+C00578,Femi Abubakar,Male,35-44,Corporate,Abuja,2021-03-19,Medium Value
+C00579,Kelechi Balogun,Male,25-34,Regular,Uyo,2024-05-30,Low Value
+C00580,Segun Ogunleye,Female,25-34,Regular,Uyo,2025-12-19,Low Value
+C00581,Femi Nnamdi,Male,25-34,Regular,Abeokuta,2023-11-04,Low Value
+C00582,Musa Balogun,Male,25-34,Regular,Ikeja,2026-05-05,Low Value
+C00583,Zainab Adeyemi,Male,45-54,Premium,Ikeja,2023-04-23,High Value
+C00584,Tunde Balogun,Female,25-34,Regular,Abeokuta,2024-12-06,Medium Value
+C00585,Tunde Suleiman,Male,18-24,Occasional,Uyo,2019-06-02,Low Value
+C00586,Bukola Obi,Female,35-44,Regular,Onitsha,2023-03-29,High Value
+C00587,Femi Aliyu,Female,35-44,Premium,Abeokuta,2024-09-13,Low Value
+C00588,Zainab Bello,Male,35-44,Regular,Ibadan,2023-05-27,High Value
+C00589,Chinedu Suleiman,Male,25-34,Premium,Lagos Island,2018-02-13,Low Value
+C00590,Sunday Okoro,Female,18-24,Regular,Abeokuta,2023-07-08,Medium Value
+C00591,Zainab Yakubu,Male,25-34,Premium,Uyo,2018-01-30,Medium Value
+C00592,Halima Adekunle,Female,25-34,Regular,Abeokuta,2026-01-07,Medium Value
+C00593,Patience Afolabi,Female,35-44,Premium,Ibadan,2024-11-16,Medium Value
+C00594,Bimpe Abubakar,Female,18-24,Premium,Ilorin,2018-10-08,Medium Value
+C00595,Grace Okonkwo,Female,18-24,Regular,Onitsha,2024-12-25,High Value
+C00596,Folake Afolabi,Male,45-54,Occasional,Abeokuta,2019-02-23,High Value
+C00597,Grace Okonkwo,Female,25-34,Occasional,Jos,2018-03-02,Low Value
+C00598,Musa Adeyemi,Female,18-24,Occasional,Surulere,2023-03-15,High Value
+C00599,Emeka Obi,Female,25-34,Occasional,Ibadan,2022-05-27,Low Value
+C00600,Ifeoma Bello,Female,45-54,Regular,Lagos Island,2018-02-21,High Value
+C00601,Sunday Eze,Male,35-44,Occasional,Abeokuta,2026-03-31,Low Value
+C00602,Damilola Adeyemi,Male,25-34,Premium,Akure,2019-10-12,Medium Value
+C00603,Bukola Okonkwo,Male,25-34,Regular,Lagos Island,2018-08-02,High Value
+C00604,Chika Eze,Female,45-54,Regular,Lagos Island,2021-02-04,Medium Value
+C00605,Grace Ogunleye,Male,25-34,Regular,Lagos Island,2025-09-30,Medium Value
+C00606,Tobi Chukwu,Male,18-24,Premium,Onitsha,2025-09-10,Low Value
+C00607,Grace Bello,Female,65+,Occasional,Uyo,2019-05-31,Low Value
+C00608,Halima Okonkwo,Male,45-54,Regular,Surulere,2022-12-02,Medium Value
+C00609,Grace Danjuma,Female,35-44,Premium,Enugu,2018-06-11,High Value
+C00610,Uche Danjuma,Female,55-64,Premium,Onitsha,2021-11-25,High Value
+C00611,Tunde Danjuma,Female,45-54,Premium,Ilorin,2023-12-16,High Value
+C00612,Ibrahim Adekunle,Male,55-64,Premium,Uyo,2025-02-26,Low Value
+C00613,Uche Balogun,Female,25-34,Occasional,Onitsha,2020-09-05,High Value
+C00614,Uche Nnamdi,Female,18-24,Premium,Ikeja,2021-03-05,High Value
+C00615,Bimpe Adeyemi,Male,18-24,Regular,Lagos Island,2019-06-16,Medium Value
+C00616,Amaka Okoro,Female,18-24,Regular,Ikeja,2022-05-11,High Value
+C00617,Damilola Okoro,Male,35-44,Premium,Uyo,2020-05-04,Medium Value
+C00618,Kunle Yakubu,Male,45-54,Regular,Lagos Island,2022-08-31,Low Value
+C00619,Emeka Okonkwo,Male,18-24,Regular,Uyo,2021-05-29,High Value
+C00620,Amaka Bello,Male,35-44,Premium,Ikeja,2023-11-26,Low Value
+C00621,Ngozi Danjuma,Female,55-64,Regular,Lagos Island,2024-06-19,Medium Value
+C00622,Uche Nwosu,Female,55-64,Corporate,Onitsha,2023-08-30,Low Value
+C00623,Bukola Yakubu,Female,45-54,Regular,Uyo,2021-08-22,Medium Value
+C00624,Zainab Okonkwo,Female,45-54,Corporate,Ibadan,2024-04-25,Medium Value
+C00625,Femi Adekunle,Male,45-54,Corporate,Onitsha,2023-01-28,High Value
+C00626,Chidi Uche,Male,25-34,Regular,Uyo,2019-07-08,High Value
+C00627,Kunle Afolabi,Male,18-24,Premium,Surulere,2025-09-26,High Value
+C00628,Chidi Aliyu,Male,25-34,Occasional,Ikeja,2022-02-12,Medium Value
+C00629,Rita Okonkwo,Male,45-54,Occasional,Lagos Island,2024-05-19,Medium Value
+C00630,Musa Aliyu,Male,35-44,Regular,Enugu,2025-09-25,Medium Value
+C00631,Rita Chukwu,Female,55-64,Regular,Ikeja,2018-08-18,Low Value
+C00632,Halima Ogunleye,Male,35-44,Premium,Lagos Island,2020-07-17,Medium Value
+C00633,Uche Obi,Male,25-34,Occasional,Surulere,2018-06-18,High Value
+C00634,Kelechi Danjuma,Male,25-34,Regular,Uyo,2026-03-16,High Value
+C00635,Emeka Okoro,Male,35-44,Regular,Uyo,2021-10-08,Medium Value
+C00636,Tunde Abubakar,Female,35-44,Premium,Enugu,2025-10-29,High Value
+C00637,Halima Suleiman,Male,25-34,Regular,Abuja,2024-11-28,Medium Value
+C00638,Emeka Eze,Female,25-34,Regular,Uyo,2024-06-17,Medium Value
+C00639,Chinedu Uche,Male,65+,Premium,Ilorin,2025-05-08,Medium Value
+C00640,Adaeze Bello,Male,45-54,Regular,Ikeja,2022-12-10,High Value
+C00641,Aisha Ogunleye,Male,55-64,Occasional,Lagos Island,2018-08-12,Medium Value
+C00642,Folake Danjuma,Female,18-24,Regular,Onitsha,2019-04-01,Medium Value
+C00643,Ibrahim Afolabi,Female,35-44,Corporate,Lagos Island,2024-02-17,Medium Value
+C00644,Ibrahim Adeyemi,Female,25-34,Regular,Onitsha,2025-06-10,Medium Value
+C00645,Damilola Okafor,Male,25-34,Regular,Uyo,2023-03-20,Low Value
+C00646,Folake Adekunle,Male,65+,Premium,Ikeja,2018-03-20,Low Value
+C00647,Bukola Ogunleye,Male,25-34,Premium,Ilorin,2023-06-09,Medium Value
+C00648,Chinedu Adeyemi,Male,55-64,Regular,Jos,2025-12-28,Medium Value
+C00649,Chinedu Yakubu,Female,25-34,Regular,Ilorin,2019-10-06,Medium Value
+C00650,Damilola Afolabi,Female,55-64,Occasional,Lagos Island,2018-09-11,Low Value
+C00651,Aisha Abubakar,Female,55-64,Occasional,Ikeja,2021-02-21,Low Value
+C00652,Amaka Ogunleye,Male,25-34,Premium,Abuja,2023-11-03,Low Value
+C00653,Uche Danjuma,Male,25-34,Regular,Onitsha,2024-10-15,Low Value
+C00654,Bukola Abubakar,Female,45-54,Occasional,Surulere,2020-04-08,Medium Value
+C00655,Damilola Aliyu,Male,25-34,Premium,Ikeja,2019-08-18,High Value
+C00656,Halima Okafor,Female,55-64,Regular,Abuja,2019-08-20,Medium Value
+C00657,Rita Afolabi,Male,45-54,Regular,Lagos Island,2026-05-13,High Value
+C00658,Tobi Afolabi,Male,35-44,Regular,Lagos Island,2024-11-11,Medium Value
+C00659,Sunday Okoro,Male,35-44,Premium,Uyo,2025-09-19,High Value
+C00660,Grace Okoro,Male,25-34,Regular,Abuja,2022-05-07,Low Value
+C00661,Rita Afolabi,Female,25-34,Occasional,Akure,2018-03-03,Low Value
+C00662,Bimpe Danjuma,Female,45-54,Occasional,Abeokuta,2018-09-28,Medium Value
+C00663,Tobi Adekunle,Female,25-34,Corporate,Enugu,2018-06-21,Medium Value
+C00664,Damilola Adeyemi,Male,35-44,Occasional,Lagos Island,2023-11-22,Low Value
+C00665,Ibrahim Obi,Female,65+,Regular,Uyo,2020-10-03,Medium Value
+C00666,Adaeze Okonkwo,Female,35-44,Occasional,Abeokuta,2025-01-27,Medium Value
+C00667,Folake Ogunleye,Male,45-54,Corporate,Ilorin,2022-09-27,Low Value
+C00668,Emeka Suleiman,Male,25-34,Premium,Onitsha,2023-01-25,High Value
+C00669,Uche Danjuma,Male,25-34,Premium,Akure,2022-08-21,Low Value
+C00670,Segun Chukwu,Male,45-54,Regular,Ikeja,2019-01-05,Low Value
+C00671,Ngozi Balogun,Female,45-54,Corporate,Onitsha,2025-02-10,Low Value
+C00672,Zainab Adekunle,Male,45-54,Corporate,Enugu,2022-04-01,Low Value
+C00673,Bimpe Abubakar,Male,45-54,Regular,Abeokuta,2019-09-07,Medium Value
+C00674,Folake Nwosu,Male,55-64,Corporate,Lagos Island,2023-01-02,Medium Value
+C00675,Chinedu Danjuma,Female,55-64,Premium,Lagos Island,2020-11-02,Medium Value
+C00676,Aisha Okonkwo,Female,35-44,Regular,Onitsha,2023-07-15,Medium Value
+C00677,Chidi Obi,Female,35-44,Premium,Akure,2020-09-29,High Value
+C00678,Adaeze Yakubu,Male,18-24,Regular,Enugu,2019-08-31,Low Value
+C00679,Uche Balogun,Male,18-24,Corporate,Lagos Island,2021-05-07,Low Value
+C00680,Amaka Ogunleye,Male,65+,Occasional,Uyo,2024-11-08,Low Value
+C00681,Sunday Uche,Female,25-34,Regular,Ikeja,2019-01-17,Low Value
+C00682,Emeka Uche,Female,18-24,Occasional,Ibadan,2024-03-04,Medium Value
+C00683,Ibrahim Okonkwo,Male,35-44,Regular,Ilorin,2022-08-22,Low Value
+C00684,Halima Ogunleye,Female,25-34,Occasional,Ibadan,2023-06-05,Medium Value
+C00685,Ngozi Abubakar,Female,35-44,Premium,Jos,2024-12-27,Low Value
+C00686,Aisha Uche,Male,18-24,Regular,Ikeja,2024-11-01,Low Value
+C00687,Patience Ogunleye,Female,25-34,Regular,Onitsha,2020-04-29,Low Value
+C00688,Chinedu Okonkwo,Female,25-34,Regular,Abeokuta,2020-05-19,Medium Value
+C00689,Sunday Okafor,Male,45-54,Regular,Enugu,2021-08-19,Medium Value
+C00690,Kunle Nwosu,Male,25-34,Regular,Jos,2018-04-30,Low Value
+C00691,Damilola Abubakar,Female,25-34,Premium,Onitsha,2018-05-26,Low Value
+C00692,Patience Nnamdi,Male,45-54,Regular,Uyo,2023-03-10,Medium Value
+C00693,Yusuf Aliyu,Female,45-54,Occasional,Uyo,2018-03-18,High Value
+C00694,Segun Okafor,Female,65+,Premium,Lagos Island,2019-09-04,Medium Value
+C00695,Bimpe Ogunleye,Male,55-64,Occasional,Uyo,2022-05-15,Low Value
+C00696,Blessing Balogun,Female,55-64,Regular,Abeokuta,2021-01-17,Medium Value
+C00697,Bimpe Eze,Female,45-54,Occasional,Ikeja,2021-05-23,Medium Value
+C00698,Patience Okoro,Male,25-34,Corporate,Ilorin,2018-04-13,Medium Value
+C00699,Tunde Eze,Male,25-34,Regular,Uyo,2021-09-02,Low Value
+C00700,Ifeoma Okafor,Female,55-64,Occasional,Onitsha,2023-11-10,Low Value
+C00701,Femi Adeyemi,Male,35-44,Occasional,Abeokuta,2021-09-27,High Value
+C00702,Damilola Okonkwo,Female,25-34,Regular,Onitsha,2021-07-02,Medium Value
+C00703,Amaka Eze,Female,18-24,Regular,Lagos Island,2022-12-12,Low Value
+C00704,Ibrahim Eze,Male,35-44,Premium,Ibadan,2024-04-11,High Value
+C00705,Patience Uche,Male,25-34,Regular,Uyo,2025-11-25,Medium Value
+C00706,Tunde Okafor,Female,55-64,Regular,Uyo,2018-07-27,High Value
+C00707,Kelechi Nwosu,Female,35-44,Regular,Akure,2022-10-13,Low Value
+C00708,Patience Obi,Male,65+,Occasional,Ilorin,2025-07-10,Medium Value
+C00709,Kunle Danjuma,Male,35-44,Occasional,Ilorin,2019-01-16,Medium Value
+C00710,Tunde Ogunleye,Female,55-64,Regular,Uyo,2020-07-05,Low Value
+C00711,Femi Okoro,Male,18-24,Regular,Jos,2021-08-23,Medium Value
+C00712,Folake Yakubu,Male,35-44,Regular,Ikeja,2019-12-01,Medium Value
+C00713,Emeka Uche,Female,25-34,Regular,Onitsha,2025-04-14,Medium Value
+C00714,Grace Adekunle,Male,25-34,Occasional,Enugu,2019-10-14,Medium Value
+C00715,Chika Chukwu,Male,25-34,Occasional,Enugu,2022-11-19,Low Value
+C00716,Chika Ogunleye,Female,25-34,Regular,Ilorin,2019-04-14,High Value
+C00717,Emeka Ogunleye,Male,45-54,Premium,Uyo,2022-07-21,Medium Value
+C00718,Amaka Adeyemi,Male,25-34,Regular,Enugu,2025-03-26,Low Value
+C00719,Patience Okafor,Male,35-44,Premium,Abeokuta,2025-02-18,Medium Value
+C00720,Femi Okonkwo,Male,45-54,Regular,Enugu,2024-06-25,Low Value
+C00721,Folake Nnamdi,Female,65+,Premium,Onitsha,2025-08-15,Low Value
+C00722,Bukola Abubakar,Female,18-24,Corporate,Lagos Island,2022-07-14,High Value
+C00723,Kunle Yakubu,Male,55-64,Occasional,Abeokuta,2024-04-12,Medium Value
+C00724,Kelechi Chukwu,Female,25-34,Regular,Akure,2024-08-14,Low Value
+C00725,Tunde Okonkwo,Female,45-54,Regular,Abuja,2023-04-30,High Value
+C00726,Tunde Abubakar,Male,18-24,Regular,Jos,2025-07-07,Low Value
+C00727,Emeka Abubakar,Female,55-64,Occasional,Onitsha,2019-07-11,Low Value
+C00728,Bimpe Danjuma,Female,35-44,Premium,Uyo,2024-12-27,Medium Value
+C00729,Tobi Okafor,Female,45-54,Regular,Ilorin,2022-10-06,Medium Value
+C00730,Chika Yakubu,Male,65+,Premium,Uyo,2024-02-16,High Value
+C00731,Musa Balogun,Male,45-54,Premium,Ibadan,2023-05-27,Medium Value
+C00732,Ibrahim Ogunleye,Male,25-34,Premium,Ikeja,2018-11-17,Low Value
+C00733,Patience Aliyu,Female,35-44,Corporate,Onitsha,2024-01-18,Low Value
+C00734,Femi Suleiman,Female,35-44,Regular,Uyo,2023-04-05,Low Value
+C00735,Folake Nwosu,Male,45-54,Premium,Abeokuta,2021-04-21,Low Value
+C00736,Segun Adeyemi,Female,35-44,Premium,Abeokuta,2024-04-27,Low Value
+C00737,Chinedu Uche,Female,18-24,Premium,Ibadan,2025-01-01,Medium Value
+C00738,Segun Afolabi,Female,18-24,Regular,Lagos Island,2024-11-27,Low Value
+C00739,Tunde Danjuma,Female,45-54,Regular,Abeokuta,2026-04-15,Medium Value
+C00740,Bukola Adeyemi,Female,65+,Corporate,Onitsha,2023-12-01,Low Value
+C00741,Kunle Okoro,Female,45-54,Regular,Ilorin,2019-09-24,Low Value
+C00742,Yusuf Aliyu,Female,18-24,Regular,Ikeja,2019-11-17,High Value
+C00743,Kelechi Okoro,Female,35-44,Corporate,Onitsha,2023-03-16,Medium Value
+C00744,Musa Adekunle,Female,25-34,Premium,Abuja,2025-08-31,High Value
+C00745,Kelechi Chukwu,Male,18-24,Premium,Uyo,2023-01-13,Low Value
+C00746,Tobi Afolabi,Female,25-34,Occasional,Ibadan,2022-11-04,Low Value
+C00747,Femi Bello,Male,35-44,Occasional,Lagos Island,2022-05-22,Medium Value
+C00748,Amaka Okafor,Male,18-24,Regular,Ikeja,2018-02-13,Low Value
+C00749,Aisha Uche,Female,25-34,Regular,Ikeja,2021-12-10,High Value
+C00750,Amaka Okonkwo,Male,45-54,Regular,Onitsha,2024-08-30,High Value
+C00751,Sunday Aliyu,Male,55-64,Occasional,Ibadan,2025-05-12,Medium Value
+C00752,Rita Balogun,Female,55-64,Regular,Abuja,2025-05-29,Low Value
+C00753,Sunday Chukwu,Female,25-34,Regular,Lagos Island,2025-06-27,Medium Value
+C00754,Adaeze Afolabi,Female,25-34,Regular,Akure,2021-09-24,Medium Value
+C00755,Damilola Okoro,Male,18-24,Occasional,Akure,2020-01-01,Medium Value
+C00756,Rita Danjuma,Female,18-24,Regular,Enugu,2019-03-12,Low Value
+C00757,Chinedu Okoro,Male,35-44,Regular,Lagos Island,2023-01-01,Low Value
+C00758,Tunde Chukwu,Female,35-44,Premium,Jos,2020-12-27,Medium Value
+C00759,Bukola Balogun,Male,18-24,Corporate,Jos,2022-07-13,High Value
+C00760,Rita Yakubu,Female,45-54,Regular,Ikeja,2024-01-02,Medium Value
+C00761,Emeka Danjuma,Female,35-44,Regular,Lagos Island,2021-10-24,Low Value
+C00762,Yusuf Uche,Female,55-64,Premium,Uyo,2025-05-30,Medium Value
+C00763,Femi Okonkwo,Male,18-24,Regular,Enugu,2025-02-04,Medium Value
+C00764,Emeka Obi,Female,35-44,Corporate,Ilorin,2022-05-12,Low Value
+C00765,Adaeze Chukwu,Male,25-34,Occasional,Uyo,2018-03-09,High Value
+C00766,Amaka Suleiman,Female,55-64,Occasional,Onitsha,2025-05-02,High Value
+C00767,Aisha Balogun,Male,45-54,Premium,Lagos Island,2024-07-01,Medium Value
+C00768,Adaeze Bello,Male,18-24,Premium,Abeokuta,2024-12-07,Low Value
+C00769,Femi Ogunleye,Male,45-54,Regular,Ikeja,2019-02-03,High Value
+C00770,Patience Ogunleye,Male,18-24,Regular,Uyo,2024-09-03,Low Value
+C00771,Amaka Adekunle,Female,18-24,Occasional,Onitsha,2026-04-11,High Value
+C00772,Sunday Adeyemi,Male,25-34,Regular,Surulere,2020-05-23,Low Value
+C00773,Musa Yakubu,Male,35-44,Corporate,Lagos Island,2019-11-20,High Value
+C00774,Tobi Adekunle,Male,18-24,Premium,Lagos Island,2025-02-02,High Value
+C00775,Musa Aliyu,Female,25-34,Occasional,Jos,2019-01-01,Low Value
+C00776,Tunde Afolabi,Female,25-34,Corporate,Onitsha,2020-04-24,Low Value
+C00777,Bimpe Okoro,Male,35-44,Occasional,Uyo,2024-09-08,Medium Value
+C00778,Aisha Okonkwo,Male,65+,Corporate,Onitsha,2024-04-03,Medium Value
+C00779,Ibrahim Bello,Female,45-54,Occasional,Ibadan,2024-01-20,High Value
+C00780,Patience Abubakar,Female,35-44,Regular,Lagos Island,2019-04-07,High Value
+C00781,Folake Okonkwo,Female,25-34,Premium,Ilorin,2022-01-31,High Value
+C00782,Adaeze Obi,Male,25-34,Regular,Ilorin,2026-04-21,High Value
+C00783,Halima Danjuma,Female,25-34,Occasional,Uyo,2020-08-21,Medium Value
+C00784,Uche Bello,Male,25-34,Regular,Akure,2019-03-28,Medium Value
+C00785,Emeka Okoro,Female,18-24,Regular,Akure,2020-06-22,Low Value
+C00786,Bimpe Adekunle,Female,18-24,Occasional,Uyo,2023-02-07,Low Value
+C00787,Uche Abubakar,Male,45-54,Regular,Surulere,2020-04-08,High Value
+C00788,Femi Nnamdi,Male,45-54,Regular,Abeokuta,2023-03-22,Medium Value
+C00789,Tobi Nwosu,Male,18-24,Occasional,Jos,2025-02-26,Low Value
+C00790,Chika Okoro,Female,25-34,Occasional,Abeokuta,2020-06-05,Medium Value
+C00791,Chika Bello,Male,55-64,Occasional,Abuja,2022-11-14,Low Value
+C00792,Grace Suleiman,Male,25-34,Regular,Ikeja,2018-06-14,Medium Value
+C00793,Emeka Obi,Male,45-54,Regular,Akure,2020-09-12,High Value
+C00794,Aisha Balogun,Male,35-44,Regular,Ilorin,2021-04-26,Low Value
+C00795,Chika Okafor,Female,35-44,Regular,Uyo,2026-05-19,High Value
+C00796,Damilola Danjuma,Male,55-64,Regular,Uyo,2022-02-26,Medium Value
+C00797,Blessing Afolabi,Male,45-54,Regular,Uyo,2021-04-29,Low Value
+C00798,Ibrahim Yakubu,Male,18-24,Regular,Onitsha,2018-08-13,High Value
+C00799,Bimpe Obi,Male,35-44,Occasional,Surulere,2022-02-09,Low Value
+C00800,Zainab Eze,Female,45-54,Occasional,Akure,2020-09-04,Low Value
+C00801,Uche Yakubu,Female,35-44,Regular,Lagos Island,2020-07-12,High Value
+C00802,Femi Okoro,Male,35-44,Premium,Onitsha,2021-11-15,Low Value
+C00803,Tobi Yakubu,Male,25-34,Occasional,Ikeja,2023-01-26,High Value
+C00804,Folake Balogun,Male,25-34,Regular,Surulere,2020-01-03,Medium Value
+C00805,Ibrahim Okafor,Female,25-34,Occasional,Surulere,2020-04-16,Medium Value
+C00806,Femi Okafor,Female,25-34,Regular,Abeokuta,2022-09-17,Low Value
+C00807,Damilola Chukwu,Female,35-44,Occasional,Uyo,2023-10-30,Medium Value
+C00808,Musa Suleiman,Female,35-44,Premium,Abeokuta,2025-06-20,High Value
+C00809,Aisha Okoro,Female,65+,Occasional,Lagos Island,2020-11-30,High Value
+C00810,Femi Nwosu,Male,45-54,Regular,Lagos Island,2021-03-10,Low Value
+C00811,Chidi Abubakar,Male,25-34,Regular,Uyo,2025-10-08,Medium Value
+C00812,Segun Yakubu,Male,25-34,Occasional,Uyo,2022-12-11,Low Value
+C00813,Ngozi Danjuma,Male,35-44,Regular,Lagos Island,2019-08-29,Medium Value
+C00814,Sunday Abubakar,Female,55-64,Regular,Onitsha,2023-08-08,Low Value
+C00815,Damilola Uche,Female,55-64,Corporate,Enugu,2021-09-18,Low Value
+C00816,Halima Danjuma,Female,45-54,Occasional,Lagos Island,2024-05-04,High Value
+C00817,Ifeoma Uche,Male,25-34,Occasional,Ilorin,2024-03-06,Medium Value
+C00818,Adaeze Ogunleye,Male,35-44,Regular,Ibadan,2021-08-29,High Value
+C00819,Zainab Danjuma,Male,65+,Regular,Jos,2018-12-09,Medium Value
+C00820,Ibrahim Adeyemi,Female,25-34,Occasional,Abuja,2024-10-14,Medium Value
+C00821,Chinedu Uche,Female,25-34,Corporate,Onitsha,2022-03-08,High Value
+C00822,Chidi Danjuma,Female,45-54,Regular,Abuja,2026-03-01,Low Value
+C00823,Tunde Aliyu,Male,18-24,Regular,Ilorin,2022-08-24,Low Value
+C00824,Rita Aliyu,Female,18-24,Regular,Ibadan,2018-09-28,Medium Value
+C00825,Femi Aliyu,Male,25-34,Occasional,Abeokuta,2024-03-26,Medium Value
+C00826,Kunle Uche,Female,35-44,Occasional,Abeokuta,2018-06-22,High Value
+C00827,Tunde Afolabi,Female,65+,Occasional,Jos,2018-01-11,High Value
+C00828,Chidi Uche,Female,25-34,Corporate,Abeokuta,2025-06-20,High Value
+C00829,Grace Balogun,Female,35-44,Premium,Ibadan,2021-02-09,Medium Value
+C00830,Musa Eze,Female,35-44,Premium,Ibadan,2023-05-04,High Value
+C00831,Tunde Chukwu,Female,55-64,Regular,Lagos Island,2018-08-28,High Value
+C00832,Blessing Yakubu,Male,25-34,Premium,Ikeja,2022-01-19,Medium Value
+C00833,Bimpe Eze,Male,35-44,Occasional,Abeokuta,2025-01-16,Medium Value
+C00834,Musa Yakubu,Male,35-44,Regular,Surulere,2025-10-29,High Value
+C00835,Folake Yakubu,Female,25-34,Corporate,Lagos Island,2023-10-24,High Value
+C00836,Ibrahim Bello,Male,45-54,Premium,Ilorin,2019-09-26,Low Value
+C00837,Zainab Eze,Female,35-44,Regular,Surulere,2025-12-28,Low Value
+C00838,Ngozi Uche,Female,18-24,Regular,Onitsha,2023-05-19,Medium Value
+C00839,Bimpe Uche,Male,45-54,Regular,Surulere,2021-11-02,Low Value
+C00840,Musa Bello,Female,18-24,Regular,Ikeja,2019-08-07,Medium Value
+C00841,Emeka Okafor,Female,45-54,Regular,Ikeja,2019-04-03,High Value
+C00842,Ibrahim Aliyu,Male,35-44,Corporate,Lagos Island,2025-05-26,High Value
+C00843,Chinedu Eze,Male,55-64,Regular,Akure,2025-06-27,High Value
+C00844,Chinedu Balogun,Male,45-54,Corporate,Enugu,2021-12-10,Medium Value
+C00845,Bukola Suleiman,Male,35-44,Regular,Enugu,2019-10-20,Low Value
+C00846,Yusuf Okonkwo,Female,25-34,Occasional,Lagos Island,2023-12-07,Low Value
+C00847,Rita Okonkwo,Female,25-34,Premium,Ilorin,2019-02-09,Low Value
+C00848,Bimpe Yakubu,Female,25-34,Premium,Abuja,2019-03-16,High Value
+C00849,Ifeoma Danjuma,Male,35-44,Premium,Uyo,2021-07-11,Low Value
+C00850,Halima Adeyemi,Male,25-34,Regular,Abeokuta,2024-04-01,Medium Value
+C00851,Folake Danjuma,Male,35-44,Regular,Abuja,2026-04-04,High Value
+C00852,Chidi Okoro,Female,25-34,Corporate,Jos,2018-10-13,Low Value
+C00853,Femi Suleiman,Male,18-24,Regular,Enugu,2022-06-12,Low Value
+C00854,Rita Nwosu,Male,25-34,Regular,Akure,2026-04-25,Medium Value
+C00855,Ifeoma Bello,Female,45-54,Regular,Enugu,2022-07-14,Medium Value
+C00856,Patience Adekunle,Female,35-44,Premium,Uyo,2026-06-25,Low Value
+C00857,Segun Abubakar,Female,18-24,Regular,Jos,2023-09-26,Medium Value
+C00858,Chinedu Eze,Male,45-54,Premium,Lagos Island,2019-07-06,Low Value
+C00859,Tobi Chukwu,Male,25-34,Premium,Ikeja,2022-04-17,Low Value
+C00860,Sunday Okoro,Female,25-34,Occasional,Jos,2023-10-31,Medium Value
+C00861,Uche Obi,Male,65+,Regular,Abuja,2024-01-31,Low Value
+C00862,Kelechi Danjuma,Female,55-64,Regular,Lagos Island,2019-05-03,High Value
+C00863,Amaka Uche,Male,35-44,Regular,Uyo,2024-03-30,Medium Value
+C00864,Chika Okoro,Female,35-44,Occasional,Ilorin,2019-03-25,High Value
+C00865,Grace Aliyu,Female,35-44,Regular,Abeokuta,2020-12-14,Medium Value
+C00866,Chika Adeyemi,Male,45-54,Regular,Enugu,2018-04-26,High Value
+C00867,Uche Adekunle,Male,25-34,Corporate,Abuja,2025-01-04,Medium Value
+C00868,Aisha Bello,Male,35-44,Premium,Ikeja,2025-06-01,Low Value
+C00869,Uche Nwosu,Male,35-44,Regular,Abuja,2019-04-14,Medium Value
+C00870,Segun Okafor,Female,35-44,Corporate,Uyo,2022-09-22,Medium Value
+C00871,Chika Eze,Female,18-24,Occasional,Uyo,2021-08-13,Medium Value
+C00872,Uche Nwosu,Female,25-34,Regular,Jos,2025-06-26,Medium Value
+C00873,Kunle Obi,Male,25-34,Regular,Enugu,2018-11-05,Medium Value
+C00874,Tobi Balogun,Male,35-44,Regular,Enugu,2020-07-14,Low Value
+C00875,Blessing Okonkwo,Female,45-54,Occasional,Abeokuta,2023-05-01,Medium Value
+C00876,Blessing Obi,Female,25-34,Regular,Onitsha,2021-05-13,Medium Value
+C00877,Sunday Obi,Male,55-64,Premium,Ilorin,2025-07-13,Low Value
+C00878,Grace Okonkwo,Female,25-34,Premium,Onitsha,2024-06-20,Low Value
+C00879,Rita Aliyu,Male,35-44,Regular,Surulere,2022-11-12,Medium Value
+C00880,Amaka Uche,Female,25-34,Occasional,Ikeja,2026-05-16,Medium Value
+C00881,Segun Uche,Male,25-34,Premium,Uyo,2022-08-17,Medium Value
+C00882,Yusuf Okafor,Male,45-54,Regular,Jos,2019-09-07,Medium Value
+C00883,Blessing Adeyemi,Male,25-34,Regular,Ibadan,2022-11-22,Low Value
+C00884,Amaka Obi,Male,35-44,Regular,Jos,2021-02-11,Low Value
+C00885,Bukola Balogun,Female,35-44,Occasional,Abuja,2018-08-15,Low Value
+C00886,Amaka Balogun,Female,55-64,Occasional,Surulere,2025-07-14,Medium Value
+C00887,Halima Suleiman,Male,35-44,Occasional,Ilorin,2024-05-27,Medium Value
+C00888,Aisha Ogunleye,Male,45-54,Regular,Enugu,2019-01-05,Low Value
+C00889,Halima Bello,Female,25-34,Regular,Akure,2026-05-24,Low Value
+C00890,Blessing Afolabi,Male,35-44,Regular,Ikeja,2022-12-06,Medium Value
+C00891,Grace Bello,Female,55-64,Corporate,Uyo,2022-10-02,Medium Value
+C00892,Kunle Uche,Male,35-44,Corporate,Lagos Island,2022-02-15,Low Value
+C00893,Patience Adeyemi,Male,25-34,Regular,Uyo,2025-06-05,Low Value
+C00894,Ifeoma Obi,Male,55-64,Regular,Uyo,2025-09-07,Low Value
+C00895,Folake Balogun,Male,25-34,Occasional,Lagos Island,2020-11-12,Low Value
+C00896,Uche Nnamdi,Male,25-34,Regular,Jos,2025-01-30,Medium Value
+C00897,Rita Chukwu,Female,55-64,Occasional,Lagos Island,2022-08-19,Low Value
+C00898,Emeka Yakubu,Female,35-44,Occasional,Uyo,2023-09-05,Medium Value
+C00899,Sunday Adeyemi,Male,35-44,Occasional,Surulere,2018-04-23,High Value
+C00900,Damilola Uche,Female,35-44,Regular,Abeokuta,2020-03-30,Medium Value
+C00901,Sunday Abubakar,Female,45-54,Regular,Jos,2025-04-13,Low Value
+C00902,Segun Nwosu,Female,45-54,Regular,Abuja,2019-07-01,Medium Value
+C00903,Chidi Adekunle,Male,18-24,Regular,Onitsha,2022-05-31,Medium Value
+C00904,Aisha Balogun,Female,25-34,Occasional,Lagos Island,2025-01-10,High Value
+C00905,Blessing Ogunleye,Female,18-24,Corporate,Lagos Island,2024-12-06,Low Value
+C00906,Chinedu Suleiman,Female,45-54,Corporate,Jos,2019-04-26,High Value
+C00907,Yusuf Okonkwo,Female,25-34,Premium,Surulere,2026-01-01,Medium Value
+C00908,Tobi Okonkwo,Female,45-54,Regular,Lagos Island,2020-04-26,Medium Value
+C00909,Chinedu Uche,Female,25-34,Premium,Abeokuta,2019-08-21,Medium Value
+C00910,Damilola Danjuma,Male,18-24,Regular,Uyo,2025-09-03,Low Value
+C00911,Amaka Okonkwo,Female,45-54,Occasional,Ibadan,2022-06-17,High Value
+C00912,Adaeze Adeyemi,Female,55-64,Premium,Uyo,2024-03-31,Low Value
+C00913,Patience Ogunleye,Male,18-24,Premium,Uyo,2025-07-10,Medium Value
+C00914,Amaka Yakubu,Male,65+,Premium,Enugu,2022-06-05,High Value
+C00915,Ibrahim Okoro,Female,55-64,Regular,Uyo,2019-11-27,Low Value
+C00916,Tunde Afolabi,Male,25-34,Corporate,Jos,2022-11-09,Low Value
+C00917,Halima Yakubu,Female,25-34,Occasional,Onitsha,2021-02-24,Low Value
+C00918,Ibrahim Chukwu,Female,55-64,Regular,Jos,2020-12-16,Low Value
+C00919,Zainab Danjuma,Male,25-34,Regular,Lagos Island,2019-09-12,High Value
+C00920,Bimpe Danjuma,Female,18-24,Occasional,Jos,2020-12-01,High Value
+C00921,Musa Obi,Female,35-44,Regular,Surulere,2021-12-31,High Value
+C00922,Yusuf Uche,Male,45-54,Occasional,Ibadan,2019-01-19,Medium Value
+C00923,Chika Okonkwo,Male,35-44,Premium,Abuja,2025-06-09,Low Value
+C00924,Sunday Okoro,Male,55-64,Regular,Ikeja,2020-10-05,Medium Value
+C00925,Rita Eze,Female,25-34,Regular,Jos,2024-08-15,Medium Value
+C00926,Tobi Okafor,Female,65+,Occasional,Ilorin,2021-01-08,Medium Value
+C00927,Halima Aliyu,Male,25-34,Regular,Abeokuta,2026-03-16,Medium Value
+C00928,Halima Balogun,Female,18-24,Regular,Abeokuta,2018-08-16,Low Value
+C00929,Emeka Okafor,Male,25-34,Occasional,Abeokuta,2022-06-22,Medium Value
+C00930,Tunde Eze,Female,35-44,Regular,Abeokuta,2025-05-03,Low Value
+C00931,Tunde Yakubu,Male,45-54,Premium,Jos,2024-10-07,Medium Value
+C00932,Grace Afolabi,Female,18-24,Regular,Uyo,2022-05-09,Medium Value
+C00933,Damilola Nnamdi,Male,18-24,Regular,Ilorin,2022-11-14,Low Value
+C00934,Amaka Abubakar,Female,35-44,Premium,Ikeja,2025-04-06,Medium Value
+C00935,Emeka Okoro,Female,18-24,Regular,Abeokuta,2022-11-27,Low Value
+C00936,Blessing Uche,Male,35-44,Corporate,Ilorin,2023-11-13,High Value
+C00937,Blessing Eze,Female,35-44,Premium,Ibadan,2022-10-07,Medium Value
+C00938,Emeka Suleiman,Male,18-24,Occasional,Lagos Island,2024-07-26,Low Value
+C00939,Adaeze Balogun,Female,55-64,Regular,Enugu,2022-05-29,Low Value
+C00940,Femi Ogunleye,Female,25-34,Corporate,Lagos Island,2025-07-08,Medium Value
+C00941,Halima Ogunleye,Female,55-64,Regular,Onitsha,2018-11-17,High Value
+C00942,Ifeoma Okafor,Male,35-44,Premium,Uyo,2022-06-06,Low Value
+C00943,Tobi Okoro,Female,35-44,Corporate,Uyo,2026-05-07,Low Value
+C00944,Amaka Adekunle,Female,18-24,Regular,Akure,2025-09-28,High Value
+C00945,Musa Okonkwo,Male,25-34,Premium,Abeokuta,2018-03-07,Medium Value
+C00946,Bukola Obi,Male,18-24,Occasional,Surulere,2025-01-08,Medium Value
+C00947,Ifeoma Nwosu,Male,45-54,Regular,Jos,2018-03-31,Medium Value
+C00948,Chika Bello,Male,25-34,Occasional,Uyo,2023-01-16,High Value
+C00949,Ifeoma Nnamdi,Female,45-54,Occasional,Onitsha,2018-02-02,Low Value
+C00950,Adaeze Okoro,Female,35-44,Premium,Onitsha,2021-04-06,Low Value
+C00951,Aisha Adeyemi,Male,25-34,Regular,Ikeja,2023-06-22,Medium Value
+C00952,Blessing Okoro,Male,35-44,Corporate,Uyo,2025-04-09,Medium Value
+C00953,Chinedu Nwosu,Female,45-54,Premium,Ilorin,2022-11-22,Medium Value
+C00954,Chika Chukwu,Female,18-24,Regular,Uyo,2020-06-18,Low Value
+C00955,Damilola Yakubu,Female,45-54,Occasional,Onitsha,2025-07-20,Medium Value
+C00956,Halima Balogun,Female,18-24,Regular,Onitsha,2025-09-30,Medium Value
+C00957,Grace Uche,Male,25-34,Regular,Lagos Island,2022-08-31,Medium Value
+C00958,Ngozi Nwosu,Male,45-54,Occasional,Lagos Island,2020-12-04,Low Value
+C00959,Blessing Eze,Male,18-24,Regular,Ibadan,2021-10-15,Low Value
+C00960,Sunday Adeyemi,Female,55-64,Occasional,Ilorin,2021-12-26,Medium Value
+C00961,Musa Adeyemi,Female,45-54,Corporate,Ikeja,2019-03-03,Low Value
+C00962,Tobi Eze,Male,35-44,Regular,Ikeja,2024-11-05,Low Value
+C00963,Bimpe Uche,Female,45-54,Premium,Ikeja,2022-01-21,High Value
+C00964,Uche Abubakar,Male,45-54,Regular,Abuja,2022-01-29,Low Value
+C00965,Aisha Okoro,Female,25-34,Regular,Ibadan,2018-01-27,Medium Value
+C00966,Blessing Yakubu,Male,25-34,Occasional,Abuja,2026-06-19,Low Value
+C00967,Patience Nnamdi,Female,55-64,Occasional,Ilorin,2019-07-20,Low Value
+C00968,Chinedu Danjuma,Male,45-54,Occasional,Ilorin,2022-01-21,Low Value
+C00969,Uche Chukwu,Female,65+,Regular,Lagos Island,2018-12-14,Medium Value
+C00970,Amaka Abubakar,Male,65+,Corporate,Ilorin,2018-06-01,Low Value
+C00971,Kelechi Obi,Female,45-54,Regular,Uyo,2022-09-14,High Value
+C00972,Chidi Suleiman,Male,45-54,Regular,Akure,2021-02-19,Low Value
+C00973,Patience Ogunleye,Female,45-54,Occasional,Uyo,2025-01-01,Low Value
+C00974,Emeka Adeyemi,Female,25-34,Occasional,Surulere,2021-05-20,Medium Value
+C00975,Folake Okonkwo,Male,35-44,Regular,Uyo,2024-01-25,Low Value
+C00976,Chinedu Okafor,Female,25-34,Occasional,Abuja,2019-10-18,Low Value
+C00977,Halima Adeyemi,Female,25-34,Premium,Ikeja,2019-03-29,High Value
+C00978,Ifeoma Danjuma,Female,35-44,Regular,Uyo,2025-04-20,Low Value
+C00979,Chika Aliyu,Male,25-34,Regular,Enugu,2026-05-13,Low Value
+C00980,Kelechi Suleiman,Male,18-24,Premium,Akure,2026-01-04,Low Value
+C00981,Femi Eze,Male,45-54,Occasional,Ikeja,2022-01-19,High Value
+C00982,Chidi Abubakar,Female,25-34,Regular,Ilorin,2022-10-07,Medium Value
+C00983,Ibrahim Adekunle,Female,35-44,Premium,Ilorin,2024-04-08,Low Value
+C00984,Halima Nnamdi,Male,18-24,Regular,Ilorin,2023-06-29,High Value
+C00985,Ibrahim Suleiman,Male,45-54,Premium,Lagos Island,2025-11-25,Low Value
+C00986,Ngozi Eze,Female,18-24,Regular,Abeokuta,2024-04-08,High Value
+C00987,Ifeoma Yakubu,Female,65+,Regular,Jos,2019-09-20,High Value
+C00988,Tunde Aliyu,Female,18-24,Occasional,Abeokuta,2019-08-09,Medium Value
+C00989,Grace Okafor,Male,35-44,Regular,Lagos Island,2026-04-18,Medium Value
+C00990,Folake Aliyu,Female,55-64,Occasional,Jos,2024-06-05,Low Value
+C00991,Tunde Abubakar,Female,45-54,Occasional,Surulere,2024-10-16,Low Value
+C00992,Emeka Ogunleye,Female,25-34,Corporate,Uyo,2021-08-25,Medium Value
+C00993,Chidi Danjuma,Female,35-44,Occasional,Lagos Island,2025-07-09,Medium Value
+C00994,Folake Obi,Male,35-44,Regular,Onitsha,2025-12-07,Medium Value
+C00995,Chika Suleiman,Male,45-54,Premium,Lagos Island,2018-08-05,High Value
+C00996,Bimpe Okafor,Female,45-54,Regular,Enugu,2023-12-19,Medium Value
+C00997,Tobi Chukwu,Female,35-44,Premium,Lagos Island,2023-12-26,Medium Value
+C00998,Blessing Okafor,Female,25-34,Regular,Ikeja,2020-01-10,Medium Value
+C00999,Tunde Nwosu,Female,45-54,Regular,Abuja,2021-03-14,Low Value
+C01000,Tobi Chukwu,Male,18-24,Regular,Uyo,2018-08-30,High Value
+C01001,Blessing Chukwu,Female,25-34,Occasional,Ikeja,2019-08-07,High Value
+C01002,Sunday Ogunleye,Male,35-44,Occasional,Uyo,2020-09-08,Low Value
+C01003,Adaeze Chukwu,Female,35-44,Regular,Lagos Island,2021-01-08,Medium Value
+C01004,Rita Okafor,Female,35-44,Premium,Ikeja,2020-08-15,Medium Value
+C01005,Damilola Abubakar,Female,35-44,Regular,Ilorin,2024-03-22,Medium Value
+C01006,Ngozi Obi,Male,45-54,Premium,Abuja,2019-08-07,Low Value
+C01007,Femi Adeyemi,Male,45-54,Corporate,Onitsha,2024-03-23,Medium Value
+C01008,Chinedu Adeyemi,Female,25-34,Regular,Uyo,2019-11-17,Low Value
+C01009,Yusuf Aliyu,Female,18-24,Occasional,Enugu,2025-02-02,High Value
+C01010,Kelechi Eze,Male,45-54,Corporate,Abuja,2019-01-03,Medium Value
+C01011,Patience Chukwu,Female,35-44,Corporate,Ilorin,2023-08-30,Medium Value
+C01012,Uche Chukwu,Male,35-44,Premium,Lagos Island,2025-06-05,Low Value
+C01013,Damilola Okafor,Female,18-24,Regular,Lagos Island,2019-07-02,Medium Value
+C01014,Musa Okoro,Female,35-44,Occasional,Ikeja,2025-10-23,Medium Value
+C01015,Femi Eze,Female,65+,Regular,Onitsha,2025-07-13,Medium Value
+C01016,Kunle Okafor,Male,35-44,Corporate,Ilorin,2019-12-27,High Value
+C01017,Chinedu Afolabi,Female,25-34,Occasional,Abeokuta,2026-05-02,Low Value
+C01018,Aisha Okoro,Female,18-24,Premium,Onitsha,2020-06-24,Medium Value
+C01019,Kunle Adekunle,Male,55-64,Premium,Jos,2020-03-14,High Value
+C01020,Amaka Aliyu,Male,18-24,Regular,Ikeja,2020-03-04,High Value
+C01021,Bukola Bello,Female,25-34,Occasional,Onitsha,2024-05-23,Medium Value
+C01022,Zainab Danjuma,Male,55-64,Premium,Lagos Island,2025-08-20,Low Value
+C01023,Blessing Nnamdi,Female,18-24,Premium,Jos,2021-08-16,Medium Value
+C01024,Chidi Bello,Male,25-34,Regular,Ilorin,2018-06-28,Medium Value
+C01025,Yusuf Chukwu,Male,55-64,Occasional,Abeokuta,2022-05-25,Low Value
+C01026,Emeka Bello,Male,25-34,Regular,Ikeja,2022-10-02,High Value
+C01027,Patience Okafor,Female,45-54,Regular,Jos,2022-11-05,Medium Value
+C01028,Kunle Adeyemi,Female,35-44,Regular,Ikeja,2021-10-27,Low Value
+C01029,Femi Eze,Female,35-44,Regular,Lagos Island,2024-12-12,Low Value
+C01030,Uche Balogun,Male,18-24,Occasional,Lagos Island,2022-03-26,Medium Value
+C01031,Blessing Balogun,Male,45-54,Premium,Abeokuta,2025-01-08,Low Value
+C01032,Ifeoma Ogunleye,Female,25-34,Premium,Onitsha,2022-07-04,High Value
+C01033,Femi Nnamdi,Male,25-34,Corporate,Lagos Island,2022-04-22,Medium Value
+C01034,Chika Okonkwo,Male,18-24,Premium,Ikeja,2021-09-06,Medium Value
+C01035,Chidi Aliyu,Male,35-44,Regular,Abuja,2020-03-04,Medium Value
+C01036,Femi Nwosu,Male,18-24,Regular,Surulere,2024-12-18,Medium Value
+C01037,Ibrahim Yakubu,Female,35-44,Premium,Surulere,2022-11-21,High Value
+C01038,Tobi Chukwu,Female,25-34,Regular,Enugu,2021-06-18,Low Value
+C01039,Adaeze Bello,Male,25-34,Regular,Akure,2019-08-16,Medium Value
+C01040,Patience Balogun,Female,25-34,Premium,Ilorin,2020-04-04,Medium Value
+C01041,Bukola Aliyu,Female,35-44,Regular,Lagos Island,2021-09-18,High Value
+C01042,Grace Bello,Male,35-44,Occasional,Ilorin,2018-06-22,Medium Value
+C01043,Grace Chukwu,Female,25-34,Regular,Lagos Island,2020-09-06,Medium Value
+C01044,Ngozi Okafor,Male,18-24,Regular,Enugu,2018-10-30,Low Value
+C01045,Adaeze Okafor,Male,25-34,Regular,Ibadan,2022-01-14,Low Value
+C01046,Bukola Obi,Male,25-34,Regular,Ibadan,2021-10-23,Low Value
+C01047,Kunle Abubakar,Female,35-44,Occasional,Uyo,2018-03-27,Low Value
+C01048,Femi Bello,Female,45-54,Occasional,Ilorin,2021-06-03,Low Value
+C01049,Chidi Nnamdi,Male,18-24,Occasional,Surulere,2024-12-27,Low Value
+C01050,Zainab Adekunle,Female,25-34,Regular,Abeokuta,2020-02-25,Low Value
+C01051,Chika Okonkwo,Female,45-54,Regular,Lagos Island,2024-11-28,Medium Value
+C01052,Bukola Abubakar,Female,25-34,Regular,Jos,2021-02-21,Low Value
+C01053,Emeka Nwosu,Female,45-54,Premium,Ilorin,2024-11-23,Medium Value
+C01054,Femi Nwosu,Female,45-54,Premium,Jos,2023-10-27,Low Value
+C01055,Grace Afolabi,Female,35-44,Occasional,Lagos Island,2023-07-20,Medium Value
+C01056,Femi Bello,Female,25-34,Regular,Uyo,2020-04-11,Medium Value
+C01057,Segun Obi,Male,18-24,Regular,Ilorin,2022-03-13,Medium Value
+C01058,Chika Adeyemi,Female,35-44,Regular,Ilorin,2020-07-31,Medium Value
+C01059,Ngozi Okoro,Female,25-34,Regular,Ilorin,2022-08-03,Medium Value
+C01060,Emeka Yakubu,Male,25-34,Premium,Onitsha,2025-03-28,Medium Value
+C01061,Rita Bello,Male,18-24,Regular,Onitsha,2021-02-06,Medium Value
+C01062,Amaka Chukwu,Female,25-34,Occasional,Ibadan,2020-03-16,High Value
+C01063,Tunde Obi,Female,18-24,Regular,Uyo,2024-10-10,Low Value
+C01064,Kelechi Aliyu,Male,35-44,Premium,Surulere,2022-07-13,Low Value
+C01065,Aisha Okonkwo,Female,25-34,Premium,Onitsha,2020-07-21,Low Value
+C01066,Kunle Danjuma,Female,45-54,Regular,Akure,2026-02-07,Medium Value
+C01067,Blessing Okonkwo,Female,35-44,Premium,Uyo,2025-10-29,High Value
+C01068,Folake Okafor,Female,45-54,Occasional,Uyo,2019-06-10,Medium Value
+C01069,Amaka Adekunle,Female,25-34,Regular,Lagos Island,2022-10-10,Low Value
+C01070,Uche Aliyu,Female,65+,Regular,Uyo,2019-09-22,High Value
+C01071,Yusuf Okoro,Male,25-34,Corporate,Abeokuta,2022-05-02,High Value
+C01072,Amaka Obi,Male,18-24,Occasional,Jos,2019-03-04,High Value
+C01073,Emeka Adekunle,Female,25-34,Regular,Ilorin,2020-03-26,High Value
+C01074,Ngozi Suleiman,Male,25-34,Occasional,Abuja,2018-08-24,Medium Value
+C01075,Tunde Obi,Female,35-44,Regular,Akure,2019-03-30,High Value
+C01076,Folake Nnamdi,Female,25-34,Premium,Abeokuta,2020-04-22,Medium Value
+C01077,Musa Danjuma,Female,25-34,Corporate,Ilorin,2023-08-21,High Value
+C01078,Tobi Bello,Female,55-64,Occasional,Ilorin,2022-06-24,Medium Value
+C01079,Halima Balogun,Female,35-44,Corporate,Uyo,2018-06-10,Low Value
+C01080,Patience Uche,Female,35-44,Occasional,Lagos Island,2025-12-24,Medium Value
+C01081,Chidi Ogunleye,Female,35-44,Corporate,Lagos Island,2020-01-06,Low Value
+C01082,Kelechi Adeyemi,Male,55-64,Regular,Onitsha,2019-01-27,Medium Value
+C01083,Musa Okonkwo,Female,25-34,Occasional,Ikeja,2018-10-01,Low Value
+C01084,Sunday Eze,Female,25-34,Regular,Akure,2018-11-10,Medium Value
+C01085,Chinedu Balogun,Female,25-34,Occasional,Akure,2023-03-09,Medium Value
+C01086,Segun Eze,Male,25-34,Occasional,Jos,2018-02-13,Medium Value
+C01087,Zainab Bello,Female,18-24,Occasional,Lagos Island,2018-12-05,High Value
+C01088,Tobi Eze,Male,25-34,Premium,Uyo,2018-03-15,High Value
+C01089,Sunday Okafor,Female,25-34,Regular,Akure,2025-07-13,Low Value
+C01090,Zainab Okonkwo,Female,45-54,Occasional,Ilorin,2025-07-27,Medium Value
+C01091,Amaka Eze,Female,45-54,Regular,Onitsha,2026-01-13,High Value
+C01092,Sunday Okonkwo,Male,25-34,Regular,Ikeja,2022-03-26,High Value
+C01093,Chinedu Chukwu,Male,45-54,Regular,Ikeja,2018-04-25,Low Value
+C01094,Bimpe Nwosu,Male,25-34,Regular,Uyo,2025-06-13,Medium Value
+C01095,Yusuf Ogunleye,Male,55-64,Regular,Abuja,2025-01-11,High Value
+C01096,Ifeoma Yakubu,Female,25-34,Regular,Uyo,2020-05-25,High Value
+C01097,Femi Bello,Male,35-44,Regular,Onitsha,2020-05-21,Medium Value
+C01098,Chidi Okonkwo,Female,25-34,Premium,Ikeja,2018-10-03,Low Value
+C01099,Bimpe Afolabi,Male,35-44,Corporate,Uyo,2024-05-20,Low Value
+C01100,Tunde Chukwu,Male,35-44,Occasional,Uyo,2025-10-12,Low Value
+C01101,Grace Balogun,Female,18-24,Corporate,Ilorin,2025-06-22,Medium Value
+C01102,Halima Bello,Male,25-34,Premium,Ikeja,2025-03-08,Medium Value
+C01103,Blessing Bello,Male,18-24,Regular,Abeokuta,2026-04-11,Medium Value
+C01104,Yusuf Adeyemi,Male,55-64,Premium,Ilorin,2022-03-20,Low Value
+C01105,Tunde Afolabi,Female,35-44,Occasional,Ilorin,2021-09-08,Low Value
+C01106,Damilola Uche,Male,25-34,Occasional,Uyo,2022-08-27,Medium Value
+C01107,Adaeze Bello,Male,35-44,Regular,Uyo,2024-01-19,High Value
+C01108,Chinedu Balogun,Female,18-24,Regular,Surulere,2025-01-23,Low Value
+C01109,Emeka Nwosu,Male,25-34,Regular,Ilorin,2019-05-30,Medium Value
+C01110,Yusuf Bello,Female,25-34,Regular,Abeokuta,2026-02-03,Medium Value
+C01111,Yusuf Afolabi,Female,18-24,Corporate,Uyo,2025-02-16,Medium Value
+C01112,Femi Nnamdi,Female,45-54,Occasional,Jos,2023-04-13,High Value
+C01113,Blessing Balogun,Female,35-44,Regular,Lagos Island,2022-04-12,Medium Value
+C01114,Folake Danjuma,Female,25-34,Premium,Ikeja,2023-03-15,Medium Value
+C01115,Grace Okonkwo,Male,55-64,Regular,Ilorin,2026-01-07,Low Value
+C01116,Grace Adekunle,Female,55-64,Corporate,Uyo,2022-03-13,Medium Value
+C01117,Damilola Aliyu,Male,25-34,Regular,Ikeja,2021-06-14,Medium Value
+C01118,Bimpe Okonkwo,Female,65+,Occasional,Uyo,2024-05-05,Medium Value
+C01119,Damilola Yakubu,Male,35-44,Corporate,Abeokuta,2023-06-25,Medium Value
+C01120,Rita Yakubu,Male,45-54,Premium,Ibadan,2018-05-22,Medium Value
+C01121,Tunde Afolabi,Male,35-44,Corporate,Lagos Island,2025-08-21,High Value
+C01122,Damilola Adekunle,Female,45-54,Corporate,Ikeja,2019-01-14,Medium Value
+C01123,Chidi Nnamdi,Male,45-54,Regular,Abeokuta,2020-02-13,Medium Value
+C01124,Amaka Adekunle,Female,45-54,Occasional,Ikeja,2023-12-24,High Value
+C01125,Sunday Yakubu,Male,25-34,Regular,Uyo,2024-06-03,Low Value
+C01126,Bimpe Okoro,Male,18-24,Occasional,Abuja,2018-01-27,Medium Value
+C01127,Folake Nnamdi,Male,25-34,Regular,Surulere,2025-05-04,High Value
+C01128,Ibrahim Eze,Female,35-44,Regular,Akure,2020-01-16,High Value
+C01129,Patience Okonkwo,Female,65+,Occasional,Ilorin,2020-01-19,Medium Value
+C01130,Ifeoma Nwosu,Male,25-34,Regular,Ibadan,2025-01-01,High Value
+C01131,Chika Bello,Female,35-44,Occasional,Lagos Island,2018-05-02,High Value
+C01132,Chinedu Aliyu,Male,18-24,Premium,Lagos Island,2026-06-07,Medium Value
+C01133,Sunday Afolabi,Female,35-44,Regular,Abuja,2023-11-01,Medium Value
+C01134,Chidi Chukwu,Female,45-54,Corporate,Uyo,2025-08-24,Medium Value
+C01135,Ngozi Chukwu,Male,18-24,Occasional,Uyo,2018-08-23,Low Value
+C01136,Chinedu Ogunleye,Male,55-64,Regular,Abeokuta,2019-07-23,Medium Value
+C01137,Amaka Okoro,Female,35-44,Regular,Uyo,2024-12-07,High Value
+C01138,Bukola Adeyemi,Female,45-54,Regular,Jos,2022-01-15,Medium Value
+C01139,Patience Balogun,Female,25-34,Corporate,Jos,2024-11-14,Low Value
+C01140,Chidi Eze,Female,25-34,Regular,Surulere,2025-11-05,Low Value
+C01141,Patience Suleiman,Male,18-24,Occasional,Abeokuta,2024-05-31,Low Value
+C01142,Bukola Danjuma,Male,55-64,Corporate,Jos,2024-02-26,Low Value
+C01143,Aisha Okonkwo,Male,45-54,Occasional,Ikeja,2020-09-13,High Value
+C01144,Chinedu Nwosu,Female,55-64,Occasional,Abeokuta,2026-01-10,Low Value
+C01145,Grace Eze,Male,55-64,Premium,Jos,2025-06-20,High Value
+C01146,Uche Bello,Male,35-44,Regular,Uyo,2025-10-04,Low Value
+C01147,Bukola Nnamdi,Male,25-34,Regular,Ikeja,2024-04-20,High Value
+C01148,Halima Aliyu,Male,45-54,Regular,Uyo,2021-10-25,High Value
+C01149,Kelechi Aliyu,Male,25-34,Premium,Akure,2021-07-07,Low Value
+C01150,Uche Yakubu,Male,35-44,Premium,Abeokuta,2022-10-02,High Value
+C01151,Zainab Danjuma,Female,18-24,Corporate,Abeokuta,2018-02-07,Medium Value
+C01152,Tunde Ogunleye,Female,18-24,Occasional,Lagos Island,2023-02-10,Medium Value
+C01153,Ibrahim Eze,Female,65+,Occasional,Jos,2021-06-19,Medium Value
+C01154,Grace Uche,Female,18-24,Occasional,Surulere,2020-06-02,Low Value
+C01155,Bukola Bello,Male,55-64,Occasional,Jos,2020-05-12,Low Value
+C01156,Kunle Nwosu,Male,35-44,Regular,Jos,2021-05-10,Low Value
+C01157,Kelechi Balogun,Female,25-34,Corporate,Onitsha,2022-05-23,Medium Value
+C01158,Uche Aliyu,Male,45-54,Occasional,Ilorin,2019-06-21,Low Value
+C01159,Tunde Danjuma,Female,25-34,Regular,Akure,2024-06-22,Low Value
+C01160,Halima Okafor,Female,45-54,Premium,Surulere,2020-03-12,Medium Value
+C01161,Amaka Nwosu,Male,18-24,Corporate,Lagos Island,2022-10-16,Low Value
+C01162,Ibrahim Chukwu,Female,65+,Premium,Uyo,2019-04-26,Medium Value
+C01163,Aisha Adekunle,Female,25-34,Premium,Lagos Island,2019-05-02,Low Value
+C01164,Sunday Balogun,Female,55-64,Occasional,Ibadan,2022-03-18,Medium Value
+C01165,Ngozi Okafor,Male,18-24,Regular,Ilorin,2022-12-29,Medium Value
+C01166,Chika Aliyu,Female,25-34,Occasional,Enugu,2024-07-31,High Value
+C01167,Damilola Nnamdi,Female,35-44,Regular,Ikeja,2023-06-07,Low Value
+C01168,Bimpe Adekunle,Male,25-34,Occasional,Ilorin,2024-01-11,Medium Value
+C01169,Kunle Aliyu,Male,45-54,Regular,Ikeja,2023-10-27,High Value
+C01170,Musa Nwosu,Male,35-44,Occasional,Ikeja,2024-09-19,High Value
+C01171,Yusuf Nwosu,Male,35-44,Occasional,Lagos Island,2024-06-13,High Value
+C01172,Ibrahim Uche,Female,65+,Regular,Lagos Island,2019-05-26,Medium Value
+C01173,Ibrahim Uche,Female,18-24,Premium,Uyo,2018-07-09,Medium Value
+C01174,Tobi Obi,Male,45-54,Occasional,Lagos Island,2021-12-13,Medium Value
+C01175,Tunde Uche,Male,65+,Premium,Akure,2020-02-10,Medium Value
+C01176,Tunde Ogunleye,Female,18-24,Regular,Uyo,2021-02-10,Medium Value
+C01177,Kelechi Danjuma,Male,55-64,Occasional,Surulere,2019-10-31,Medium Value
+C01178,Damilola Afolabi,Male,45-54,Premium,Ilorin,2018-10-17,Medium Value
+C01179,Kunle Abubakar,Female,65+,Regular,Lagos Island,2022-09-16,Low Value
+C01180,Emeka Afolabi,Male,35-44,Occasional,Abuja,2020-10-10,High Value
+C01181,Emeka Yakubu,Female,45-54,Regular,Abeokuta,2025-03-07,Medium Value
+C01182,Kelechi Bello,Female,65+,Occasional,Ikeja,2019-02-06,High Value
+C01183,Chidi Uche,Female,18-24,Regular,Enugu,2026-03-03,Low Value
+C01184,Segun Ogunleye,Male,55-64,Regular,Uyo,2024-03-09,High Value
+C01185,Amaka Obi,Female,35-44,Regular,Lagos Island,2026-04-25,Low Value
+C01186,Tunde Abubakar,Male,25-34,Occasional,Lagos Island,2025-12-31,Low Value
+C01187,Ngozi Bello,Female,45-54,Regular,Uyo,2025-03-03,Low Value
+C01188,Folake Afolabi,Female,35-44,Occasional,Abeokuta,2023-08-20,Medium Value
+C01189,Folake Nnamdi,Female,45-54,Premium,Ikeja,2018-12-23,Low Value
+C01190,Bimpe Aliyu,Male,18-24,Regular,Jos,2019-01-19,Low Value
+C01191,Blessing Suleiman,Male,35-44,Premium,Onitsha,2018-02-13,Low Value
+C01192,Chinedu Ogunleye,Male,55-64,Occasional,Abuja,2022-07-19,Low Value
+C01193,Ngozi Bello,Male,35-44,Corporate,Ilorin,2026-05-29,Low Value
+C01194,Emeka Yakubu,Male,35-44,Corporate,Abuja,2019-12-18,Medium Value
+C01195,Ngozi Eze,Female,55-64,Regular,Onitsha,2019-11-30,Low Value
+C01196,Folake Uche,Female,25-34,Regular,Enugu,2019-04-28,Medium Value
+C01197,Rita Suleiman,Male,55-64,Occasional,Jos,2021-06-02,High Value
+C01198,Tobi Danjuma,Female,25-34,Regular,Uyo,2018-01-25,Low Value
+C01199,Kelechi Yakubu,Male,18-24,Premium,Ikeja,2020-02-02,Medium Value
+C01200,Blessing Eze,Female,18-24,Occasional,Ibadan,2019-09-22,Medium Value
+C01201,Ngozi Uche,Female,25-34,Regular,Ibadan,2022-06-08,High Value
+C01202,Amaka Danjuma,Male,18-24,Occasional,Lagos Island,2022-12-02,Medium Value
+C01203,Yusuf Eze,Male,25-34,Regular,Abuja,2025-12-14,Low Value
+C01204,Bimpe Okonkwo,Female,65+,Corporate,Ikeja,2018-05-10,Medium Value
+C01205,Grace Abubakar,Female,45-54,Occasional,Uyo,2024-03-03,Medium Value
+C01206,Kunle Adekunle,Male,18-24,Regular,Lagos Island,2026-04-27,High Value
+C01207,Ibrahim Okafor,Male,18-24,Occasional,Abuja,2021-11-10,Low Value
+C01208,Chinedu Nnamdi,Female,25-34,Premium,Abuja,2026-04-09,Medium Value
+C01209,Halima Suleiman,Male,25-34,Occasional,Ibadan,2019-09-17,Low Value
+C01210,Amaka Nnamdi,Male,35-44,Occasional,Ikeja,2020-10-10,Low Value
+C01211,Tobi Nwosu,Male,65+,Premium,Surulere,2023-08-20,Medium Value
+C01212,Kelechi Adeyemi,Female,65+,Corporate,Abuja,2019-06-26,High Value
+C01213,Emeka Adeyemi,Female,25-34,Regular,Abeokuta,2020-03-28,Medium Value
+C01214,Grace Adeyemi,Female,35-44,Regular,Ibadan,2022-10-12,Medium Value
+C01215,Musa Nnamdi,Male,25-34,Regular,Lagos Island,2021-12-08,High Value
+C01216,Halima Chukwu,Male,25-34,Regular,Onitsha,2025-05-29,High Value
+C01217,Segun Okoro,Female,25-34,Regular,Lagos Island,2020-01-28,Low Value
+C01218,Uche Yakubu,Female,45-54,Premium,Onitsha,2019-06-18,Medium Value
+C01219,Segun Okonkwo,Female,18-24,Regular,Onitsha,2025-04-17,High Value
+C01220,Rita Okonkwo,Male,45-54,Corporate,Ikeja,2024-07-30,Low Value
+C01221,Uche Uche,Female,65+,Regular,Surulere,2024-12-10,High Value
+C01222,Blessing Obi,Female,55-64,Occasional,Onitsha,2020-02-25,Low Value
+C01223,Femi Eze,Female,18-24,Regular,Ilorin,2022-02-08,Low Value
+C01224,Tobi Afolabi,Male,25-34,Corporate,Lagos Island,2019-11-15,Low Value
+C01225,Yusuf Adekunle,Female,45-54,Occasional,Ikeja,2025-10-12,High Value
+C01226,Ibrahim Adekunle,Female,25-34,Regular,Lagos Island,2026-06-02,High Value
+C01227,Yusuf Aliyu,Male,55-64,Occasional,Ilorin,2024-05-31,Medium Value
+C01228,Ibrahim Afolabi,Female,55-64,Regular,Ibadan,2026-01-30,Medium Value
+C01229,Aisha Adeyemi,Male,25-34,Premium,Ibadan,2019-12-02,Low Value
+C01230,Bukola Adeyemi,Male,65+,Regular,Ikeja,2021-01-12,High Value
+C01231,Damilola Ogunleye,Female,25-34,Corporate,Onitsha,2021-11-24,Medium Value
+C01232,Blessing Ogunleye,Female,25-34,Regular,Lagos Island,2019-07-02,Low Value
+C01233,Halima Afolabi,Male,25-34,Regular,Enugu,2020-06-17,High Value
+C01234,Musa Adekunle,Female,55-64,Premium,Onitsha,2026-05-13,Medium Value
+C01235,Aisha Chukwu,Female,25-34,Premium,Uyo,2022-12-17,High Value
+C01236,Halima Nnamdi,Female,18-24,Premium,Jos,2020-08-07,High Value
+C01237,Kunle Nwosu,Male,35-44,Corporate,Lagos Island,2020-01-28,Medium Value
+C01238,Folake Nwosu,Male,45-54,Occasional,Akure,2018-03-28,High Value
+C01239,Blessing Bello,Female,55-64,Corporate,Ikeja,2018-10-23,Low Value
+C01240,Halima Okafor,Male,25-34,Regular,Lagos Island,2019-07-17,Low Value
+C01241,Rita Adeyemi,Male,25-34,Regular,Surulere,2025-03-24,Low Value
+C01242,Chinedu Okafor,Male,35-44,Occasional,Ikeja,2024-09-22,Medium Value
+C01243,Sunday Aliyu,Female,45-54,Regular,Jos,2023-05-22,High Value
+C01244,Zainab Afolabi,Male,18-24,Regular,Onitsha,2018-08-17,Medium Value
+C01245,Chidi Nnamdi,Male,18-24,Regular,Abeokuta,2023-09-27,Medium Value
+C01246,Ngozi Uche,Male,55-64,Occasional,Ikeja,2019-08-27,Medium Value
+C01247,Aisha Eze,Female,25-34,Premium,Ikeja,2019-03-28,Medium Value
+C01248,Chidi Adeyemi,Male,25-34,Premium,Onitsha,2018-12-14,High Value
+C01249,Tunde Uche,Female,25-34,Regular,Jos,2022-10-08,Low Value
+C01250,Patience Balogun,Male,55-64,Corporate,Surulere,2020-12-23,Medium Value
+C01251,Femi Okoro,Male,18-24,Regular,Ibadan,2022-05-19,High Value
+C01252,Tunde Nwosu,Female,25-34,Premium,Jos,2021-08-16,Low Value
+C01253,Tobi Chukwu,Male,45-54,Occasional,Abeokuta,2022-08-23,Medium Value
+C01254,Grace Obi,Female,35-44,Occasional,Uyo,2024-02-29,High Value
+C01255,Blessing Suleiman,Male,45-54,Regular,Lagos Island,2026-01-07,Medium Value
+C01256,Ngozi Obi,Female,65+,Corporate,Lagos Island,2018-03-12,Low Value
+C01257,Bukola Abubakar,Female,35-44,Occasional,Onitsha,2022-01-18,Low Value
+C01258,Aisha Okonkwo,Male,18-24,Regular,Surulere,2022-09-21,Medium Value
+C01259,Musa Nnamdi,Female,18-24,Regular,Enugu,2018-04-18,High Value
+C01260,Bukola Nwosu,Male,18-24,Regular,Abeokuta,2024-08-29,High Value
+C01261,Kunle Nnamdi,Male,45-54,Premium,Surulere,2024-05-20,Low Value
+C01262,Folake Okoro,Female,45-54,Regular,Lagos Island,2025-11-01,Medium Value
+C01263,Adaeze Adeyemi,Male,35-44,Regular,Abuja,2019-10-01,Low Value
+C01264,Zainab Afolabi,Female,45-54,Regular,Lagos Island,2023-02-04,Medium Value
+C01265,Ibrahim Adekunle,Male,45-54,Regular,Lagos Island,2019-01-12,Medium Value
+C01266,Kunle Obi,Male,45-54,Premium,Uyo,2020-01-23,Low Value
+C01267,Kunle Adekunle,Male,18-24,Regular,Abuja,2022-07-18,High Value
+C01268,Ifeoma Balogun,Female,35-44,Occasional,Lagos Island,2019-03-21,Medium Value
+C01269,Zainab Eze,Male,25-34,Regular,Abeokuta,2019-10-29,High Value
+C01270,Damilola Adeyemi,Male,25-34,Corporate,Enugu,2020-04-06,High Value
+C01271,Adaeze Adeyemi,Female,18-24,Regular,Uyo,2023-06-05,Low Value
+C01272,Ibrahim Okonkwo,Female,45-54,Occasional,Surulere,2022-06-19,Low Value
+C01273,Uche Nnamdi,Male,35-44,Occasional,Lagos Island,2019-02-03,Medium Value
+C01274,Grace Aliyu,Male,25-34,Regular,Ilorin,2022-04-15,High Value
+C01275,Emeka Bello,Male,45-54,Occasional,Lagos Island,2025-01-07,Low Value
+C01276,Ibrahim Ogunleye,Female,35-44,Regular,Abeokuta,2023-08-17,Medium Value
+C01277,Adaeze Adekunle,Male,25-34,Premium,Ikeja,2022-10-31,Low Value
+C01278,Damilola Okoro,Male,45-54,Regular,Abeokuta,2024-05-11,Medium Value
+C01279,Grace Eze,Female,25-34,Corporate,Lagos Island,2018-12-24,High Value
+C01280,Ngozi Yakubu,Male,18-24,Occasional,Ilorin,2024-06-19,Medium Value
+C01281,Segun Danjuma,Male,55-64,Corporate,Jos,2023-04-23,High Value
+C01282,Kelechi Nnamdi,Male,35-44,Premium,Onitsha,2021-03-20,Low Value
+C01283,Emeka Nnamdi,Female,25-34,Occasional,Lagos Island,2022-03-11,Medium Value
+C01284,Adaeze Bello,Male,25-34,Regular,Uyo,2025-03-22,High Value
+C01285,Bukola Balogun,Male,25-34,Premium,Ikeja,2022-06-24,Medium Value
+C01286,Damilola Obi,Female,18-24,Regular,Ikeja,2023-04-03,Low Value
+C01287,Sunday Nnamdi,Male,25-34,Regular,Uyo,2022-06-14,Low Value
+C01288,Yusuf Okoro,Male,25-34,Regular,Surulere,2023-06-15,Low Value
+C01289,Damilola Okonkwo,Female,35-44,Corporate,Uyo,2019-08-20,High Value
+C01290,Patience Nnamdi,Female,25-34,Regular,Lagos Island,2022-01-20,Low Value
+C01291,Blessing Afolabi,Female,35-44,Regular,Ikeja,2025-09-01,Medium Value
+C01292,Folake Danjuma,Female,35-44,Occasional,Ibadan,2018-12-01,High Value
+C01293,Emeka Nnamdi,Female,65+,Regular,Akure,2018-08-09,Medium Value
+C01294,Grace Okoro,Male,65+,Regular,Enugu,2022-09-13,Medium Value
+C01295,Zainab Ogunleye,Male,18-24,Occasional,Onitsha,2018-02-10,High Value
+C01296,Kunle Chukwu,Male,25-34,Premium,Surulere,2025-06-13,Medium Value
+C01297,Ifeoma Nnamdi,Female,35-44,Regular,Ilorin,2021-07-20,Low Value
+C01298,Damilola Danjuma,Male,18-24,Occasional,Akure,2019-05-30,Medium Value
+C01299,Sunday Nwosu,Female,25-34,Regular,Akure,2024-02-15,Low Value
+C01300,Chinedu Yakubu,Female,18-24,Occasional,Ilorin,2024-06-20,Low Value
+C01301,Musa Okoro,Female,25-34,Regular,Onitsha,2019-05-26,Medium Value
+C01302,Ifeoma Nwosu,Female,25-34,Regular,Onitsha,2021-10-07,High Value
+C01303,Kelechi Uche,Female,35-44,Occasional,Ikeja,2022-11-21,Low Value
+C01304,Emeka Okafor,Female,18-24,Occasional,Onitsha,2019-03-02,Low Value
+C01305,Damilola Danjuma,Male,35-44,Occasional,Akure,2019-02-13,Medium Value
+C01306,Zainab Adekunle,Male,25-34,Premium,Ikeja,2023-02-06,Medium Value
+C01307,Blessing Adekunle,Male,55-64,Occasional,Ilorin,2023-03-16,Medium Value
+C01308,Segun Uche,Female,45-54,Regular,Abuja,2025-05-21,High Value
+C01309,Tunde Yakubu,Female,25-34,Corporate,Abuja,2018-04-18,Medium Value
+C01310,Yusuf Ogunleye,Female,45-54,Occasional,Enugu,2022-05-23,Medium Value
+C01311,Kelechi Nwosu,Female,55-64,Premium,Abuja,2025-02-19,Medium Value
+C01312,Patience Abubakar,Male,35-44,Occasional,Ibadan,2025-12-18,Low Value
+C01313,Uche Okonkwo,Male,18-24,Regular,Enugu,2019-10-14,High Value
+C01314,Musa Obi,Male,35-44,Regular,Surulere,2024-12-06,Low Value
+C01315,Damilola Yakubu,Male,25-34,Occasional,Abeokuta,2025-02-11,High Value
+C01316,Halima Adekunle,Female,35-44,Regular,Surulere,2020-10-01,Medium Value
+C01317,Chika Eze,Male,35-44,Premium,Ikeja,2025-02-27,High Value
+C01318,Chidi Nwosu,Male,18-24,Occasional,Akure,2020-12-09,Medium Value
+C01319,Patience Okafor,Female,18-24,Corporate,Ikeja,2023-07-05,Medium Value
+C01320,Kelechi Chukwu,Female,45-54,Regular,Lagos Island,2022-09-16,Low Value
+C01321,Chika Ogunleye,Male,18-24,Regular,Uyo,2025-05-25,Medium Value
+C01322,Tobi Obi,Male,25-34,Occasional,Ikeja,2024-11-19,High Value
+C01323,Zainab Okafor,Male,25-34,Regular,Akure,2018-05-02,High Value
+C01324,Aisha Balogun,Male,25-34,Premium,Ikeja,2019-07-22,Medium Value
+C01325,Damilola Uche,Female,45-54,Premium,Ilorin,2024-03-08,Low Value
+C01326,Segun Nwosu,Male,45-54,Occasional,Ibadan,2020-03-01,Low Value
+C01327,Chika Aliyu,Female,25-34,Regular,Jos,2019-02-26,Medium Value
+C01328,Blessing Ogunleye,Female,45-54,Premium,Onitsha,2023-01-02,Medium Value
+C01329,Chika Yakubu,Female,55-64,Occasional,Ilorin,2020-03-29,High Value
+C01330,Ibrahim Afolabi,Female,25-34,Occasional,Ilorin,2018-05-19,Medium Value
+C01331,Ifeoma Nwosu,Female,25-34,Regular,Abeokuta,2018-05-03,High Value
+C01332,Ngozi Yakubu,Male,45-54,Regular,Uyo,2025-05-14,Low Value
+C01333,Uche Okonkwo,Female,35-44,Regular,Abeokuta,2026-01-15,Medium Value
+C01334,Folake Ogunleye,Male,35-44,Regular,Ibadan,2022-04-29,Low Value
+C01335,Emeka Aliyu,Female,45-54,Regular,Uyo,2025-07-12,High Value
+C01336,Patience Okoro,Female,18-24,Regular,Ikeja,2018-07-23,High Value
+C01337,Tobi Chukwu,Female,25-34,Regular,Lagos Island,2019-12-02,Medium Value
+C01338,Chinedu Danjuma,Female,18-24,Corporate,Lagos Island,2024-06-16,Low Value
+C01339,Adaeze Chukwu,Male,18-24,Regular,Abuja,2023-12-01,Low Value
+C01340,Uche Yakubu,Female,18-24,Occasional,Jos,2021-01-30,Medium Value
+C01341,Folake Danjuma,Female,45-54,Corporate,Ikeja,2022-05-31,Low Value
+C01342,Ifeoma Okafor,Male,18-24,Regular,Ikeja,2024-12-06,Low Value
+C01343,Halima Nnamdi,Male,25-34,Regular,Uyo,2025-09-17,Low Value
+C01344,Chinedu Adeyemi,Female,55-64,Regular,Lagos Island,2024-01-11,Low Value
+C01345,Segun Chukwu,Female,25-34,Regular,Surulere,2018-11-04,Medium Value
+C01346,Tunde Chukwu,Male,45-54,Occasional,Abuja,2019-05-07,Medium Value
+C01347,Ifeoma Suleiman,Male,35-44,Occasional,Ibadan,2025-06-30,Medium Value
+C01348,Grace Bello,Male,25-34,Regular,Ikeja,2026-03-13,Medium Value
+C01349,Amaka Okonkwo,Male,18-24,Premium,Akure,2020-09-19,High Value
+C01350,Femi Adekunle,Male,35-44,Regular,Enugu,2020-06-04,Low Value
+C01351,Bukola Chukwu,Female,45-54,Occasional,Ilorin,2023-10-07,High Value
+C01352,Aisha Yakubu,Female,65+,Occasional,Ilorin,2019-06-17,Medium Value
+C01353,Yusuf Balogun,Female,25-34,Occasional,Enugu,2022-06-28,Medium Value
+C01354,Femi Eze,Male,25-34,Occasional,Lagos Island,2019-08-27,Medium Value
+C01355,Amaka Suleiman,Female,25-34,Regular,Onitsha,2023-05-05,High Value
+C01356,Yusuf Abubakar,Female,35-44,Premium,Lagos Island,2022-11-03,Medium Value
+C01357,Ifeoma Adeyemi,Female,45-54,Regular,Abeokuta,2022-02-23,High Value
+C01358,Tobi Afolabi,Female,35-44,Regular,Lagos Island,2019-12-25,Medium Value
+C01359,Aisha Eze,Male,55-64,Premium,Abeokuta,2019-03-31,High Value
+C01360,Segun Bello,Female,25-34,Regular,Ibadan,2019-02-18,Medium Value
+C01361,Patience Okonkwo,Female,35-44,Occasional,Abeokuta,2019-12-02,Low Value
+C01362,Bimpe Suleiman,Female,45-54,Occasional,Abeokuta,2019-01-22,High Value
+C01363,Emeka Nwosu,Male,25-34,Premium,Lagos Island,2025-08-23,Low Value
+C01364,Uche Okafor,Male,65+,Occasional,Lagos Island,2022-10-19,Low Value
+C01365,Tobi Yakubu,Female,35-44,Premium,Abeokuta,2018-02-09,Medium Value
+C01366,Kunle Okafor,Female,45-54,Premium,Lagos Island,2018-07-05,Low Value
+C01367,Ifeoma Uche,Female,35-44,Occasional,Onitsha,2019-01-20,Medium Value
+C01368,Segun Yakubu,Female,18-24,Regular,Uyo,2023-06-16,Low Value
+C01369,Bukola Ogunleye,Female,18-24,Occasional,Lagos Island,2025-06-12,High Value
+C01370,Bukola Bello,Male,25-34,Regular,Enugu,2022-08-08,Low Value
+C01371,Ngozi Okonkwo,Male,25-34,Corporate,Ikeja,2022-10-31,Low Value
+C01372,Amaka Obi,Female,65+,Occasional,Lagos Island,2025-01-11,Medium Value
+C01373,Ngozi Chukwu,Female,35-44,Corporate,Ibadan,2025-08-13,Medium Value
+C01374,Chika Suleiman,Female,45-54,Regular,Ilorin,2018-06-18,Medium Value
+C01375,Folake Eze,Male,35-44,Occasional,Ilorin,2021-11-22,Low Value
+C01376,Folake Ogunleye,Male,25-34,Regular,Abeokuta,2023-11-13,High Value
+C01377,Yusuf Uche,Male,18-24,Regular,Abuja,2018-06-17,Medium Value
+C01378,Adaeze Afolabi,Male,25-34,Regular,Ilorin,2018-01-03,Low Value
+C01379,Tunde Balogun,Female,18-24,Occasional,Abuja,2024-04-15,Medium Value
+C01380,Folake Bello,Male,35-44,Regular,Uyo,2018-11-27,Medium Value
+C01381,Chidi Afolabi,Female,35-44,Regular,Abuja,2019-02-06,Low Value
+C01382,Patience Aliyu,Male,45-54,Regular,Surulere,2021-08-13,Medium Value
+C01383,Folake Uche,Male,25-34,Corporate,Ilorin,2020-03-28,Medium Value
+C01384,Patience Nnamdi,Male,18-24,Regular,Uyo,2022-03-20,Medium Value
+C01385,Musa Yakubu,Female,25-34,Premium,Abuja,2025-09-07,Medium Value
+C01386,Chinedu Nnamdi,Male,45-54,Premium,Abeokuta,2024-04-08,Low Value
+C01387,Ibrahim Yakubu,Male,35-44,Occasional,Abeokuta,2024-07-05,High Value
+C01388,Tunde Adekunle,Male,35-44,Occasional,Ilorin,2022-05-28,Medium Value
+C01389,Emeka Adeyemi,Female,45-54,Premium,Uyo,2018-08-11,Medium Value
+C01390,Chika Okoro,Female,55-64,Regular,Enugu,2021-04-05,Low Value
+C01391,Musa Adeyemi,Male,35-44,Premium,Jos,2026-04-17,High Value
+C01392,Damilola Abubakar,Female,35-44,Occasional,Lagos Island,2025-07-30,Low Value
+C01393,Musa Okonkwo,Male,18-24,Regular,Ikeja,2024-12-29,Medium Value
+C01394,Yusuf Eze,Female,18-24,Premium,Uyo,2020-10-09,High Value
+C01395,Folake Adekunle,Female,65+,Occasional,Onitsha,2019-05-14,Medium Value
+C01396,Amaka Danjuma,Male,35-44,Premium,Lagos Island,2024-11-14,High Value
+C01397,Amaka Bello,Male,35-44,Occasional,Akure,2026-05-08,Medium Value
+C01398,Folake Eze,Female,25-34,Regular,Uyo,2021-04-02,Low Value
+C01399,Femi Nnamdi,Female,18-24,Regular,Ikeja,2019-03-16,Medium Value
+C01400,Chika Uche,Male,35-44,Occasional,Onitsha,2018-02-15,Medium Value
+C01401,Tunde Danjuma,Female,25-34,Corporate,Uyo,2021-12-23,Medium Value
+C01402,Yusuf Yakubu,Female,35-44,Regular,Surulere,2023-08-24,Medium Value
+C01403,Chika Chukwu,Female,45-54,Occasional,Ibadan,2026-01-24,Low Value
+C01404,Folake Adekunle,Male,55-64,Premium,Uyo,2025-05-20,Low Value
+C01405,Amaka Nwosu,Female,18-24,Regular,Enugu,2024-10-17,Medium Value
+C01406,Kunle Adekunle,Male,18-24,Occasional,Lagos Island,2024-12-04,Medium Value
+C01407,Ifeoma Okoro,Female,25-34,Regular,Abeokuta,2025-06-17,High Value
+C01408,Halima Adekunle,Female,55-64,Regular,Ibadan,2019-12-14,High Value
+C01409,Emeka Danjuma,Female,35-44,Occasional,Lagos Island,2026-05-30,Medium Value
+C01410,Femi Adekunle,Male,65+,Premium,Akure,2025-11-01,High Value
+C01411,Femi Uche,Male,25-34,Regular,Ilorin,2023-07-05,Low Value
+C01412,Emeka Aliyu,Male,35-44,Occasional,Akure,2020-02-27,High Value
+C01413,Chidi Okafor,Female,45-54,Premium,Ikeja,2019-07-30,Medium Value
+C01414,Halima Suleiman,Female,25-34,Regular,Jos,2025-08-26,Medium Value
+C01415,Tobi Obi,Male,45-54,Regular,Uyo,2021-12-31,Low Value
+C01416,Emeka Abubakar,Female,18-24,Premium,Lagos Island,2024-05-20,Medium Value
+C01417,Chinedu Bello,Female,55-64,Regular,Uyo,2021-09-17,High Value
+C01418,Folake Balogun,Male,55-64,Corporate,Ilorin,2019-10-09,Medium Value
+C01419,Adaeze Obi,Male,35-44,Corporate,Ibadan,2024-12-08,Low Value
+C01420,Uche Nnamdi,Female,25-34,Occasional,Lagos Island,2018-05-13,High Value
+C01421,Kunle Chukwu,Male,25-34,Regular,Enugu,2024-02-19,Low Value
+C01422,Kunle Adeyemi,Female,65+,Corporate,Onitsha,2025-11-19,Low Value
+C01423,Chidi Obi,Female,55-64,Regular,Lagos Island,2018-11-27,High Value
+C01424,Ibrahim Bello,Female,35-44,Regular,Abeokuta,2023-07-28,High Value
+C01425,Chinedu Okonkwo,Female,45-54,Occasional,Onitsha,2018-08-15,Medium Value
+C01426,Sunday Adekunle,Male,25-34,Regular,Surulere,2022-05-05,High Value
+C01427,Chidi Ogunleye,Female,25-34,Regular,Lagos Island,2019-04-29,Medium Value
+C01428,Chika Okafor,Male,25-34,Occasional,Onitsha,2019-01-12,Medium Value
+C01429,Bukola Bello,Male,18-24,Regular,Lagos Island,2018-03-03,Medium Value
+C01430,Ngozi Ogunleye,Male,65+,Regular,Uyo,2021-07-10,Medium Value
+C01431,Amaka Balogun,Male,25-34,Premium,Jos,2019-05-17,Low Value
+C01432,Chidi Bello,Female,45-54,Corporate,Onitsha,2022-01-02,Medium Value
+C01433,Aisha Suleiman,Female,25-34,Premium,Ikeja,2025-05-01,High Value
+C01434,Musa Ogunleye,Female,25-34,Regular,Surulere,2022-08-10,Low Value
+C01435,Aisha Uche,Male,18-24,Occasional,Surulere,2023-11-04,High Value
+C01436,Musa Danjuma,Female,65+,Regular,Lagos Island,2020-08-20,Medium Value
+C01437,Kelechi Uche,Male,18-24,Occasional,Uyo,2024-08-06,Medium Value
+C01438,Kelechi Danjuma,Male,25-34,Regular,Abuja,2022-04-17,Medium Value
+C01439,Folake Adeyemi,Female,55-64,Corporate,Uyo,2025-05-29,Low Value
+C01440,Patience Aliyu,Male,45-54,Regular,Onitsha,2020-12-11,Medium Value
+C01441,Patience Adeyemi,Male,35-44,Corporate,Abeokuta,2022-10-18,Low Value
+C01442,Femi Nnamdi,Female,25-34,Regular,Abeokuta,2023-12-31,High Value
+C01443,Segun Afolabi,Male,65+,Occasional,Abeokuta,2018-03-04,Medium Value
+C01444,Adaeze Ogunleye,Female,25-34,Occasional,Onitsha,2022-06-05,High Value
+C01445,Chika Chukwu,Female,45-54,Regular,Lagos Island,2021-06-11,Medium Value
+C01446,Adaeze Yakubu,Female,35-44,Premium,Abuja,2023-03-26,High Value
+C01447,Segun Ogunleye,Female,65+,Regular,Ibadan,2018-11-22,Low Value
+C01448,Segun Okoro,Male,25-34,Regular,Onitsha,2021-02-05,Low Value
+C01449,Ifeoma Adeyemi,Male,45-54,Occasional,Enugu,2020-08-11,Medium Value
+C01450,Musa Bello,Male,65+,Corporate,Ibadan,2024-03-16,High Value
+C01451,Zainab Adeyemi,Male,25-34,Regular,Ilorin,2021-12-18,High Value
+C01452,Aisha Okonkwo,Female,35-44,Occasional,Abuja,2018-11-14,High Value
+C01453,Chidi Uche,Male,18-24,Premium,Uyo,2022-10-13,Medium Value
+C01454,Chidi Yakubu,Female,55-64,Regular,Lagos Island,2022-07-30,High Value
+C01455,Folake Abubakar,Male,18-24,Regular,Uyo,2018-07-02,Medium Value
+C01456,Ibrahim Aliyu,Female,55-64,Regular,Enugu,2026-04-28,High Value
+C01457,Tunde Adekunle,Male,65+,Corporate,Abeokuta,2026-02-22,Medium Value
+C01458,Damilola Obi,Female,35-44,Regular,Ilorin,2024-06-10,Low Value
+C01459,Grace Suleiman,Female,25-34,Regular,Enugu,2024-10-22,Medium Value
+C01460,Uche Bello,Female,25-34,Regular,Ikeja,2020-09-26,Low Value
+C01461,Halima Nnamdi,Female,18-24,Premium,Ikeja,2022-12-28,Low Value
+C01462,Grace Ogunleye,Male,35-44,Regular,Enugu,2025-04-30,Low Value
+C01463,Rita Obi,Male,45-54,Regular,Enugu,2019-05-29,Low Value
+C01464,Segun Uche,Female,25-34,Regular,Abuja,2024-10-16,Medium Value
+C01465,Chika Okoro,Male,55-64,Occasional,Lagos Island,2019-08-31,High Value
+C01466,Segun Obi,Female,45-54,Regular,Lagos Island,2022-09-11,Low Value
+C01467,Musa Nwosu,Male,18-24,Occasional,Uyo,2018-04-09,Low Value
+C01468,Tunde Adekunle,Male,45-54,Regular,Uyo,2021-12-22,Medium Value
+C01469,Ifeoma Adeyemi,Male,45-54,Regular,Ilorin,2024-11-30,Low Value
+C01470,Femi Nnamdi,Female,45-54,Occasional,Lagos Island,2025-01-27,Low Value
+C01471,Rita Suleiman,Male,25-34,Regular,Enugu,2024-08-11,Medium Value
+C01472,Femi Adekunle,Female,35-44,Premium,Enugu,2025-04-13,Medium Value
+C01473,Aisha Uche,Female,25-34,Premium,Ilorin,2019-02-01,Medium Value
+C01474,Folake Chukwu,Female,25-34,Regular,Surulere,2022-10-14,High Value
+C01475,Chidi Okonkwo,Female,35-44,Premium,Onitsha,2026-03-29,Medium Value
+C01476,Folake Nwosu,Male,25-34,Premium,Abeokuta,2021-11-23,Low Value
+C01477,Rita Afolabi,Male,55-64,Occasional,Surulere,2021-03-27,High Value
+C01478,Kunle Suleiman,Male,18-24,Corporate,Onitsha,2024-03-11,Medium Value
+C01479,Chinedu Okoro,Male,25-34,Regular,Enugu,2020-03-10,Medium Value
+C01480,Ibrahim Abubakar,Female,25-34,Regular,Ikeja,2022-12-28,Medium Value
+C01481,Grace Afolabi,Male,55-64,Corporate,Ikeja,2022-11-06,Low Value
+C01482,Halima Bello,Male,25-34,Premium,Ibadan,2018-11-20,Medium Value
+C01483,Ibrahim Balogun,Female,55-64,Regular,Ikeja,2026-04-01,Low Value
+C01484,Uche Okonkwo,Male,55-64,Premium,Abeokuta,2023-11-06,High Value
+C01485,Bukola Bello,Male,25-34,Regular,Lagos Island,2022-03-21,Low Value
+C01486,Tunde Okonkwo,Male,65+,Occasional,Akure,2021-03-03,High Value
+C01487,Grace Obi,Male,45-54,Regular,Ibadan,2018-10-03,Medium Value
+C01488,Chika Bello,Female,35-44,Occasional,Lagos Island,2025-01-28,Low Value
+C01489,Chidi Uche,Female,35-44,Premium,Onitsha,2020-08-07,Medium Value
+C01490,Folake Eze,Male,18-24,Occasional,Abeokuta,2023-05-25,Medium Value
+C01491,Uche Bello,Female,18-24,Premium,Uyo,2023-01-06,Low Value
+C01492,Musa Adekunle,Male,45-54,Premium,Jos,2021-11-24,Medium Value
+C01493,Aisha Okafor,Female,25-34,Regular,Abuja,2025-09-15,High Value
+C01494,Segun Chukwu,Female,25-34,Regular,Uyo,2021-08-16,Medium Value
+C01495,Segun Okoro,Male,25-34,Occasional,Abeokuta,2018-08-12,Medium Value
+C01496,Chika Nwosu,Male,45-54,Regular,Onitsha,2020-06-25,Medium Value
+C01497,Tobi Obi,Male,65+,Regular,Uyo,2019-06-14,High Value
+C01498,Uche Yakubu,Male,35-44,Premium,Uyo,2025-11-26,Medium Value
+C01499,Kunle Obi,Female,55-64,Regular,Lagos Island,2019-10-06,Low Value
+C01500,Blessing Okonkwo,Male,55-64,Regular,Lagos Island,2021-09-19,Low Value
+C01501,Ifeoma Suleiman,Female,45-54,Regular,Abeokuta,2023-11-27,Medium Value
+C01502,Damilola Bello,Male,25-34,Regular,Uyo,2020-07-31,Low Value
+C01503,Kunle Afolabi,Male,18-24,Premium,Abuja,2019-06-22,High Value
+C01504,Kunle Obi,Male,18-24,Premium,Uyo,2026-04-30,High Value
+C01505,Bukola Uche,Female,25-34,Occasional,Abeokuta,2024-10-16,Medium Value
+C01506,Ifeoma Afolabi,Female,25-34,Regular,Abeokuta,2020-04-10,Low Value
+C01507,Segun Okoro,Female,55-64,Premium,Abeokuta,2024-04-16,Medium Value
+C01508,Halima Adekunle,Female,45-54,Occasional,Ilorin,2023-07-29,Medium Value
+C01509,Kelechi Bello,Female,25-34,Premium,Abeokuta,2018-04-12,Medium Value
+C01510,Emeka Eze,Male,25-34,Corporate,Enugu,2025-01-24,Medium Value
+C01511,Kelechi Ogunleye,Female,35-44,Occasional,Abeokuta,2019-08-02,High Value
+C01512,Segun Nnamdi,Female,45-54,Occasional,Lagos Island,2023-07-15,Medium Value
+C01513,Tobi Nnamdi,Male,25-34,Regular,Onitsha,2024-05-04,Low Value
+C01514,Grace Chukwu,Male,25-34,Occasional,Ilorin,2024-02-13,Medium Value
+C01515,Halima Balogun,Male,25-34,Regular,Surulere,2026-04-18,Low Value
+C01516,Ibrahim Eze,Male,25-34,Occasional,Ikeja,2019-10-26,High Value
+C01517,Grace Nwosu,Female,18-24,Occasional,Abuja,2022-10-04,Medium Value
+C01518,Ifeoma Nnamdi,Female,45-54,Occasional,Ibadan,2021-04-30,Medium Value
+C01519,Chidi Yakubu,Male,18-24,Premium,Akure,2024-11-24,Low Value
+C01520,Ngozi Suleiman,Female,35-44,Regular,Uyo,2026-01-05,Low Value
+C01521,Bukola Abubakar,Male,35-44,Occasional,Lagos Island,2026-01-28,Medium Value
+C01522,Tunde Okoro,Male,65+,Regular,Akure,2020-01-05,High Value
+C01523,Zainab Danjuma,Female,18-24,Premium,Onitsha,2019-01-20,High Value
+C01524,Damilola Obi,Male,25-34,Regular,Akure,2021-12-06,Medium Value
+C01525,Chika Uche,Female,35-44,Regular,Ibadan,2022-10-12,Medium Value
+C01526,Amaka Okonkwo,Male,35-44,Regular,Akure,2025-03-12,Medium Value
+C01527,Chika Eze,Male,45-54,Premium,Uyo,2020-12-12,Medium Value
+C01528,Tobi Afolabi,Female,25-34,Regular,Abeokuta,2024-08-22,Low Value
+C01529,Rita Ogunleye,Male,18-24,Premium,Lagos Island,2019-01-10,Medium Value
+C01530,Tunde Suleiman,Female,25-34,Premium,Abeokuta,2018-08-02,Medium Value
+C01531,Aisha Obi,Female,25-34,Regular,Jos,2019-04-26,Medium Value
+C01532,Uche Suleiman,Male,55-64,Occasional,Lagos Island,2023-11-09,Low Value
+C01533,Musa Abubakar,Female,35-44,Premium,Ibadan,2021-02-11,Low Value
+C01534,Chidi Nnamdi,Female,25-34,Occasional,Ilorin,2024-04-04,Low Value
+C01535,Halima Nnamdi,Male,35-44,Occasional,Akure,2021-11-18,Medium Value
+C01536,Rita Okafor,Male,35-44,Premium,Lagos Island,2020-01-04,Medium Value
+C01537,Ifeoma Yakubu,Female,35-44,Regular,Ibadan,2021-09-07,High Value
+C01538,Damilola Okoro,Female,18-24,Occasional,Ibadan,2021-01-31,Medium Value
+C01539,Chika Okafor,Female,65+,Premium,Jos,2018-08-23,High Value
+C01540,Bukola Obi,Male,18-24,Regular,Surulere,2026-05-30,Low Value
+C01541,Bukola Abubakar,Male,25-34,Occasional,Lagos Island,2019-12-26,Medium Value
+C01542,Adaeze Chukwu,Male,55-64,Regular,Akure,2025-12-20,Low Value
+C01543,Chinedu Chukwu,Female,55-64,Regular,Enugu,2026-04-09,Low Value
+C01544,Ibrahim Okafor,Female,25-34,Occasional,Lagos Island,2022-02-09,High Value
+C01545,Tunde Afolabi,Male,25-34,Regular,Onitsha,2023-08-17,High Value
+C01546,Blessing Nwosu,Male,25-34,Premium,Ikeja,2023-09-02,Medium Value
+C01547,Kunle Balogun,Female,18-24,Corporate,Lagos Island,2024-05-16,Low Value
+C01548,Uche Aliyu,Male,45-54,Occasional,Akure,2020-01-31,Medium Value
+C01549,Emeka Bello,Female,45-54,Premium,Akure,2023-03-01,Low Value
+C01550,Tunde Uche,Male,25-34,Regular,Ibadan,2026-04-12,High Value
+C01551,Blessing Bello,Male,25-34,Regular,Abeokuta,2021-07-16,Medium Value
+C01552,Segun Balogun,Female,25-34,Regular,Ilorin,2022-12-06,Medium Value
+C01553,Amaka Nwosu,Male,55-64,Premium,Surulere,2025-01-28,Medium Value
+C01554,Musa Nnamdi,Female,35-44,Occasional,Abeokuta,2020-05-12,Medium Value
+C01555,Ibrahim Obi,Female,18-24,Occasional,Ibadan,2025-11-05,Medium Value
+C01556,Adaeze Eze,Male,35-44,Premium,Uyo,2020-12-04,Medium Value
+C01557,Amaka Aliyu,Male,25-34,Regular,Uyo,2022-03-28,Low Value
+C01558,Bimpe Nnamdi,Female,25-34,Premium,Ikeja,2018-02-02,High Value
+C01559,Folake Nwosu,Female,35-44,Occasional,Ilorin,2022-01-06,Low Value
+C01560,Chika Aliyu,Female,45-54,Premium,Abeokuta,2023-02-13,Medium Value
+C01561,Tobi Chukwu,Female,45-54,Regular,Abeokuta,2022-03-09,Low Value
+C01562,Ifeoma Nnamdi,Female,45-54,Corporate,Uyo,2023-09-08,Medium Value
+C01563,Ibrahim Nwosu,Female,55-64,Corporate,Ilorin,2019-11-03,High Value
+C01564,Sunday Abubakar,Male,35-44,Occasional,Lagos Island,2024-05-15,Low Value
+C01565,Patience Abubakar,Female,35-44,Regular,Lagos Island,2021-06-20,Low Value
+C01566,Chidi Nwosu,Female,25-34,Regular,Akure,2020-03-31,Medium Value
+C01567,Aisha Abubakar,Female,18-24,Regular,Ikeja,2026-02-14,Medium Value
+C01568,Kelechi Okonkwo,Female,35-44,Occasional,Abeokuta,2025-09-14,Low Value
+C01569,Kelechi Abubakar,Female,45-54,Regular,Uyo,2019-01-28,Low Value
+C01570,Halima Nnamdi,Female,35-44,Regular,Enugu,2025-07-26,High Value
+C01571,Bimpe Bello,Female,25-34,Premium,Lagos Island,2024-10-28,Medium Value
+C01572,Kelechi Balogun,Male,18-24,Regular,Akure,2026-06-06,Medium Value
+C01573,Uche Adekunle,Male,25-34,Regular,Uyo,2019-01-16,Low Value
+C01574,Adaeze Afolabi,Female,25-34,Regular,Ilorin,2023-05-23,Low Value
+C01575,Patience Balogun,Female,45-54,Regular,Uyo,2023-03-20,Low Value
+C01576,Bimpe Chukwu,Male,35-44,Regular,Ilorin,2018-02-20,High Value
+C01577,Amaka Adekunle,Female,45-54,Regular,Ibadan,2025-05-02,Low Value
+C01578,Tobi Danjuma,Female,45-54,Occasional,Onitsha,2019-04-20,Low Value
+C01579,Patience Nwosu,Female,35-44,Regular,Ikeja,2019-04-03,High Value
+C01580,Rita Aliyu,Female,25-34,Occasional,Ilorin,2021-10-12,Medium Value
+C01581,Folake Adeyemi,Male,55-64,Premium,Lagos Island,2023-03-19,Low Value
+C01582,Ngozi Afolabi,Female,25-34,Regular,Lagos Island,2025-09-12,Medium Value
+C01583,Folake Yakubu,Female,18-24,Regular,Lagos Island,2020-01-03,Medium Value
+C01584,Halima Adeyemi,Female,25-34,Regular,Ikeja,2022-01-03,High Value
+C01585,Damilola Okoro,Female,55-64,Regular,Ilorin,2019-08-16,Low Value
+C01586,Rita Suleiman,Female,18-24,Regular,Lagos Island,2020-09-26,High Value
+C01587,Damilola Eze,Female,35-44,Occasional,Uyo,2026-02-12,Low Value
+C01588,Folake Nnamdi,Female,18-24,Corporate,Ibadan,2026-05-27,Low Value
+C01589,Chidi Balogun,Female,65+,Occasional,Enugu,2026-05-01,Medium Value
+C01590,Tobi Suleiman,Male,45-54,Regular,Enugu,2021-05-26,Medium Value
+C01591,Segun Nwosu,Female,35-44,Regular,Uyo,2022-11-25,Low Value
+C01592,Folake Afolabi,Male,25-34,Regular,Abuja,2025-08-09,Low Value
+C01593,Segun Danjuma,Female,18-24,Regular,Uyo,2021-01-30,Medium Value
+C01594,Folake Ogunleye,Female,35-44,Premium,Uyo,2024-11-09,Medium Value
+C01595,Rita Obi,Male,25-34,Regular,Ilorin,2023-05-03,High Value
+C01596,Grace Okonkwo,Male,45-54,Regular,Lagos Island,2026-04-30,Low Value
+C01597,Emeka Okoro,Female,18-24,Occasional,Ilorin,2024-05-29,Medium Value
+C01598,Sunday Chukwu,Female,45-54,Regular,Onitsha,2021-04-10,Medium Value
+C01599,Ngozi Aliyu,Female,25-34,Occasional,Abeokuta,2024-12-31,Medium Value
+C01600,Aisha Adekunle,Male,25-34,Corporate,Ikeja,2023-07-04,High Value
+C01601,Yusuf Eze,Female,25-34,Regular,Uyo,2020-06-13,Medium Value
+C01602,Sunday Okonkwo,Female,55-64,Regular,Uyo,2021-12-12,Medium Value
+C01603,Chidi Chukwu,Female,25-34,Regular,Ilorin,2025-06-13,Medium Value
+C01604,Bimpe Nwosu,Female,25-34,Premium,Uyo,2023-01-15,Low Value
+C01605,Bimpe Eze,Female,35-44,Regular,Abuja,2025-05-11,Medium Value
+C01606,Chinedu Ogunleye,Male,18-24,Premium,Ikeja,2025-02-19,Medium Value
+C01607,Blessing Okafor,Female,35-44,Regular,Jos,2026-03-18,Low Value
+C01608,Chinedu Ogunleye,Female,35-44,Occasional,Lagos Island,2022-02-25,Medium Value
+C01609,Bukola Bello,Male,35-44,Occasional,Akure,2026-02-09,Medium Value
+C01610,Emeka Okafor,Male,35-44,Premium,Onitsha,2021-04-15,Medium Value
+C01611,Patience Nwosu,Female,35-44,Regular,Onitsha,2020-09-17,Low Value
+C01612,Aisha Danjuma,Male,18-24,Regular,Abuja,2019-10-15,Low Value
+C01613,Bukola Adekunle,Male,45-54,Corporate,Onitsha,2023-04-10,High Value
+C01614,Damilola Obi,Male,35-44,Occasional,Lagos Island,2024-10-22,Medium Value
+C01615,Kunle Adeyemi,Female,25-34,Corporate,Ilorin,2022-06-20,Medium Value
+C01616,Ifeoma Abubakar,Female,45-54,Premium,Ikeja,2019-05-24,Low Value
+C01617,Blessing Chukwu,Male,55-64,Occasional,Akure,2022-02-10,Medium Value
+C01618,Damilola Balogun,Female,55-64,Premium,Abeokuta,2021-09-13,Low Value
+C01619,Folake Danjuma,Female,45-54,Occasional,Enugu,2021-11-03,Medium Value
+C01620,Sunday Abubakar,Male,35-44,Regular,Uyo,2018-05-27,Medium Value
+C01621,Folake Uche,Male,35-44,Regular,Ilorin,2026-01-02,Low Value
+C01622,Halima Abubakar,Male,35-44,Occasional,Ibadan,2019-09-25,Medium Value
+C01623,Bukola Okonkwo,Female,18-24,Regular,Uyo,2018-04-25,Low Value
+C01624,Bukola Suleiman,Female,35-44,Corporate,Uyo,2026-05-12,Medium Value
+C01625,Bukola Suleiman,Female,35-44,Regular,Jos,2024-08-01,Medium Value
+C01626,Grace Nwosu,Female,55-64,Regular,Ikeja,2023-11-22,Medium Value
+C01627,Yusuf Bello,Male,25-34,Occasional,Ikeja,2021-06-20,Medium Value
+C01628,Grace Danjuma,Male,45-54,Occasional,Ilorin,2021-12-31,Low Value
+C01629,Yusuf Yakubu,Male,25-34,Regular,Uyo,2026-04-25,Medium Value
+C01630,Zainab Obi,Male,65+,Regular,Enugu,2021-01-16,Medium Value
+C01631,Segun Nwosu,Male,25-34,Occasional,Lagos Island,2020-09-29,High Value
+C01632,Segun Obi,Female,18-24,Regular,Ikeja,2024-10-31,Low Value
+C01633,Ibrahim Uche,Male,25-34,Regular,Enugu,2019-06-27,Medium Value
+C01634,Zainab Adeyemi,Female,45-54,Regular,Jos,2019-02-07,High Value
+C01635,Grace Okonkwo,Male,35-44,Regular,Jos,2018-12-08,Medium Value
+C01636,Chika Nnamdi,Male,45-54,Regular,Akure,2018-02-09,Medium Value
+C01637,Tobi Danjuma,Male,25-34,Regular,Ibadan,2025-02-13,Medium Value
+C01638,Uche Suleiman,Female,35-44,Corporate,Abeokuta,2019-12-25,Medium Value
+C01639,Aisha Chukwu,Female,45-54,Premium,Ilorin,2023-12-20,High Value
+C01640,Bimpe Okoro,Male,25-34,Corporate,Jos,2026-06-27,Medium Value
+C01641,Emeka Nnamdi,Female,18-24,Occasional,Uyo,2020-01-03,Medium Value
+C01642,Kunle Nwosu,Male,45-54,Occasional,Akure,2024-01-16,Medium Value
+C01643,Uche Suleiman,Female,18-24,Regular,Onitsha,2021-06-04,Medium Value
+C01644,Tunde Chukwu,Male,25-34,Regular,Lagos Island,2025-07-15,Low Value
+C01645,Amaka Nwosu,Female,65+,Corporate,Onitsha,2024-11-04,Low Value
+C01646,Segun Bello,Female,35-44,Occasional,Abeokuta,2026-02-23,Medium Value
+C01647,Uche Yakubu,Female,35-44,Regular,Uyo,2021-06-08,Low Value
+C01648,Sunday Adekunle,Male,65+,Regular,Surulere,2018-01-24,Low Value
+C01649,Chinedu Okonkwo,Male,35-44,Regular,Uyo,2021-01-28,High Value
+C01650,Patience Adekunle,Female,35-44,Occasional,Akure,2022-10-18,Medium Value
+C01651,Bukola Afolabi,Male,18-24,Regular,Jos,2022-12-08,Low Value
+C01652,Grace Adeyemi,Female,45-54,Corporate,Jos,2024-08-25,Medium Value
+C01653,Chika Adekunle,Male,18-24,Premium,Ibadan,2024-10-21,Medium Value
+C01654,Rita Uche,Male,35-44,Occasional,Ikeja,2022-11-30,Medium Value
+C01655,Blessing Abubakar,Male,35-44,Premium,Onitsha,2026-03-20,High Value
+C01656,Uche Aliyu,Female,35-44,Occasional,Lagos Island,2020-10-01,High Value
+C01657,Bukola Chukwu,Female,55-64,Regular,Akure,2018-10-06,High Value
+C01658,Aisha Danjuma,Female,25-34,Occasional,Ibadan,2023-04-03,Medium Value
+C01659,Rita Okafor,Male,18-24,Regular,Uyo,2026-05-21,Low Value
+C01660,Kunle Suleiman,Male,55-64,Premium,Lagos Island,2018-07-16,Medium Value
+C01661,Ibrahim Chukwu,Female,25-34,Regular,Ikeja,2018-05-12,Low Value
+C01662,Emeka Obi,Male,35-44,Occasional,Ikeja,2024-05-04,Medium Value
+C01663,Tobi Okonkwo,Male,45-54,Regular,Ibadan,2023-04-03,Medium Value
+C01664,Tunde Chukwu,Male,25-34,Premium,Ilorin,2026-04-15,Medium Value
+C01665,Halima Nnamdi,Male,25-34,Regular,Onitsha,2025-10-07,Low Value
+C01666,Chinedu Bello,Female,25-34,Regular,Abeokuta,2018-03-19,Medium Value
+C01667,Zainab Danjuma,Male,45-54,Premium,Uyo,2021-08-30,Low Value
+C01668,Bukola Aliyu,Male,25-34,Regular,Abeokuta,2026-01-07,High Value
+C01669,Zainab Ogunleye,Male,45-54,Premium,Ikeja,2018-04-18,Medium Value
+C01670,Rita Bello,Male,25-34,Regular,Ibadan,2021-07-15,Medium Value
+C01671,Sunday Yakubu,Male,18-24,Occasional,Ilorin,2020-06-08,High Value
+C01672,Chinedu Danjuma,Male,25-34,Regular,Uyo,2022-03-17,High Value
+C01673,Chika Eze,Male,65+,Premium,Enugu,2022-04-08,Low Value
+C01674,Bimpe Okonkwo,Male,55-64,Occasional,Uyo,2019-05-14,Low Value
+C01675,Blessing Okonkwo,Male,65+,Occasional,Uyo,2021-07-21,Medium Value
+C01676,Ifeoma Danjuma,Male,18-24,Occasional,Uyo,2023-09-15,Low Value
+C01677,Ngozi Yakubu,Female,45-54,Regular,Abeokuta,2019-02-14,Medium Value
+C01678,Emeka Adekunle,Female,18-24,Corporate,Uyo,2025-11-12,High Value
+C01679,Bimpe Aliyu,Male,18-24,Regular,Jos,2020-10-16,Low Value
+C01680,Tobi Okonkwo,Female,25-34,Regular,Lagos Island,2018-09-08,Medium Value
+C01681,Rita Suleiman,Male,45-54,Occasional,Lagos Island,2019-12-17,Medium Value
+C01682,Patience Nwosu,Male,35-44,Regular,Uyo,2019-03-25,Low Value
+C01683,Tobi Chukwu,Male,45-54,Regular,Jos,2020-12-22,High Value
+C01684,Rita Nnamdi,Male,35-44,Occasional,Ilorin,2019-08-15,High Value
+C01685,Chinedu Yakubu,Male,18-24,Corporate,Ikeja,2019-02-15,Low Value
+C01686,Blessing Obi,Female,18-24,Premium,Lagos Island,2023-03-18,Medium Value
+C01687,Chidi Afolabi,Male,25-34,Premium,Onitsha,2023-04-08,Low Value
+C01688,Grace Okoro,Male,18-24,Premium,Surulere,2019-01-30,Medium Value
+C01689,Halima Eze,Female,25-34,Premium,Abeokuta,2018-12-03,Medium Value
+C01690,Halima Uche,Female,45-54,Premium,Enugu,2020-01-27,Medium Value
+C01691,Chidi Afolabi,Male,25-34,Regular,Surulere,2024-06-22,Medium Value
+C01692,Halima Adekunle,Male,45-54,Corporate,Lagos Island,2018-05-21,High Value
+C01693,Kunle Bello,Male,25-34,Regular,Jos,2018-05-20,Medium Value
+C01694,Yusuf Aliyu,Female,35-44,Regular,Onitsha,2021-11-09,Medium Value
+C01695,Ifeoma Afolabi,Female,25-34,Occasional,Ibadan,2022-12-07,Medium Value
+C01696,Sunday Obi,Female,35-44,Occasional,Uyo,2023-06-20,Low Value
+C01697,Emeka Yakubu,Female,35-44,Corporate,Surulere,2020-12-12,High Value
+C01698,Kunle Eze,Male,35-44,Regular,Uyo,2023-02-17,Medium Value
+C01699,Zainab Balogun,Male,25-34,Corporate,Ilorin,2022-11-22,High Value
+C01700,Aisha Okafor,Male,45-54,Regular,Onitsha,2025-08-19,Low Value
+C01701,Bukola Suleiman,Male,45-54,Regular,Abeokuta,2024-04-24,Low Value
+C01702,Bimpe Yakubu,Male,18-24,Regular,Onitsha,2023-12-15,Medium Value
+C01703,Musa Abubakar,Female,55-64,Regular,Uyo,2026-06-04,Medium Value
+C01704,Blessing Okoro,Female,25-34,Occasional,Abeokuta,2023-11-08,High Value
+C01705,Musa Obi,Female,25-34,Occasional,Onitsha,2020-10-26,Low Value
+C01706,Sunday Nnamdi,Male,18-24,Occasional,Abeokuta,2018-08-31,Medium Value
+C01707,Damilola Nnamdi,Female,35-44,Regular,Uyo,2019-10-16,High Value
+C01708,Tunde Adekunle,Male,45-54,Premium,Surulere,2021-02-05,Medium Value
+C01709,Amaka Afolabi,Female,18-24,Regular,Abeokuta,2019-08-07,Medium Value
+C01710,Tobi Okoro,Male,35-44,Regular,Ikeja,2025-01-18,Medium Value
+C01711,Femi Abubakar,Male,55-64,Occasional,Uyo,2024-11-03,Low Value
+C01712,Kelechi Afolabi,Male,35-44,Regular,Lagos Island,2018-06-17,Low Value
+C01713,Bukola Okoro,Female,25-34,Regular,Onitsha,2025-10-03,Low Value
+C01714,Aisha Okoro,Female,25-34,Premium,Ibadan,2022-01-25,Low Value
+C01715,Segun Afolabi,Female,25-34,Occasional,Uyo,2026-03-20,High Value
+C01716,Musa Okoro,Male,35-44,Regular,Abuja,2019-02-19,Low Value
+C01717,Sunday Okoro,Female,35-44,Occasional,Uyo,2019-03-02,High Value
+C01718,Chika Eze,Male,18-24,Occasional,Uyo,2019-03-18,Medium Value
+C01719,Chidi Ogunleye,Female,45-54,Occasional,Lagos Island,2025-12-15,Medium Value
+C01720,Bukola Danjuma,Male,55-64,Occasional,Abuja,2022-12-09,Low Value
+C01721,Yusuf Aliyu,Male,18-24,Corporate,Ikeja,2018-04-16,Medium Value
+C01722,Patience Okafor,Female,45-54,Regular,Uyo,2022-08-16,Medium Value
+C01723,Segun Danjuma,Male,25-34,Occasional,Ibadan,2020-10-15,Low Value
+C01724,Yusuf Obi,Female,45-54,Occasional,Lagos Island,2019-10-20,Low Value
+C01725,Uche Yakubu,Male,25-34,Regular,Ikeja,2018-12-31,Medium Value
+C01726,Tobi Okoro,Male,45-54,Regular,Jos,2021-07-05,Medium Value
+C01727,Chidi Yakubu,Male,65+,Regular,Ikeja,2022-11-29,High Value
+C01728,Rita Suleiman,Female,45-54,Premium,Uyo,2021-06-25,Medium Value
+C01729,Yusuf Balogun,Male,45-54,Corporate,Uyo,2018-11-08,Low Value
+C01730,Musa Chukwu,Female,25-34,Corporate,Ikeja,2019-08-21,Low Value
+C01731,Kunle Uche,Male,25-34,Regular,Lagos Island,2026-04-04,Medium Value
+C01732,Amaka Afolabi,Male,35-44,Occasional,Abeokuta,2019-09-27,Medium Value
+C01733,Femi Okonkwo,Male,18-24,Regular,Lagos Island,2020-07-14,Low Value
+C01734,Kunle Danjuma,Female,35-44,Corporate,Akure,2023-06-03,Medium Value
+C01735,Chika Adekunle,Female,45-54,Occasional,Uyo,2023-10-26,Low Value
+C01736,Blessing Yakubu,Female,55-64,Corporate,Uyo,2020-12-15,Medium Value
+C01737,Musa Abubakar,Female,55-64,Corporate,Abeokuta,2018-11-12,Low Value
+C01738,Tunde Eze,Female,35-44,Regular,Onitsha,2024-06-29,Medium Value
+C01739,Musa Obi,Male,35-44,Premium,Lagos Island,2021-11-27,Medium Value
+C01740,Grace Aliyu,Female,18-24,Corporate,Lagos Island,2022-11-29,Medium Value
+C01741,Damilola Adeyemi,Female,35-44,Occasional,Ikeja,2024-04-08,Low Value
+C01742,Halima Afolabi,Female,55-64,Occasional,Onitsha,2018-09-25,Medium Value
+C01743,Sunday Abubakar,Female,25-34,Premium,Onitsha,2025-11-24,Low Value
+C01744,Uche Bello,Female,18-24,Premium,Enugu,2021-06-01,Medium Value
+C01745,Tobi Adeyemi,Female,35-44,Occasional,Ikeja,2018-01-28,Medium Value
+C01746,Blessing Nwosu,Male,25-34,Premium,Lagos Island,2023-12-10,Low Value
+C01747,Damilola Okoro,Male,25-34,Regular,Uyo,2018-05-01,Medium Value
+C01748,Kelechi Nnamdi,Female,45-54,Regular,Uyo,2025-09-08,High Value
+C01749,Ngozi Nwosu,Female,55-64,Premium,Lagos Island,2021-06-28,Medium Value
+C01750,Aisha Yakubu,Male,25-34,Occasional,Ilorin,2020-04-01,Medium Value
+C01751,Adaeze Obi,Male,45-54,Regular,Lagos Island,2024-10-18,Low Value
+C01752,Chinedu Okafor,Female,25-34,Regular,Enugu,2023-12-08,Medium Value
+C01753,Bimpe Okonkwo,Female,25-34,Regular,Uyo,2018-10-12,High Value
+C01754,Rita Abubakar,Female,35-44,Occasional,Lagos Island,2025-08-30,Medium Value
+C01755,Chinedu Ogunleye,Male,55-64,Occasional,Ikeja,2022-12-29,Low Value
+C01756,Rita Uche,Male,25-34,Regular,Ilorin,2021-06-30,High Value
+C01757,Grace Okonkwo,Male,65+,Corporate,Ilorin,2019-02-13,Low Value
+C01758,Kunle Adekunle,Female,55-64,Occasional,Ikeja,2024-02-23,Medium Value
+C01759,Tunde Bello,Female,25-34,Regular,Uyo,2022-02-06,High Value
+C01760,Patience Aliyu,Male,45-54,Regular,Uyo,2023-05-22,Low Value
+C01761,Chika Obi,Female,45-54,Premium,Abeokuta,2024-04-25,Medium Value
+C01762,Sunday Okonkwo,Female,55-64,Regular,Abuja,2023-01-09,Medium Value
+C01763,Chinedu Okoro,Male,25-34,Premium,Uyo,2023-07-02,Medium Value
+C01764,Sunday Adeyemi,Male,25-34,Regular,Enugu,2021-03-22,Low Value
+C01765,Zainab Nwosu,Female,45-54,Premium,Lagos Island,2024-05-28,Low Value
+C01766,Yusuf Yakubu,Male,45-54,Occasional,Abuja,2022-04-26,Low Value
+C01767,Bukola Nwosu,Female,45-54,Regular,Akure,2023-11-17,High Value
+C01768,Chidi Bello,Female,18-24,Regular,Akure,2020-01-31,Medium Value
+C01769,Chinedu Adeyemi,Female,25-34,Occasional,Abeokuta,2024-11-15,High Value
+C01770,Amaka Chukwu,Male,65+,Occasional,Uyo,2020-09-11,Low Value
+C01771,Adaeze Abubakar,Male,35-44,Premium,Ibadan,2022-07-05,Low Value
+C01772,Amaka Aliyu,Female,25-34,Occasional,Ibadan,2022-09-28,Medium Value
+C01773,Blessing Nnamdi,Female,25-34,Corporate,Jos,2018-02-11,Medium Value
+C01774,Damilola Adekunle,Male,45-54,Regular,Abeokuta,2018-02-12,High Value
+C01775,Ifeoma Nwosu,Female,18-24,Premium,Lagos Island,2019-04-14,Low Value
+C01776,Amaka Adekunle,Female,35-44,Regular,Enugu,2020-11-16,Medium Value
+C01777,Kelechi Okonkwo,Male,35-44,Premium,Surulere,2019-05-05,Medium Value
+C01778,Grace Okoro,Male,18-24,Regular,Uyo,2018-05-27,High Value
+C01779,Patience Balogun,Male,35-44,Regular,Surulere,2025-10-12,Medium Value
+C01780,Amaka Suleiman,Male,45-54,Occasional,Lagos Island,2018-06-18,Medium Value
+C01781,Uche Afolabi,Male,25-34,Regular,Lagos Island,2019-09-18,Medium Value
+C01782,Folake Suleiman,Male,25-34,Premium,Uyo,2019-09-20,Low Value
+C01783,Chinedu Danjuma,Male,45-54,Premium,Abeokuta,2022-12-03,Medium Value
+C01784,Zainab Chukwu,Male,18-24,Regular,Ilorin,2019-08-11,Medium Value
+C01785,Halima Nwosu,Female,25-34,Regular,Ikeja,2024-12-08,Low Value
+C01786,Kelechi Okafor,Male,45-54,Occasional,Ikeja,2018-01-25,Low Value
+C01787,Adaeze Aliyu,Male,18-24,Occasional,Jos,2025-01-17,Low Value
+C01788,Kelechi Uche,Female,35-44,Occasional,Jos,2025-03-26,Medium Value
+C01789,Damilola Danjuma,Female,55-64,Regular,Onitsha,2021-11-14,Low Value
+C01790,Tunde Uche,Male,65+,Regular,Ibadan,2020-07-05,Low Value
+C01791,Halima Okafor,Female,45-54,Regular,Ilorin,2022-02-16,Medium Value
+C01792,Bukola Bello,Female,18-24,Premium,Akure,2024-01-27,Low Value
+C01793,Chidi Nnamdi,Female,45-54,Regular,Uyo,2022-09-21,Medium Value
+C01794,Uche Adekunle,Male,45-54,Regular,Akure,2021-10-15,Low Value
+C01795,Yusuf Ogunleye,Female,55-64,Premium,Abuja,2024-05-17,Medium Value
+C01796,Yusuf Adekunle,Male,35-44,Premium,Ilorin,2021-06-11,Medium Value
+C01797,Blessing Adeyemi,Male,25-34,Premium,Lagos Island,2024-12-29,Low Value
+C01798,Blessing Nwosu,Female,18-24,Regular,Enugu,2023-10-21,Low Value
+C01799,Halima Aliyu,Male,35-44,Premium,Akure,2021-01-24,High Value
+C01800,Femi Bello,Male,45-54,Premium,Onitsha,2021-07-20,Low Value
+C01801,Ibrahim Adeyemi,Male,45-54,Regular,Lagos Island,2024-11-13,Low Value
+C01802,Uche Balogun,Female,55-64,Regular,Surulere,2018-08-05,Low Value
+C01803,Kunle Balogun,Female,35-44,Regular,Ilorin,2021-06-13,Medium Value
+C01804,Bimpe Uche,Female,18-24,Premium,Surulere,2025-11-21,High Value
+C01805,Zainab Ogunleye,Female,25-34,Premium,Jos,2019-05-01,Low Value
+C01806,Musa Bello,Male,35-44,Regular,Ilorin,2021-02-25,High Value
+C01807,Tunde Adekunle,Female,25-34,Regular,Lagos Island,2018-06-11,Medium Value
+C01808,Rita Danjuma,Male,35-44,Regular,Jos,2022-01-24,Low Value
+C01809,Ngozi Chukwu,Male,55-64,Regular,Surulere,2024-05-10,Medium Value
+C01810,Kelechi Abubakar,Male,65+,Occasional,Akure,2025-08-06,Low Value
+C01811,Folake Balogun,Female,35-44,Occasional,Lagos Island,2021-08-06,Medium Value
+C01812,Blessing Nwosu,Female,55-64,Regular,Ibadan,2024-08-14,Low Value
+C01813,Grace Chukwu,Male,18-24,Regular,Abeokuta,2018-04-07,Medium Value
+C01814,Uche Adeyemi,Female,45-54,Occasional,Ilorin,2022-11-09,Low Value
+C01815,Zainab Adeyemi,Male,55-64,Corporate,Lagos Island,2021-09-25,Low Value
+C01816,Folake Adekunle,Male,55-64,Regular,Lagos Island,2018-03-20,Low Value
+C01817,Musa Adekunle,Female,25-34,Premium,Abuja,2021-01-12,Medium Value
+C01818,Tunde Yakubu,Female,35-44,Premium,Ibadan,2021-11-02,High Value
+C01819,Rita Balogun,Female,55-64,Occasional,Lagos Island,2023-01-17,Low Value
+C01820,Aisha Balogun,Male,25-34,Regular,Abeokuta,2019-03-15,Low Value
+C01821,Chinedu Okafor,Female,55-64,Premium,Surulere,2018-11-05,Medium Value
+C01822,Damilola Chukwu,Male,35-44,Regular,Surulere,2023-03-03,High Value
+C01823,Rita Balogun,Male,18-24,Corporate,Lagos Island,2026-05-14,Medium Value
+C01824,Aisha Okonkwo,Male,45-54,Regular,Ilorin,2025-09-09,High Value
+C01825,Musa Okoro,Male,35-44,Occasional,Enugu,2020-03-19,Low Value
+C01826,Femi Nwosu,Male,18-24,Corporate,Ibadan,2018-09-08,High Value
+C01827,Chika Okonkwo,Male,45-54,Regular,Lagos Island,2024-01-30,Low Value
+C01828,Aisha Nwosu,Female,35-44,Premium,Onitsha,2026-06-25,Medium Value
+C01829,Folake Okonkwo,Female,25-34,Regular,Abeokuta,2025-03-08,Medium Value
+C01830,Chidi Afolabi,Female,45-54,Regular,Ikeja,2025-05-06,Medium Value
+C01831,Adaeze Ogunleye,Female,18-24,Occasional,Ilorin,2026-03-22,High Value
+C01832,Amaka Balogun,Female,35-44,Corporate,Uyo,2026-05-07,Low Value
+C01833,Amaka Balogun,Female,45-54,Regular,Uyo,2024-10-16,Low Value
+C01834,Ngozi Okoro,Female,45-54,Regular,Akure,2023-05-22,Medium Value
+C01835,Adaeze Yakubu,Female,35-44,Premium,Uyo,2019-11-30,Medium Value
+C01836,Femi Abubakar,Male,45-54,Regular,Lagos Island,2023-03-18,Low Value
+C01837,Kelechi Abubakar,Female,25-34,Regular,Lagos Island,2021-07-21,High Value
+C01838,Yusuf Eze,Male,25-34,Regular,Uyo,2020-01-24,High Value
+C01839,Kelechi Nwosu,Female,45-54,Occasional,Ibadan,2023-07-31,Medium Value
+C01840,Tobi Okoro,Female,35-44,Occasional,Jos,2023-06-16,Low Value
+C01841,Ngozi Eze,Male,65+,Occasional,Onitsha,2018-09-02,Medium Value
+C01842,Ibrahim Okoro,Male,25-34,Regular,Abeokuta,2020-08-21,Medium Value
+C01843,Damilola Uche,Female,35-44,Premium,Ilorin,2021-10-18,Medium Value
+C01844,Ngozi Abubakar,Female,35-44,Premium,Lagos Island,2026-02-16,Medium Value
+C01845,Aisha Okonkwo,Female,45-54,Corporate,Uyo,2022-09-05,Medium Value
+C01846,Patience Afolabi,Female,35-44,Regular,Akure,2023-05-05,Low Value
+C01847,Patience Aliyu,Male,45-54,Premium,Abeokuta,2021-08-11,Medium Value
+C01848,Chidi Okafor,Female,35-44,Regular,Surulere,2023-04-09,Medium Value
+C01849,Ibrahim Okoro,Female,35-44,Occasional,Ibadan,2018-11-30,High Value
+C01850,Sunday Okonkwo,Female,45-54,Regular,Lagos Island,2022-05-15,Medium Value
+C01851,Damilola Okafor,Female,25-34,Premium,Onitsha,2020-07-03,High Value
+C01852,Uche Okoro,Female,35-44,Premium,Akure,2021-01-22,Low Value
+C01853,Tobi Eze,Female,45-54,Occasional,Akure,2024-09-13,Medium Value
+C01854,Folake Bello,Female,25-34,Occasional,Lagos Island,2023-08-27,Medium Value
+C01855,Tunde Uche,Male,18-24,Premium,Abuja,2020-04-16,High Value
+C01856,Sunday Abubakar,Female,35-44,Premium,Onitsha,2023-03-20,Medium Value
+C01857,Ifeoma Afolabi,Female,25-34,Occasional,Ilorin,2021-07-10,Medium Value
+C01858,Tunde Chukwu,Male,18-24,Occasional,Onitsha,2024-07-30,Medium Value
+C01859,Uche Adekunle,Male,35-44,Premium,Uyo,2019-08-04,High Value
+C01860,Kunle Adeyemi,Female,25-34,Occasional,Lagos Island,2024-11-16,Low Value
+C01861,Halima Abubakar,Female,18-24,Regular,Surulere,2018-08-17,High Value
+C01862,Musa Bello,Male,45-54,Corporate,Uyo,2019-11-01,High Value
+C01863,Sunday Balogun,Female,25-34,Regular,Abuja,2021-11-08,Medium Value
+C01864,Musa Abubakar,Male,45-54,Regular,Ikeja,2022-06-10,Low Value
+C01865,Aisha Bello,Male,35-44,Premium,Lagos Island,2020-12-04,Medium Value
+C01866,Aisha Okoro,Male,18-24,Occasional,Surulere,2025-10-27,Low Value
+C01867,Ibrahim Chukwu,Female,25-34,Premium,Uyo,2019-07-18,High Value
+C01868,Grace Okafor,Female,35-44,Regular,Enugu,2021-04-01,High Value
+C01869,Chika Okoro,Male,25-34,Regular,Uyo,2020-07-29,Medium Value
+C01870,Kelechi Okonkwo,Male,35-44,Corporate,Onitsha,2019-11-04,Medium Value
+C01871,Ngozi Suleiman,Female,25-34,Regular,Onitsha,2024-03-28,Medium Value
+C01872,Uche Afolabi,Female,18-24,Regular,Lagos Island,2020-03-12,Medium Value
+C01873,Amaka Suleiman,Female,25-34,Regular,Uyo,2025-04-22,Low Value
+C01874,Rita Okonkwo,Male,45-54,Occasional,Abeokuta,2026-05-01,Low Value
+C01875,Yusuf Aliyu,Female,25-34,Regular,Abeokuta,2025-07-24,Medium Value
+C01876,Yusuf Suleiman,Male,25-34,Regular,Lagos Island,2020-10-30,Low Value
+C01877,Grace Adekunle,Female,35-44,Regular,Lagos Island,2020-04-25,Low Value
+C01878,Zainab Ogunleye,Female,45-54,Occasional,Abeokuta,2023-05-21,High Value
+C01879,Chidi Okafor,Male,35-44,Occasional,Ibadan,2019-03-16,Low Value
+C01880,Femi Adekunle,Male,18-24,Regular,Akure,2021-05-27,Low Value
+C01881,Chidi Yakubu,Male,25-34,Occasional,Abeokuta,2026-04-27,Low Value
+C01882,Folake Abubakar,Female,35-44,Corporate,Akure,2019-05-07,High Value
+C01883,Halima Okafor,Female,25-34,Regular,Abeokuta,2025-02-20,Medium Value
+C01884,Musa Obi,Female,25-34,Occasional,Jos,2024-07-02,High Value
+C01885,Tunde Okonkwo,Male,25-34,Regular,Lagos Island,2025-10-04,Medium Value
+C01886,Blessing Nwosu,Male,35-44,Regular,Ikeja,2023-03-23,Low Value
+C01887,Musa Uche,Female,25-34,Regular,Ibadan,2021-02-24,Low Value
+C01888,Aisha Danjuma,Male,65+,Regular,Enugu,2020-02-10,Low Value
+C01889,Zainab Okoro,Male,45-54,Occasional,Abeokuta,2022-11-19,Medium Value
+C01890,Ngozi Danjuma,Female,35-44,Regular,Uyo,2024-09-15,Low Value
+C01891,Tunde Chukwu,Female,25-34,Premium,Uyo,2024-01-24,Medium Value
+C01892,Sunday Uche,Male,45-54,Occasional,Jos,2021-11-24,Low Value
+C01893,Ngozi Nnamdi,Male,35-44,Occasional,Uyo,2022-07-29,Low Value
+C01894,Femi Danjuma,Male,55-64,Regular,Surulere,2025-03-28,Medium Value
+C01895,Damilola Nwosu,Male,65+,Occasional,Uyo,2024-01-22,High Value
+C01896,Chidi Eze,Male,35-44,Premium,Ibadan,2022-09-13,Low Value
+C01897,Bimpe Bello,Female,35-44,Regular,Uyo,2025-06-15,Medium Value
+C01898,Ibrahim Adekunle,Male,35-44,Occasional,Ikeja,2022-06-06,Medium Value
+C01899,Femi Abubakar,Male,45-54,Occasional,Ilorin,2025-03-22,Low Value
+C01900,Tunde Balogun,Female,25-34,Regular,Akure,2023-07-22,Medium Value
+C01901,Kunle Okonkwo,Male,18-24,Regular,Akure,2019-01-31,High Value
+C01902,Emeka Balogun,Female,35-44,Regular,Uyo,2025-08-19,Low Value
+C01903,Musa Ogunleye,Female,25-34,Regular,Abeokuta,2018-02-13,Medium Value
+C01904,Rita Okoro,Male,45-54,Corporate,Jos,2024-08-12,Medium Value
+C01905,Segun Okoro,Female,45-54,Occasional,Abuja,2018-05-08,Low Value
+C01906,Chidi Yakubu,Female,65+,Regular,Jos,2024-12-15,Low Value
+C01907,Grace Afolabi,Male,18-24,Occasional,Ikeja,2018-12-22,Medium Value
+C01908,Uche Bello,Female,18-24,Regular,Ilorin,2026-05-27,Medium Value
+C01909,Ifeoma Okafor,Male,35-44,Occasional,Lagos Island,2022-08-09,Low Value
+C01910,Emeka Suleiman,Male,35-44,Occasional,Uyo,2022-12-26,Low Value
+C01911,Damilola Adeyemi,Female,35-44,Occasional,Jos,2024-01-04,High Value
+C01912,Folake Nwosu,Male,25-34,Regular,Ikeja,2023-01-25,Low Value
+C01913,Yusuf Okoro,Female,25-34,Regular,Lagos Island,2018-11-11,Low Value
+C01914,Folake Nwosu,Male,25-34,Occasional,Jos,2018-06-29,Medium Value
+C01915,Patience Eze,Male,25-34,Regular,Onitsha,2022-12-27,Medium Value
+C01916,Grace Yakubu,Female,18-24,Premium,Uyo,2022-11-30,Medium Value
+C01917,Blessing Okoro,Male,25-34,Premium,Abuja,2019-03-12,High Value
+C01918,Segun Yakubu,Female,25-34,Corporate,Surulere,2018-12-24,High Value
+C01919,Emeka Aliyu,Male,35-44,Regular,Onitsha,2019-10-26,Medium Value
+C01920,Grace Balogun,Male,35-44,Regular,Lagos Island,2020-12-13,Medium Value
+C01921,Folake Abubakar,Female,18-24,Regular,Lagos Island,2019-08-27,High Value
+C01922,Segun Aliyu,Male,25-34,Occasional,Uyo,2025-06-20,Low Value
+C01923,Patience Okonkwo,Male,35-44,Premium,Akure,2023-05-22,High Value
+C01924,Zainab Obi,Male,18-24,Regular,Ilorin,2022-05-08,High Value
+C01925,Grace Suleiman,Male,35-44,Regular,Abuja,2018-10-06,Low Value
+C01926,Aisha Afolabi,Female,18-24,Regular,Uyo,2022-01-21,Low Value
+C01927,Yusuf Yakubu,Female,35-44,Occasional,Abeokuta,2018-04-24,Low Value
+C01928,Grace Ogunleye,Female,35-44,Occasional,Lagos Island,2019-06-06,Medium Value
+C01929,Folake Okoro,Male,35-44,Regular,Ikeja,2023-11-06,Medium Value
+C01930,Chidi Abubakar,Male,25-34,Regular,Ilorin,2025-11-25,Low Value
+C01931,Folake Obi,Female,55-64,Occasional,Jos,2021-10-30,Medium Value
+C01932,Sunday Aliyu,Male,35-44,Regular,Jos,2022-05-01,Low Value
+C01933,Ibrahim Ogunleye,Male,25-34,Regular,Ibadan,2023-12-23,Low Value
+C01934,Ibrahim Bello,Female,55-64,Regular,Abeokuta,2024-08-31,Medium Value
+C01935,Folake Okonkwo,Female,35-44,Regular,Ibadan,2021-11-28,Medium Value
+C01936,Amaka Okonkwo,Male,45-54,Occasional,Akure,2025-07-06,Low Value
+C01937,Musa Obi,Female,25-34,Premium,Ilorin,2022-01-20,High Value
+C01938,Halima Uche,Male,25-34,Occasional,Uyo,2026-02-15,High Value
+C01939,Patience Okoro,Female,25-34,Premium,Ibadan,2025-04-06,Low Value
+C01940,Zainab Chukwu,Male,25-34,Regular,Ikeja,2023-02-24,Low Value
+C01941,Kelechi Okafor,Male,25-34,Corporate,Jos,2024-03-05,Medium Value
+C01942,Chika Afolabi,Female,25-34,Regular,Abuja,2024-03-05,Medium Value
+C01943,Tobi Eze,Female,35-44,Regular,Surulere,2023-06-29,High Value
+C01944,Sunday Adeyemi,Male,45-54,Regular,Onitsha,2022-01-20,Medium Value
+C01945,Patience Eze,Female,25-34,Occasional,Enugu,2019-06-06,High Value
+C01946,Uche Ogunleye,Female,25-34,Regular,Abeokuta,2019-04-02,Medium Value
+C01947,Sunday Afolabi,Female,45-54,Regular,Onitsha,2024-05-26,Medium Value
+C01948,Bimpe Adekunle,Male,35-44,Regular,Lagos Island,2020-06-19,High Value
+C01949,Tobi Afolabi,Female,18-24,Regular,Abuja,2026-04-21,Medium Value
+C01950,Tobi Nwosu,Male,55-64,Regular,Lagos Island,2023-02-26,Medium Value
+C01951,Blessing Aliyu,Female,35-44,Regular,Ikeja,2021-06-17,Medium Value
+C01952,Femi Abubakar,Female,55-64,Occasional,Lagos Island,2022-12-25,Medium Value
+C01953,Yusuf Okoro,Female,45-54,Premium,Uyo,2021-01-17,High Value
+C01954,Tobi Adekunle,Female,35-44,Regular,Ikeja,2023-09-10,Medium Value
+C01955,Amaka Adekunle,Male,45-54,Regular,Uyo,2025-11-02,Medium Value
+C01956,Aisha Uche,Male,25-34,Occasional,Lagos Island,2021-01-27,Low Value
+C01957,Aisha Balogun,Female,45-54,Regular,Enugu,2024-04-26,Medium Value
+C01958,Chinedu Okoro,Female,45-54,Corporate,Ikeja,2022-04-10,Medium Value
+C01959,Aisha Afolabi,Female,55-64,Regular,Lagos Island,2021-11-27,High Value
+C01960,Damilola Suleiman,Male,45-54,Corporate,Uyo,2024-07-26,High Value
+C01961,Emeka Nwosu,Male,35-44,Premium,Ibadan,2020-07-25,High Value
+C01962,Femi Abubakar,Female,18-24,Regular,Lagos Island,2020-11-11,Medium Value
+C01963,Bimpe Suleiman,Male,25-34,Regular,Lagos Island,2021-06-30,Medium Value
+C01964,Bimpe Uche,Female,55-64,Occasional,Abeokuta,2026-04-24,High Value
+C01965,Tobi Balogun,Male,45-54,Regular,Lagos Island,2020-03-11,Medium Value
+C01966,Zainab Yakubu,Male,25-34,Corporate,Abeokuta,2023-03-10,Low Value
+C01967,Bukola Nwosu,Female,35-44,Regular,Ilorin,2021-08-26,Low Value
+C01968,Tunde Nwosu,Male,35-44,Occasional,Abeokuta,2022-06-02,Low Value
+C01969,Chika Afolabi,Female,25-34,Regular,Ikeja,2022-02-13,Low Value
+C01970,Damilola Ogunleye,Male,18-24,Regular,Lagos Island,2019-10-26,Medium Value
+C01971,Patience Okoro,Female,35-44,Occasional,Ilorin,2023-12-07,Medium Value
+C01972,Ibrahim Yakubu,Female,45-54,Premium,Abuja,2025-04-05,High Value
+C01973,Tunde Adeyemi,Male,18-24,Corporate,Abeokuta,2023-08-09,High Value
+C01974,Kelechi Adekunle,Female,25-34,Regular,Akure,2022-08-17,Low Value
+C01975,Blessing Abubakar,Female,55-64,Occasional,Surulere,2020-06-01,Medium Value
+C01976,Kelechi Bello,Male,18-24,Regular,Ilorin,2021-05-21,Medium Value
+C01977,Femi Danjuma,Female,55-64,Premium,Abuja,2022-06-24,Low Value
+C01978,Tunde Eze,Female,25-34,Regular,Uyo,2020-10-02,Low Value
+C01979,Emeka Ogunleye,Female,25-34,Premium,Jos,2022-11-11,High Value
+C01980,Emeka Yakubu,Female,25-34,Corporate,Lagos Island,2023-05-18,High Value
+C01981,Tunde Obi,Female,18-24,Premium,Ilorin,2019-02-19,Medium Value
+C01982,Kelechi Chukwu,Female,25-34,Regular,Uyo,2023-01-11,High Value
+C01983,Chika Eze,Female,45-54,Regular,Ilorin,2023-10-19,High Value
+C01984,Halima Aliyu,Male,65+,Regular,Uyo,2024-02-23,Medium Value
+C01985,Femi Afolabi,Male,18-24,Corporate,Ikeja,2026-01-04,Medium Value
+C01986,Kelechi Bello,Male,18-24,Regular,Surulere,2021-02-03,High Value
+C01987,Yusuf Nnamdi,Male,25-34,Premium,Akure,2024-05-20,High Value
+C01988,Bimpe Adeyemi,Female,45-54,Occasional,Abeokuta,2018-09-29,Medium Value
+C01989,Rita Okoro,Male,18-24,Premium,Uyo,2019-11-10,Medium Value
+C01990,Bukola Okoro,Female,35-44,Premium,Uyo,2022-03-05,Medium Value
+C01991,Ibrahim Abubakar,Female,45-54,Occasional,Abeokuta,2021-08-30,Medium Value
+C01992,Blessing Okoro,Female,25-34,Premium,Jos,2018-04-02,Low Value
+C01993,Adaeze Aliyu,Female,45-54,Regular,Surulere,2022-07-16,Medium Value
+C01994,Chidi Bello,Female,55-64,Corporate,Onitsha,2020-06-15,Medium Value
+C01995,Halima Adekunle,Female,35-44,Regular,Abeokuta,2022-08-18,High Value
+C01996,Rita Balogun,Female,55-64,Regular,Uyo,2023-05-25,Low Value
+C01997,Blessing Okoro,Male,25-34,Regular,Abeokuta,2019-09-23,Medium Value
+C01998,Rita Adekunle,Male,25-34,Occasional,Abeokuta,2023-07-08,Medium Value
+C01999,Uche Nwosu,Female,35-44,Occasional,Ikeja,2019-11-07,High Value
+C02000,Chinedu Abubakar,Female,35-44,Regular,Surulere,2026-04-09,Low Value
+C02001,Grace Nwosu,Male,18-24,Corporate,Uyo,2018-01-09,Low Value
+C02002,Ngozi Aliyu,Male,18-24,Occasional,Uyo,2025-11-07,High Value
+C02003,Emeka Adeyemi,Male,45-54,Regular,Lagos Island,2024-07-15,Low Value
+C02004,Ifeoma Afolabi,Female,35-44,Premium,Onitsha,2023-07-02,Medium Value
+C02005,Femi Ogunleye,Female,25-34,Occasional,Ilorin,2018-09-24,High Value
+C02006,Aisha Uche,Male,25-34,Regular,Lagos Island,2024-10-20,Low Value
+C02007,Ngozi Suleiman,Female,25-34,Occasional,Uyo,2023-01-28,Medium Value
+C02008,Patience Uche,Female,25-34,Premium,Surulere,2020-08-21,High Value
+C02009,Chika Eze,Male,18-24,Regular,Surulere,2018-08-29,Low Value
+C02010,Sunday Chukwu,Female,35-44,Occasional,Abuja,2021-03-03,Medium Value
+C02011,Amaka Obi,Female,55-64,Regular,Jos,2025-03-24,Low Value
+C02012,Bimpe Adekunle,Male,25-34,Regular,Ibadan,2022-01-31,Medium Value
+C02013,Femi Adekunle,Female,35-44,Occasional,Abuja,2023-08-01,Low Value
+C02014,Chika Nwosu,Male,55-64,Regular,Ibadan,2026-06-06,Medium Value
+C02015,Chidi Chukwu,Male,18-24,Regular,Ilorin,2023-06-18,Medium Value
+C02016,Rita Okonkwo,Male,25-34,Occasional,Uyo,2021-02-12,Low Value
+C02017,Ngozi Chukwu,Male,18-24,Occasional,Ilorin,2024-11-23,Medium Value
+C02018,Uche Suleiman,Female,35-44,Occasional,Enugu,2019-08-29,Medium Value
+C02019,Yusuf Nnamdi,Male,35-44,Occasional,Onitsha,2024-11-12,Medium Value
+C02020,Femi Adeyemi,Female,25-34,Regular,Ikeja,2026-06-23,Medium Value
+C02021,Rita Danjuma,Male,55-64,Occasional,Abeokuta,2022-09-06,Medium Value
+C02022,Chidi Adeyemi,Male,35-44,Premium,Uyo,2021-05-14,Medium Value
+C02023,Aisha Adeyemi,Male,65+,Regular,Uyo,2023-12-14,High Value
+C02024,Emeka Afolabi,Female,18-24,Occasional,Abeokuta,2018-07-15,Low Value
+C02025,Adaeze Okoro,Male,35-44,Premium,Ikeja,2025-06-09,Low Value
+C02026,Zainab Chukwu,Male,35-44,Regular,Abuja,2022-05-13,High Value
+C02027,Aisha Okoro,Male,18-24,Corporate,Ibadan,2025-04-03,High Value
+C02028,Amaka Afolabi,Female,25-34,Regular,Lagos Island,2021-04-12,Medium Value
+C02029,Folake Obi,Male,18-24,Regular,Ikeja,2021-03-28,Low Value
+C02030,Aisha Balogun,Female,65+,Regular,Ilorin,2018-01-14,Medium Value
+C02031,Sunday Obi,Female,35-44,Premium,Onitsha,2023-08-12,Medium Value
+C02032,Ngozi Balogun,Female,25-34,Occasional,Onitsha,2018-12-08,Low Value
+C02033,Chinedu Ogunleye,Male,65+,Regular,Uyo,2026-02-18,High Value
+C02034,Zainab Okonkwo,Female,65+,Occasional,Uyo,2025-09-25,High Value
+C02035,Patience Nnamdi,Male,45-54,Occasional,Uyo,2022-05-14,Medium Value
+C02036,Tobi Okoro,Male,65+,Occasional,Jos,2020-02-18,Medium Value
+C02037,Kelechi Chukwu,Female,25-34,Regular,Ilorin,2023-02-19,High Value
+C02038,Ngozi Okafor,Female,35-44,Regular,Lagos Island,2024-05-27,Low Value
+C02039,Emeka Abubakar,Male,35-44,Premium,Ikeja,2023-03-14,Medium Value
+C02040,Grace Obi,Female,18-24,Occasional,Uyo,2023-04-24,Medium Value
+C02041,Kunle Nnamdi,Female,18-24,Regular,Abeokuta,2024-01-09,Low Value
+C02042,Musa Afolabi,Female,65+,Regular,Abuja,2019-07-15,Low Value
+C02043,Ngozi Balogun,Female,25-34,Regular,Lagos Island,2023-12-15,High Value
+C02044,Uche Nwosu,Male,55-64,Corporate,Onitsha,2021-03-13,Medium Value
+C02045,Ngozi Eze,Male,65+,Occasional,Uyo,2019-02-15,Low Value
+C02046,Chika Okonkwo,Male,25-34,Regular,Onitsha,2020-01-19,Low Value
+C02047,Patience Obi,Female,55-64,Occasional,Ikeja,2018-11-23,Low Value
+C02048,Rita Adeyemi,Female,55-64,Regular,Uyo,2026-06-09,Medium Value
+C02049,Tunde Balogun,Male,55-64,Premium,Ikeja,2018-08-02,Low Value
+C02050,Grace Yakubu,Female,35-44,Regular,Enugu,2018-06-24,Low Value
+C02051,Emeka Chukwu,Male,25-34,Corporate,Ikeja,2020-10-11,Medium Value
+C02052,Grace Okonkwo,Male,25-34,Corporate,Ilorin,2018-03-10,Medium Value
+C02053,Chinedu Suleiman,Female,35-44,Occasional,Akure,2022-07-29,Medium Value
+C02054,Adaeze Nnamdi,Male,35-44,Regular,Ilorin,2020-09-01,Medium Value
+C02055,Kelechi Aliyu,Female,55-64,Regular,Abeokuta,2019-07-12,Medium Value
+C02056,Musa Nnamdi,Female,35-44,Premium,Ikeja,2019-05-26,Medium Value
+C02057,Halima Afolabi,Male,35-44,Occasional,Enugu,2020-02-23,High Value
+C02058,Aisha Abubakar,Male,25-34,Regular,Lagos Island,2025-07-11,Low Value
+C02059,Kelechi Abubakar,Male,25-34,Regular,Lagos Island,2025-09-02,Low Value
+C02060,Ifeoma Okafor,Female,18-24,Regular,Surulere,2026-01-16,High Value
+C02061,Patience Eze,Female,25-34,Regular,Ilorin,2025-04-08,Low Value
+C02062,Amaka Okonkwo,Male,25-34,Regular,Abeokuta,2022-12-22,Medium Value
+C02063,Blessing Adeyemi,Female,18-24,Premium,Lagos Island,2021-01-26,Low Value
+C02064,Halima Danjuma,Female,25-34,Regular,Abeokuta,2018-09-02,High Value
+C02065,Bimpe Nnamdi,Male,35-44,Occasional,Ikeja,2021-02-18,Medium Value
+C02066,Folake Bello,Female,25-34,Occasional,Jos,2021-11-25,Low Value
+C02067,Bimpe Okoro,Male,35-44,Regular,Abeokuta,2021-01-09,Medium Value
+C02068,Aisha Obi,Male,18-24,Occasional,Ilorin,2022-04-25,Medium Value
+C02069,Segun Suleiman,Female,45-54,Regular,Enugu,2019-02-09,Low Value
+C02070,Aisha Uche,Female,45-54,Occasional,Onitsha,2019-03-15,Low Value
+C02071,Patience Suleiman,Male,35-44,Corporate,Lagos Island,2024-06-10,High Value
+C02072,Uche Obi,Female,35-44,Regular,Akure,2018-03-22,High Value
+C02073,Folake Nnamdi,Female,45-54,Regular,Akure,2026-03-20,Medium Value
+C02074,Kunle Ogunleye,Female,18-24,Premium,Akure,2025-07-06,Low Value
+C02075,Adaeze Chukwu,Female,35-44,Regular,Uyo,2021-08-23,Medium Value
+C02076,Zainab Okafor,Male,18-24,Occasional,Abeokuta,2022-10-31,Medium Value
+C02077,Yusuf Danjuma,Female,35-44,Occasional,Ikeja,2018-06-29,Low Value
+C02078,Femi Abubakar,Male,45-54,Regular,Ikeja,2024-02-25,High Value
+C02079,Rita Aliyu,Female,18-24,Regular,Enugu,2018-02-17,Low Value
+C02080,Emeka Chukwu,Male,35-44,Regular,Ibadan,2020-05-06,Low Value
+C02081,Halima Bello,Male,35-44,Regular,Lagos Island,2024-01-09,Low Value
+C02082,Halima Okafor,Female,45-54,Regular,Abuja,2025-10-21,Low Value
+C02083,Emeka Suleiman,Male,55-64,Regular,Abuja,2019-02-14,Low Value
+C02084,Sunday Danjuma,Male,18-24,Regular,Enugu,2022-01-01,High Value
+C02085,Yusuf Nwosu,Male,25-34,Regular,Lagos Island,2021-02-01,High Value
+C02086,Yusuf Abubakar,Female,35-44,Occasional,Abeokuta,2020-05-06,Medium Value
+C02087,Ifeoma Okonkwo,Female,35-44,Occasional,Abeokuta,2018-05-09,Low Value
+C02088,Tunde Balogun,Male,35-44,Regular,Uyo,2022-11-04,High Value
+C02089,Amaka Nnamdi,Male,18-24,Regular,Ikeja,2019-12-19,High Value
+C02090,Blessing Bello,Male,25-34,Premium,Onitsha,2019-03-21,Low Value
+C02091,Chidi Aliyu,Female,55-64,Regular,Onitsha,2023-12-15,Medium Value
+C02092,Yusuf Danjuma,Female,25-34,Occasional,Ilorin,2024-05-12,Medium Value
+C02093,Tobi Okonkwo,Male,25-34,Regular,Onitsha,2020-12-01,Medium Value
+C02094,Bukola Aliyu,Male,45-54,Regular,Lagos Island,2019-01-08,Medium Value
+C02095,Zainab Eze,Female,25-34,Premium,Surulere,2025-11-08,High Value
+C02096,Zainab Bello,Male,25-34,Regular,Onitsha,2020-01-07,Medium Value
+C02097,Aisha Obi,Male,25-34,Premium,Ibadan,2018-10-31,Medium Value
+C02098,Tunde Nwosu,Male,25-34,Occasional,Akure,2024-02-27,High Value
+C02099,Musa Balogun,Male,35-44,Regular,Onitsha,2020-06-22,High Value
+C02100,Femi Nwosu,Female,65+,Regular,Lagos Island,2021-08-11,Low Value
+C02101,Sunday Okafor,Male,18-24,Regular,Enugu,2018-04-22,High Value
+C02102,Yusuf Okoro,Male,35-44,Occasional,Uyo,2025-09-18,High Value
+C02103,Halima Ogunleye,Male,45-54,Corporate,Uyo,2025-01-27,Medium Value
+C02104,Patience Suleiman,Female,45-54,Regular,Ikeja,2019-04-17,Medium Value
+C02105,Tobi Aliyu,Female,25-34,Premium,Ikeja,2019-08-29,High Value
+C02106,Ibrahim Ogunleye,Male,25-34,Premium,Ilorin,2021-03-29,Medium Value
+C02107,Adaeze Ogunleye,Male,18-24,Regular,Abeokuta,2018-04-18,Medium Value
+C02108,Uche Balogun,Female,45-54,Regular,Surulere,2025-02-20,Medium Value
+C02109,Ifeoma Bello,Female,18-24,Regular,Abeokuta,2024-04-25,Low Value
+C02110,Amaka Adeyemi,Female,25-34,Regular,Enugu,2022-02-22,Medium Value
+C02111,Zainab Adeyemi,Female,18-24,Regular,Abuja,2018-06-21,Medium Value
+C02112,Zainab Danjuma,Female,45-54,Regular,Onitsha,2024-11-20,Low Value
+C02113,Bimpe Abubakar,Male,18-24,Occasional,Ikeja,2023-11-24,Low Value
+C02114,Kunle Suleiman,Male,55-64,Corporate,Lagos Island,2020-11-01,Medium Value
+C02115,Segun Nwosu,Female,35-44,Corporate,Ilorin,2026-03-23,High Value
+C02116,Sunday Okonkwo,Male,25-34,Regular,Ikeja,2026-01-20,High Value
+C02117,Tobi Uche,Male,35-44,Premium,Abeokuta,2022-06-27,Medium Value
+C02118,Chinedu Bello,Female,45-54,Regular,Ilorin,2019-10-12,Medium Value
+C02119,Folake Afolabi,Male,35-44,Regular,Uyo,2019-03-03,Medium Value
+C02120,Kelechi Nwosu,Female,55-64,Regular,Abeokuta,2025-01-31,Low Value
+C02121,Bimpe Adekunle,Male,45-54,Regular,Onitsha,2018-06-23,Low Value
+C02122,Yusuf Okafor,Male,35-44,Regular,Ibadan,2021-04-18,Low Value
+C02123,Chika Suleiman,Male,45-54,Occasional,Uyo,2023-10-03,Medium Value
+C02124,Ibrahim Suleiman,Male,45-54,Regular,Surulere,2025-10-27,Medium Value
+C02125,Adaeze Chukwu,Male,25-34,Premium,Abeokuta,2025-10-26,Medium Value
+C02126,Yusuf Yakubu,Male,45-54,Regular,Uyo,2020-06-04,Low Value
+C02127,Kelechi Bello,Male,45-54,Regular,Onitsha,2019-05-16,Medium Value
+C02128,Halima Eze,Male,35-44,Regular,Enugu,2023-03-26,High Value
+C02129,Yusuf Okoro,Male,18-24,Premium,Abeokuta,2025-08-12,High Value
+C02130,Bukola Adeyemi,Male,65+,Corporate,Onitsha,2022-07-24,Low Value
+C02131,Sunday Chukwu,Female,18-24,Corporate,Abuja,2023-07-28,Low Value
+C02132,Bukola Suleiman,Male,18-24,Regular,Lagos Island,2026-01-29,Low Value
+C02133,Chika Eze,Female,45-54,Regular,Surulere,2018-05-01,Low Value
+C02134,Rita Okafor,Male,45-54,Regular,Jos,2023-11-16,Medium Value
+C02135,Kunle Ogunleye,Male,65+,Corporate,Lagos Island,2021-03-07,Low Value
+C02136,Yusuf Adekunle,Female,35-44,Regular,Lagos Island,2025-08-17,High Value
+C02137,Emeka Eze,Female,18-24,Regular,Abeokuta,2024-10-08,Medium Value
+C02138,Uche Okafor,Male,45-54,Regular,Lagos Island,2023-05-10,Low Value
+C02139,Yusuf Ogunleye,Male,18-24,Premium,Uyo,2019-10-08,Medium Value
+C02140,Emeka Afolabi,Male,45-54,Occasional,Abeokuta,2018-11-11,High Value
+C02141,Blessing Adeyemi,Female,35-44,Occasional,Uyo,2024-01-05,Medium Value
+C02142,Blessing Nnamdi,Male,35-44,Regular,Surulere,2022-06-08,Medium Value
+C02143,Adaeze Okonkwo,Male,35-44,Regular,Uyo,2018-03-15,Medium Value
+C02144,Emeka Okafor,Female,25-34,Premium,Uyo,2024-10-24,Low Value
+C02145,Ifeoma Nwosu,Male,25-34,Regular,Lagos Island,2020-05-21,Low Value
+C02146,Zainab Nwosu,Female,35-44,Premium,Jos,2023-09-17,Medium Value
+C02147,Damilola Abubakar,Male,65+,Occasional,Abeokuta,2024-04-18,Low Value
+C02148,Ifeoma Bello,Female,55-64,Regular,Ilorin,2018-06-15,Low Value
+C02149,Uche Uche,Male,35-44,Occasional,Onitsha,2020-03-05,Low Value
+C02150,Tunde Nnamdi,Male,25-34,Premium,Onitsha,2023-12-06,Low Value
+C02151,Ifeoma Yakubu,Female,45-54,Regular,Lagos Island,2018-08-07,Medium Value
+C02152,Chika Balogun,Female,25-34,Regular,Lagos Island,2024-05-01,Low Value
+C02153,Segun Aliyu,Male,25-34,Premium,Enugu,2023-01-30,Medium Value
+C02154,Blessing Ogunleye,Female,55-64,Occasional,Onitsha,2025-01-07,Medium Value
+C02155,Halima Danjuma,Male,55-64,Regular,Onitsha,2024-09-24,Low Value
+C02156,Kelechi Aliyu,Male,18-24,Premium,Abeokuta,2024-06-30,High Value
+C02157,Chidi Uche,Male,65+,Occasional,Ikeja,2023-08-12,High Value
+C02158,Folake Abubakar,Female,25-34,Premium,Lagos Island,2020-07-02,Medium Value
+C02159,Chinedu Obi,Female,25-34,Premium,Ilorin,2025-11-05,Low Value
+C02160,Damilola Danjuma,Male,45-54,Regular,Abeokuta,2018-05-06,Medium Value
+C02161,Uche Ogunleye,Female,35-44,Occasional,Ilorin,2020-06-21,High Value
+C02162,Sunday Okafor,Female,45-54,Occasional,Abuja,2024-04-17,Low Value
+C02163,Tunde Aliyu,Female,25-34,Premium,Surulere,2019-04-28,Medium Value
+C02164,Zainab Abubakar,Female,35-44,Regular,Onitsha,2022-01-09,Medium Value
+C02165,Ngozi Nnamdi,Male,55-64,Regular,Onitsha,2022-03-30,Medium Value
+C02166,Ifeoma Abubakar,Male,45-54,Regular,Uyo,2022-10-11,Low Value
+C02167,Ifeoma Afolabi,Male,45-54,Regular,Surulere,2026-06-01,Medium Value
+C02168,Bukola Suleiman,Female,35-44,Regular,Lagos Island,2021-06-26,Low Value
+C02169,Grace Bello,Male,18-24,Occasional,Abuja,2019-11-04,Medium Value
+C02170,Emeka Adeyemi,Male,45-54,Occasional,Ilorin,2022-05-14,Medium Value
+C02171,Amaka Okonkwo,Female,45-54,Occasional,Lagos Island,2018-11-29,High Value
+C02172,Kelechi Suleiman,Male,35-44,Regular,Abeokuta,2018-09-29,Medium Value
+C02173,Bukola Chukwu,Male,35-44,Occasional,Ilorin,2018-10-27,High Value
+C02174,Femi Nnamdi,Male,18-24,Regular,Ibadan,2024-07-13,Medium Value
+C02175,Femi Danjuma,Female,25-34,Regular,Ilorin,2023-07-22,Low Value
+C02176,Kelechi Nnamdi,Male,35-44,Regular,Onitsha,2026-02-21,Low Value
+C02177,Bukola Okoro,Female,55-64,Corporate,Lagos Island,2026-05-14,Medium Value
+C02178,Emeka Afolabi,Male,25-34,Premium,Onitsha,2024-09-30,Medium Value
+C02179,Yusuf Okonkwo,Female,25-34,Corporate,Uyo,2020-03-10,Medium Value
+C02180,Yusuf Yakubu,Female,18-24,Premium,Ikeja,2019-12-03,Medium Value
+C02181,Bukola Nwosu,Male,18-24,Regular,Uyo,2020-04-19,High Value
+C02182,Blessing Bello,Female,18-24,Premium,Enugu,2026-06-01,Low Value
+C02183,Ifeoma Okonkwo,Male,35-44,Occasional,Onitsha,2022-03-21,Medium Value
+C02184,Chika Adeyemi,Male,55-64,Regular,Surulere,2020-12-19,Low Value
+C02185,Ibrahim Adeyemi,Male,35-44,Regular,Lagos Island,2021-04-19,Medium Value
+C02186,Amaka Afolabi,Male,25-34,Premium,Surulere,2020-04-19,Low Value
+C02187,Patience Okoro,Male,55-64,Regular,Lagos Island,2026-04-23,Medium Value
+C02188,Chidi Aliyu,Male,18-24,Regular,Ilorin,2023-07-07,Low Value
+C02189,Bimpe Aliyu,Female,45-54,Premium,Onitsha,2022-09-16,Medium Value
+C02190,Bukola Bello,Male,55-64,Occasional,Lagos Island,2022-10-11,Medium Value
+C02191,Blessing Okafor,Female,25-34,Occasional,Lagos Island,2021-07-28,Medium Value
+C02192,Chika Obi,Female,25-34,Corporate,Ikeja,2025-11-18,Medium Value
+C02193,Adaeze Adekunle,Female,25-34,Regular,Surulere,2025-11-07,Low Value
+C02194,Ngozi Okafor,Female,35-44,Regular,Lagos Island,2018-03-05,High Value
+C02195,Ngozi Chukwu,Male,18-24,Regular,Uyo,2025-01-21,High Value
+C02196,Zainab Danjuma,Male,45-54,Regular,Surulere,2021-10-04,Low Value
+C02197,Damilola Nwosu,Male,65+,Regular,Enugu,2023-11-12,Medium Value
+C02198,Sunday Ogunleye,Male,35-44,Premium,Ibadan,2023-02-14,Medium Value
+C02199,Tobi Obi,Female,45-54,Occasional,Lagos Island,2024-12-28,High Value
+C02200,Bukola Chukwu,Male,65+,Occasional,Abeokuta,2018-06-04,Low Value
+C02201,Blessing Ogunleye,Female,35-44,Regular,Surulere,2024-01-31,Medium Value
+C02202,Uche Ogunleye,Male,35-44,Regular,Ilorin,2024-10-16,Medium Value
+C02203,Femi Adeyemi,Female,18-24,Corporate,Abeokuta,2023-09-10,Low Value
+C02204,Femi Adekunle,Female,25-34,Occasional,Lagos Island,2022-07-04,High Value
+C02205,Femi Afolabi,Female,45-54,Corporate,Ikeja,2024-11-26,Low Value
+C02206,Femi Okoro,Female,25-34,Regular,Onitsha,2025-06-11,Medium Value
+C02207,Ibrahim Okoro,Male,45-54,Regular,Ilorin,2022-11-23,Medium Value
+C02208,Halima Adeyemi,Female,45-54,Regular,Lagos Island,2023-07-17,Low Value
+C02209,Ngozi Adeyemi,Female,55-64,Occasional,Uyo,2020-08-30,Low Value
+C02210,Kelechi Ogunleye,Female,45-54,Premium,Lagos Island,2022-05-18,Low Value
+C02211,Segun Obi,Male,45-54,Regular,Uyo,2019-11-19,Medium Value
+C02212,Rita Suleiman,Female,35-44,Regular,Surulere,2020-01-18,Medium Value
+C02213,Folake Nwosu,Male,35-44,Regular,Onitsha,2024-11-09,Low Value
+C02214,Patience Adekunle,Male,55-64,Regular,Enugu,2021-01-07,Low Value
+C02215,Kelechi Nwosu,Female,18-24,Occasional,Uyo,2021-10-25,High Value
+C02216,Halima Okoro,Male,55-64,Regular,Lagos Island,2021-10-15,Low Value
+C02217,Kelechi Aliyu,Male,55-64,Regular,Ilorin,2019-12-05,Medium Value
+C02218,Ngozi Eze,Male,55-64,Corporate,Ikeja,2025-09-12,Medium Value
+C02219,Ngozi Yakubu,Male,65+,Premium,Ibadan,2022-05-22,Low Value
+C02220,Uche Okafor,Female,45-54,Occasional,Abeokuta,2024-04-07,Low Value
+C02221,Chinedu Okonkwo,Female,35-44,Regular,Ilorin,2020-07-07,Low Value
+C02222,Rita Eze,Female,35-44,Regular,Akure,2018-11-02,Medium Value
+C02223,Uche Aliyu,Male,25-34,Regular,Uyo,2025-11-26,Medium Value
+C02224,Emeka Chukwu,Female,35-44,Regular,Uyo,2021-06-13,Medium Value
+C02225,Halima Nwosu,Female,35-44,Regular,Abuja,2020-06-06,Medium Value
+C02226,Ifeoma Bello,Female,35-44,Regular,Lagos Island,2023-11-19,Low Value
+C02227,Bukola Abubakar,Male,25-34,Occasional,Ikeja,2020-12-24,High Value
+C02228,Bimpe Danjuma,Female,35-44,Corporate,Ikeja,2021-12-20,Low Value
+C02229,Grace Obi,Male,35-44,Occasional,Jos,2023-11-16,High Value
+C02230,Tunde Bello,Female,25-34,Occasional,Uyo,2022-01-18,Medium Value
+C02231,Blessing Adeyemi,Female,55-64,Premium,Abuja,2022-10-20,Low Value
+C02232,Zainab Danjuma,Female,25-34,Regular,Jos,2023-01-17,Low Value
+C02233,Uche Afolabi,Female,45-54,Regular,Uyo,2023-09-21,Low Value
+C02234,Patience Ogunleye,Female,25-34,Regular,Onitsha,2021-07-23,Low Value
+C02235,Patience Nnamdi,Female,18-24,Corporate,Lagos Island,2018-12-06,Low Value
+C02236,Tunde Uche,Female,35-44,Premium,Abeokuta,2018-06-25,High Value
+C02237,Tunde Eze,Female,55-64,Regular,Lagos Island,2020-08-26,Medium Value
+C02238,Adaeze Suleiman,Male,35-44,Regular,Lagos Island,2023-05-23,Low Value
+C02239,Folake Uche,Female,25-34,Premium,Jos,2021-03-08,High Value
+C02240,Rita Bello,Female,35-44,Premium,Ilorin,2025-09-28,Low Value
+C02241,Damilola Nnamdi,Male,45-54,Regular,Ilorin,2021-04-13,Low Value
+C02242,Bimpe Yakubu,Female,25-34,Corporate,Ilorin,2025-11-22,Medium Value
+C02243,Musa Obi,Male,45-54,Regular,Ikeja,2019-12-10,High Value
+C02244,Tunde Okafor,Female,35-44,Regular,Lagos Island,2024-10-20,Low Value
+C02245,Aisha Nnamdi,Female,35-44,Regular,Onitsha,2023-10-30,Medium Value
+C02246,Zainab Nwosu,Female,25-34,Occasional,Ilorin,2018-04-10,High Value
+C02247,Chidi Yakubu,Female,35-44,Regular,Uyo,2020-01-11,Medium Value
+C02248,Grace Abubakar,Female,25-34,Premium,Lagos Island,2020-12-24,Medium Value
+C02249,Emeka Suleiman,Female,25-34,Occasional,Abeokuta,2024-12-08,Low Value
+C02250,Adaeze Obi,Male,45-54,Corporate,Jos,2022-05-27,High Value
+C02251,Amaka Okonkwo,Male,35-44,Occasional,Akure,2023-02-16,Low Value
+C02252,Chika Nwosu,Male,25-34,Regular,Enugu,2025-05-08,Low Value
+C02253,Yusuf Nnamdi,Male,65+,Occasional,Uyo,2024-11-23,Low Value
+C02254,Emeka Uche,Male,35-44,Regular,Lagos Island,2024-07-24,Medium Value
+C02255,Musa Bello,Male,25-34,Corporate,Ibadan,2022-01-29,Medium Value
+C02256,Halima Danjuma,Female,25-34,Occasional,Abeokuta,2023-06-27,Medium Value
+C02257,Chika Chukwu,Female,55-64,Premium,Jos,2018-03-22,Medium Value
+C02258,Ifeoma Nwosu,Female,35-44,Occasional,Enugu,2026-02-17,Medium Value
+C02259,Chika Nwosu,Female,18-24,Regular,Abeokuta,2020-02-05,Low Value
+C02260,Femi Suleiman,Female,45-54,Regular,Uyo,2024-09-06,High Value
+C02261,Rita Suleiman,Male,18-24,Regular,Ikeja,2024-04-05,High Value
+C02262,Kelechi Adeyemi,Male,25-34,Occasional,Ibadan,2022-02-01,Low Value
+C02263,Tobi Danjuma,Female,25-34,Regular,Uyo,2023-06-26,Low Value
+C02264,Bimpe Bello,Female,55-64,Occasional,Lagos Island,2022-01-03,Medium Value
+C02265,Folake Bello,Female,35-44,Occasional,Enugu,2021-02-13,Medium Value
+C02266,Emeka Yakubu,Male,65+,Occasional,Enugu,2023-03-01,Low Value
+C02267,Chinedu Abubakar,Male,45-54,Occasional,Enugu,2019-01-19,Low Value
+C02268,Chinedu Balogun,Female,25-34,Regular,Ilorin,2025-06-12,High Value
+C02269,Kunle Okonkwo,Male,35-44,Corporate,Ikeja,2024-11-12,Medium Value
+C02270,Grace Balogun,Male,18-24,Regular,Surulere,2024-08-27,Low Value
+C02271,Yusuf Nwosu,Male,55-64,Corporate,Ilorin,2019-04-19,Medium Value
+C02272,Amaka Abubakar,Male,18-24,Occasional,Ikeja,2026-06-10,High Value
+C02273,Kelechi Eze,Male,55-64,Regular,Onitsha,2022-04-17,Low Value
+C02274,Tunde Chukwu,Female,55-64,Regular,Onitsha,2023-01-03,Low Value
+C02275,Adaeze Uche,Male,35-44,Regular,Onitsha,2020-05-26,High Value
+C02276,Femi Uche,Male,18-24,Occasional,Lagos Island,2020-01-03,High Value
+C02277,Chinedu Obi,Female,35-44,Regular,Uyo,2021-03-11,Low Value
+C02278,Amaka Chukwu,Male,25-34,Regular,Surulere,2024-06-19,High Value
+C02279,Yusuf Yakubu,Female,45-54,Occasional,Ikeja,2024-08-19,Low Value
+C02280,Damilola Okafor,Male,45-54,Premium,Uyo,2026-04-03,High Value
+C02281,Chika Okoro,Male,45-54,Regular,Ilorin,2025-10-15,High Value
+C02282,Yusuf Nnamdi,Female,35-44,Premium,Uyo,2021-02-02,Medium Value
+C02283,Yusuf Okafor,Female,55-64,Occasional,Surulere,2019-06-18,High Value
+C02284,Rita Adeyemi,Female,18-24,Premium,Jos,2023-05-28,Medium Value
+C02285,Segun Adeyemi,Male,35-44,Regular,Ikeja,2023-07-20,Medium Value
+C02286,Chinedu Nnamdi,Male,18-24,Occasional,Ilorin,2024-08-16,Low Value
+C02287,Uche Chukwu,Female,65+,Regular,Lagos Island,2019-03-15,Medium Value
+C02288,Bukola Uche,Male,25-34,Regular,Onitsha,2025-12-19,Medium Value
+C02289,Grace Aliyu,Female,25-34,Occasional,Abeokuta,2022-07-20,Medium Value
+C02290,Femi Aliyu,Female,25-34,Regular,Lagos Island,2022-02-28,Low Value
+C02291,Grace Eze,Male,45-54,Regular,Abuja,2020-10-26,High Value
+C02292,Zainab Adeyemi,Male,45-54,Premium,Lagos Island,2018-06-30,Medium Value
+C02293,Patience Nnamdi,Male,18-24,Regular,Ikeja,2026-04-06,Medium Value
+C02294,Ibrahim Adeyemi,Male,35-44,Occasional,Uyo,2022-10-02,Medium Value
+C02295,Chika Okafor,Male,65+,Occasional,Ilorin,2019-08-30,High Value
+C02296,Adaeze Nnamdi,Female,18-24,Regular,Abeokuta,2023-09-14,Medium Value
+C02297,Kunle Uche,Female,65+,Corporate,Jos,2018-07-15,Medium Value
+C02298,Bimpe Eze,Male,18-24,Premium,Lagos Island,2022-06-29,Medium Value
+C02299,Amaka Yakubu,Female,25-34,Regular,Ibadan,2023-12-04,Medium Value
+C02300,Ifeoma Obi,Male,25-34,Corporate,Akure,2020-04-17,Medium Value
+C02301,Kunle Danjuma,Female,45-54,Occasional,Abuja,2019-10-04,Low Value
+C02302,Ngozi Aliyu,Male,35-44,Occasional,Jos,2018-11-20,High Value
+C02303,Segun Adekunle,Female,25-34,Regular,Uyo,2018-08-24,Medium Value
+C02304,Sunday Balogun,Male,18-24,Premium,Ilorin,2018-04-13,High Value
+C02305,Adaeze Okafor,Female,35-44,Premium,Onitsha,2020-10-30,High Value
+C02306,Chika Afolabi,Male,25-34,Occasional,Ikeja,2026-01-07,Medium Value
+C02307,Adaeze Afolabi,Male,45-54,Regular,Onitsha,2019-12-07,Low Value
+C02308,Patience Ogunleye,Female,35-44,Premium,Akure,2022-06-06,Medium Value
+C02309,Amaka Eze,Female,25-34,Premium,Abeokuta,2022-12-04,High Value
+C02310,Ifeoma Abubakar,Male,35-44,Corporate,Jos,2022-04-14,Medium Value
+C02311,Aisha Bello,Male,45-54,Regular,Akure,2020-12-26,Low Value
+C02312,Amaka Aliyu,Female,35-44,Corporate,Onitsha,2023-10-13,Medium Value
+C02313,Emeka Afolabi,Male,55-64,Occasional,Surulere,2018-03-02,High Value
+C02314,Adaeze Suleiman,Female,45-54,Premium,Lagos Island,2023-03-29,High Value
+C02315,Adaeze Nwosu,Male,35-44,Occasional,Ibadan,2022-08-10,High Value
+C02316,Patience Balogun,Male,25-34,Occasional,Onitsha,2024-02-14,Medium Value
+C02317,Ibrahim Aliyu,Female,55-64,Occasional,Ikeja,2024-09-05,Low Value
+C02318,Halima Obi,Female,55-64,Premium,Ikeja,2018-04-02,Low Value
+C02319,Chidi Afolabi,Female,35-44,Regular,Ikeja,2022-06-23,Medium Value
+C02320,Ibrahim Suleiman,Male,35-44,Regular,Ilorin,2021-12-29,Medium Value
+C02321,Zainab Nwosu,Male,45-54,Regular,Lagos Island,2018-02-17,Medium Value
+C02322,Grace Balogun,Male,45-54,Regular,Ikeja,2021-08-04,Medium Value
+C02323,Emeka Balogun,Male,35-44,Premium,Enugu,2022-07-10,Medium Value
+C02324,Tobi Nnamdi,Male,35-44,Occasional,Enugu,2019-11-09,Low Value
+C02325,Rita Okoro,Male,25-34,Premium,Abeokuta,2025-07-08,Low Value
+C02326,Chidi Balogun,Female,18-24,Regular,Jos,2020-11-25,Low Value
+C02327,Aisha Nwosu,Female,25-34,Occasional,Onitsha,2025-03-15,Medium Value
+C02328,Halima Adekunle,Female,18-24,Corporate,Enugu,2021-09-27,Low Value
+C02329,Amaka Adekunle,Male,25-34,Regular,Onitsha,2025-05-21,Low Value
+C02330,Damilola Uche,Female,25-34,Regular,Ibadan,2025-11-15,Low Value
+C02331,Chinedu Afolabi,Female,35-44,Regular,Ilorin,2022-10-25,High Value
+C02332,Uche Eze,Female,18-24,Corporate,Uyo,2024-04-16,Medium Value
+C02333,Kunle Nnamdi,Female,35-44,Regular,Ilorin,2020-09-22,Low Value
+C02334,Segun Obi,Female,35-44,Premium,Onitsha,2020-06-28,High Value
+C02335,Tunde Afolabi,Female,35-44,Corporate,Ilorin,2022-11-21,Medium Value
+C02336,Emeka Nnamdi,Male,35-44,Regular,Abeokuta,2024-06-16,High Value
+C02337,Chika Bello,Female,35-44,Corporate,Lagos Island,2019-04-08,Low Value
+C02338,Musa Nnamdi,Male,25-34,Premium,Abuja,2020-04-17,Low Value
+C02339,Bimpe Bello,Male,55-64,Regular,Ilorin,2021-10-31,High Value
+C02340,Sunday Okafor,Male,25-34,Corporate,Abeokuta,2021-09-23,Medium Value
+C02341,Ifeoma Ogunleye,Male,25-34,Occasional,Akure,2020-12-09,Low Value
+C02342,Chinedu Aliyu,Female,25-34,Regular,Jos,2021-01-25,Low Value
+C02343,Emeka Suleiman,Male,45-54,Premium,Enugu,2026-05-20,Low Value
+C02344,Adaeze Obi,Male,55-64,Premium,Onitsha,2025-01-26,High Value
+C02345,Emeka Danjuma,Female,25-34,Occasional,Ikeja,2021-01-17,Low Value
+C02346,Tobi Nwosu,Female,35-44,Corporate,Onitsha,2021-08-30,Medium Value
+C02347,Zainab Ogunleye,Male,45-54,Premium,Onitsha,2025-06-09,Medium Value
+C02348,Rita Suleiman,Female,35-44,Occasional,Ikeja,2021-06-30,Medium Value
+C02349,Segun Chukwu,Male,18-24,Premium,Onitsha,2024-08-06,Low Value
+C02350,Bukola Okoro,Female,25-34,Corporate,Lagos Island,2018-08-28,Medium Value
+C02351,Grace Balogun,Female,45-54,Regular,Onitsha,2018-10-16,Medium Value
+C02352,Patience Adekunle,Male,25-34,Regular,Surulere,2024-03-24,High Value
+C02353,Segun Chukwu,Female,35-44,Regular,Lagos Island,2024-06-30,High Value
+C02354,Damilola Aliyu,Female,45-54,Regular,Enugu,2024-08-30,Medium Value
+C02355,Folake Adekunle,Female,45-54,Regular,Onitsha,2018-07-12,Medium Value
+C02356,Grace Nnamdi,Male,25-34,Regular,Lagos Island,2022-11-02,High Value
+C02357,Uche Nnamdi,Female,35-44,Regular,Onitsha,2021-06-26,Low Value
+C02358,Femi Uche,Female,65+,Regular,Ilorin,2024-05-28,Low Value
+C02359,Blessing Abubakar,Male,55-64,Regular,Uyo,2018-04-29,Low Value
+C02360,Bukola Nwosu,Female,25-34,Regular,Ikeja,2019-06-20,Medium Value
+C02361,Tobi Ogunleye,Female,25-34,Regular,Abuja,2021-09-30,High Value
+C02362,Ifeoma Nwosu,Male,25-34,Corporate,Ilorin,2020-02-04,Medium Value
+C02363,Musa Okoro,Female,25-34,Occasional,Onitsha,2023-05-14,High Value
+C02364,Ifeoma Balogun,Male,25-34,Corporate,Ikeja,2018-04-24,Medium Value
+C02365,Kunle Afolabi,Female,65+,Regular,Onitsha,2023-08-24,High Value
+C02366,Chika Suleiman,Female,35-44,Premium,Onitsha,2023-04-28,High Value
+C02367,Bimpe Aliyu,Female,35-44,Occasional,Lagos Island,2018-11-21,Low Value
+C02368,Femi Abubakar,Female,45-54,Occasional,Abuja,2021-01-24,High Value
+C02369,Ifeoma Nwosu,Male,25-34,Regular,Jos,2026-03-11,Medium Value
+C02370,Ngozi Aliyu,Female,55-64,Premium,Ilorin,2022-10-28,Medium Value
+C02371,Bimpe Yakubu,Female,55-64,Regular,Surulere,2025-02-16,High Value
+C02372,Musa Bello,Female,55-64,Regular,Ibadan,2024-04-02,High Value
+C02373,Blessing Afolabi,Female,35-44,Regular,Ilorin,2025-07-31,Medium Value
+C02374,Bukola Okonkwo,Male,18-24,Corporate,Surulere,2019-08-20,Low Value
+C02375,Folake Obi,Female,45-54,Premium,Ikeja,2023-01-07,Medium Value
+C02376,Sunday Okonkwo,Male,35-44,Premium,Lagos Island,2022-06-19,Medium Value
+C02377,Yusuf Obi,Female,45-54,Occasional,Jos,2018-05-06,Medium Value
+C02378,Damilola Obi,Male,45-54,Regular,Uyo,2018-02-21,Low Value
+C02379,Segun Chukwu,Male,18-24,Premium,Abeokuta,2018-06-20,Medium Value
+C02380,Ibrahim Abubakar,Female,35-44,Regular,Abeokuta,2024-02-12,Low Value
+C02381,Adaeze Eze,Male,45-54,Regular,Jos,2018-02-18,Medium Value
+C02382,Chidi Balogun,Female,25-34,Regular,Ibadan,2023-10-08,Medium Value
+C02383,Ngozi Afolabi,Female,25-34,Occasional,Akure,2025-07-07,Low Value
+C02384,Musa Balogun,Female,35-44,Regular,Onitsha,2022-01-21,High Value
+C02385,Amaka Chukwu,Male,35-44,Regular,Onitsha,2025-03-13,Medium Value
+C02386,Ibrahim Afolabi,Female,45-54,Premium,Abuja,2023-08-20,Low Value
+C02387,Ibrahim Abubakar,Male,25-34,Corporate,Jos,2023-12-02,Medium Value
+C02388,Kunle Okoro,Male,25-34,Regular,Surulere,2019-06-29,Medium Value
+C02389,Adaeze Balogun,Female,45-54,Regular,Surulere,2020-08-10,Low Value
+C02390,Damilola Bello,Female,25-34,Regular,Enugu,2024-03-30,Low Value
+C02391,Ifeoma Obi,Female,18-24,Corporate,Lagos Island,2019-09-11,Low Value
+C02392,Yusuf Nwosu,Male,45-54,Premium,Akure,2024-05-09,High Value
+C02393,Adaeze Eze,Male,25-34,Regular,Lagos Island,2019-05-12,High Value
+C02394,Ibrahim Adekunle,Female,35-44,Regular,Lagos Island,2025-10-04,Medium Value
+C02395,Tobi Obi,Female,45-54,Regular,Onitsha,2025-01-30,High Value
+C02396,Yusuf Yakubu,Female,45-54,Regular,Abeokuta,2021-04-25,Low Value
+C02397,Rita Chukwu,Male,35-44,Regular,Ilorin,2021-03-31,Low Value
+C02398,Segun Nnamdi,Male,25-34,Regular,Enugu,2023-05-31,Medium Value
+C02399,Patience Eze,Male,18-24,Occasional,Lagos Island,2025-08-02,Medium Value
+C02400,Kelechi Nwosu,Male,25-34,Occasional,Uyo,2026-06-06,Low Value
+C02401,Kelechi Danjuma,Male,25-34,Corporate,Lagos Island,2024-08-06,Medium Value
+C02402,Kelechi Nnamdi,Female,18-24,Regular,Uyo,2025-06-30,Low Value
+C02403,Bukola Balogun,Male,45-54,Occasional,Abeokuta,2021-05-10,Low Value
+C02404,Patience Danjuma,Female,18-24,Premium,Enugu,2018-01-07,Medium Value
+C02405,Grace Adeyemi,Male,25-34,Premium,Akure,2024-12-08,Medium Value
+C02406,Yusuf Uche,Male,25-34,Occasional,Enugu,2024-02-24,Medium Value
+C02407,Kelechi Ogunleye,Female,45-54,Premium,Onitsha,2019-10-15,Medium Value
+C02408,Ibrahim Aliyu,Male,35-44,Corporate,Jos,2024-03-25,Low Value
+C02409,Ngozi Okafor,Female,45-54,Regular,Uyo,2018-10-25,Medium Value
+C02410,Chika Danjuma,Female,18-24,Premium,Surulere,2018-11-14,High Value
+C02411,Tunde Nnamdi,Female,35-44,Corporate,Ilorin,2018-12-23,Medium Value
+C02412,Kelechi Okafor,Female,65+,Premium,Lagos Island,2020-02-05,Low Value
+C02413,Ngozi Abubakar,Male,45-54,Regular,Ilorin,2024-05-30,Medium Value
+C02414,Femi Okoro,Female,25-34,Regular,Surulere,2019-04-28,Medium Value
+C02415,Tobi Nwosu,Male,18-24,Occasional,Onitsha,2022-04-27,High Value
+C02416,Tobi Aliyu,Female,55-64,Regular,Lagos Island,2019-01-12,High Value
+C02417,Grace Chukwu,Male,35-44,Occasional,Ibadan,2024-10-06,Low Value
+C02418,Segun Abubakar,Male,45-54,Regular,Abeokuta,2022-02-09,Medium Value
+C02419,Uche Nnamdi,Male,18-24,Premium,Surulere,2018-07-05,Low Value
+C02420,Grace Okafor,Male,55-64,Regular,Uyo,2022-02-12,Medium Value
+C02421,Chidi Chukwu,Female,25-34,Regular,Lagos Island,2025-11-24,Medium Value
+C02422,Segun Okoro,Male,35-44,Corporate,Onitsha,2019-07-12,Medium Value
+C02423,Chidi Afolabi,Male,18-24,Premium,Ilorin,2026-02-01,High Value
+C02424,Segun Danjuma,Male,18-24,Corporate,Ikeja,2025-09-22,Medium Value
+C02425,Rita Yakubu,Male,35-44,Regular,Uyo,2024-01-31,Low Value
+C02426,Musa Adeyemi,Male,18-24,Regular,Lagos Island,2025-03-12,Medium Value
+C02427,Chidi Eze,Male,25-34,Regular,Lagos Island,2023-03-15,Low Value
+C02428,Kunle Danjuma,Male,45-54,Regular,Lagos Island,2020-07-20,High Value
+C02429,Patience Nnamdi,Female,45-54,Regular,Jos,2018-10-18,Medium Value
+C02430,Kunle Balogun,Female,35-44,Regular,Abeokuta,2025-11-09,Medium Value
+C02431,Tunde Aliyu,Female,25-34,Premium,Akure,2025-03-30,Low Value
+C02432,Ngozi Abubakar,Female,25-34,Premium,Ikeja,2022-08-16,Medium Value
+C02433,Emeka Ogunleye,Male,65+,Regular,Abeokuta,2026-03-21,Low Value
+C02434,Yusuf Balogun,Male,25-34,Regular,Uyo,2018-12-05,Low Value
+C02435,Tobi Adekunle,Male,45-54,Regular,Abeokuta,2025-06-12,Medium Value
+C02436,Ngozi Danjuma,Female,35-44,Occasional,Abeokuta,2026-03-03,Medium Value
+C02437,Blessing Suleiman,Male,25-34,Regular,Onitsha,2019-09-13,Medium Value
+C02438,Blessing Danjuma,Male,35-44,Regular,Ibadan,2026-05-11,Low Value
+C02439,Ibrahim Okonkwo,Female,65+,Regular,Abeokuta,2024-01-29,Medium Value
+C02440,Bukola Uche,Female,55-64,Premium,Uyo,2025-01-27,Medium Value
+C02441,Kunle Danjuma,Female,45-54,Regular,Ilorin,2022-12-30,Medium Value
+C02442,Emeka Yakubu,Female,25-34,Premium,Lagos Island,2021-12-14,Medium Value
+C02443,Rita Chukwu,Female,18-24,Premium,Abeokuta,2024-01-25,Low Value
+C02444,Tobi Eze,Male,18-24,Regular,Ikeja,2025-06-21,Medium Value
+C02445,Kelechi Eze,Male,18-24,Occasional,Ilorin,2023-09-10,Low Value
+C02446,Amaka Nwosu,Male,35-44,Regular,Onitsha,2018-08-10,Medium Value
+C02447,Uche Afolabi,Male,45-54,Corporate,Ikeja,2020-08-15,Low Value
+C02448,Femi Chukwu,Female,55-64,Regular,Lagos Island,2020-01-17,Low Value
+C02449,Rita Adeyemi,Male,25-34,Regular,Lagos Island,2025-11-05,Low Value
+C02450,Patience Aliyu,Female,35-44,Occasional,Uyo,2021-11-22,High Value
+C02451,Adaeze Okoro,Male,45-54,Occasional,Surulere,2021-03-03,Medium Value
+C02452,Adaeze Yakubu,Female,35-44,Corporate,Ikeja,2024-03-05,High Value
+C02453,Folake Ogunleye,Male,65+,Occasional,Lagos Island,2022-05-28,Medium Value
+C02454,Ifeoma Okafor,Female,25-34,Corporate,Akure,2024-06-29,Medium Value
+C02455,Tobi Uche,Male,18-24,Regular,Onitsha,2023-09-06,Low Value
+C02456,Damilola Chukwu,Male,65+,Regular,Abeokuta,2020-06-25,Low Value
+C02457,Chika Chukwu,Male,18-24,Regular,Lagos Island,2025-09-10,High Value
+C02458,Chika Aliyu,Male,35-44,Regular,Abuja,2023-06-18,Low Value
+C02459,Adaeze Balogun,Female,45-54,Premium,Lagos Island,2024-02-21,Low Value
+C02460,Grace Suleiman,Female,45-54,Regular,Akure,2020-09-16,Low Value
+C02461,Bukola Uche,Female,35-44,Corporate,Uyo,2024-05-24,Low Value
+C02462,Chinedu Adekunle,Female,35-44,Occasional,Lagos Island,2018-03-26,Medium Value
+C02463,Yusuf Nwosu,Female,45-54,Regular,Akure,2018-02-02,Low Value
+C02464,Segun Abubakar,Female,25-34,Regular,Onitsha,2021-07-06,Medium Value
+C02465,Adaeze Nwosu,Male,25-34,Regular,Uyo,2024-07-12,Low Value
+C02466,Chinedu Adeyemi,Male,35-44,Occasional,Lagos Island,2018-10-13,Medium Value
+C02467,Damilola Obi,Female,35-44,Regular,Surulere,2018-01-24,Low Value
+C02468,Emeka Adekunle,Female,35-44,Occasional,Onitsha,2019-04-23,Low Value
+C02469,Chidi Chukwu,Female,25-34,Occasional,Enugu,2021-02-27,Medium Value
+C02470,Femi Chukwu,Male,18-24,Premium,Enugu,2024-02-03,Low Value
+C02471,Bimpe Adekunle,Male,25-34,Occasional,Abuja,2021-06-30,Low Value
+C02472,Patience Okafor,Male,35-44,Regular,Lagos Island,2020-01-04,High Value
+C02473,Femi Okafor,Male,18-24,Regular,Ikeja,2023-03-08,Low Value
+C02474,Aisha Obi,Male,25-34,Regular,Lagos Island,2019-10-26,High Value
+C02475,Halima Nwosu,Male,25-34,Corporate,Ikeja,2024-10-26,Medium Value
+C02476,Halima Okafor,Female,35-44,Regular,Ikeja,2023-06-26,Medium Value
+C02477,Zainab Yakubu,Female,35-44,Regular,Enugu,2020-05-16,Low Value
+C02478,Halima Danjuma,Female,25-34,Occasional,Uyo,2024-05-19,Medium Value
+C02479,Musa Adeyemi,Female,55-64,Premium,Onitsha,2018-07-02,Low Value
+C02480,Zainab Adekunle,Male,35-44,Premium,Lagos Island,2018-10-03,Low Value
+C02481,Uche Uche,Male,35-44,Corporate,Surulere,2021-02-04,High Value
+C02482,Grace Nwosu,Male,18-24,Premium,Onitsha,2026-06-16,Medium Value
+C02483,Damilola Bello,Male,35-44,Regular,Ibadan,2019-06-07,High Value
+C02484,Grace Afolabi,Male,45-54,Corporate,Ilorin,2021-02-15,Low Value
+C02485,Blessing Yakubu,Male,45-54,Occasional,Lagos Island,2018-09-28,High Value
+C02486,Yusuf Adeyemi,Female,55-64,Occasional,Abeokuta,2025-02-10,Low Value
+C02487,Musa Danjuma,Female,25-34,Corporate,Ikeja,2019-06-19,Medium Value
+C02488,Yusuf Adeyemi,Male,35-44,Regular,Lagos Island,2026-01-19,Medium Value
+C02489,Yusuf Okafor,Male,25-34,Occasional,Abeokuta,2022-06-10,Low Value
+C02490,Femi Danjuma,Female,25-34,Premium,Onitsha,2022-12-08,Medium Value
+C02491,Sunday Balogun,Male,35-44,Corporate,Ikeja,2019-06-25,Medium Value
+C02492,Halima Balogun,Female,25-34,Occasional,Lagos Island,2025-09-09,Low Value
+C02493,Chika Suleiman,Male,18-24,Occasional,Ibadan,2019-10-14,Medium Value
+C02494,Zainab Afolabi,Male,35-44,Regular,Surulere,2026-04-27,Medium Value
+C02495,Ifeoma Nnamdi,Female,18-24,Regular,Uyo,2020-04-11,Medium Value
+C02496,Kunle Nnamdi,Female,35-44,Occasional,Lagos Island,2022-02-18,Medium Value
+C02497,Kelechi Abubakar,Male,35-44,Occasional,Uyo,2025-11-08,Medium Value
+C02498,Chika Uche,Female,25-34,Regular,Abuja,2021-05-26,Medium Value
+C02499,Amaka Uche,Male,45-54,Premium,Uyo,2020-03-15,High Value
+C02500,Tobi Adekunle,Male,35-44,Regular,Lagos Island,2025-04-05,Medium Value

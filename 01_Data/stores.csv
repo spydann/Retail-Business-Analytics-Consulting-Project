@@ -1,0 +1,21 @@
+Store_ID,Store_Name,Region,City,Store_Size,Number_of_Employees,Opening_Date
+ST001,ApexMart Lagos Island Mall,Lagos,Lagos Island,Small,12,2024-04-04
+ST002,ApexMart Lagos Island Plaza,Lagos,Lagos Island,Small,14,2018-06-14
+ST003,ApexMart Ikeja Central,Lagos,Ikeja,Small,11,2020-09-14
+ST004,ApexMart Ikeja Superstore,Lagos,Ikeja,Flagship,66,2023-10-30
+ST005,ApexMart Surulere Outlet,Lagos,Surulere,Large,37,2017-02-22
+ST006,ApexMart Lagos Island Mall,Lagos,Lagos Island,Flagship,72,2016-06-26
+ST007,ApexMart Akure Mall,South-West,Akure,Flagship,61,2022-03-11
+ST008,ApexMart Abeokuta Plaza,South-West,Abeokuta,Large,33,2023-06-01
+ST009,ApexMart Ibadan Central,South-West,Ibadan,Large,38,2020-04-05
+ST010,ApexMart Abeokuta Superstore,South-West,Abeokuta,Flagship,78,2018-05-08
+ST011,ApexMart Uyo Mall,South-South,Uyo,Large,51,2021-12-27
+ST012,ApexMart Uyo Plaza,South-South,Uyo,Medium,23,2023-03-06
+ST013,ApexMart Uyo Central,South-South,Uyo,Medium,29,2018-07-27
+ST014,ApexMart Abuja Mall,North-Central,Abuja,Large,33,2022-05-12
+ST015,ApexMart Ilorin Plaza,North-Central,Ilorin,Large,46,2023-03-18
+ST016,ApexMart Jos Central,North-Central,Jos,Medium,18,2018-12-12
+ST017,ApexMart Ilorin Superstore,North-Central,Ilorin,Flagship,64,2021-09-18
+ST018,ApexMart Onitsha Mall,South-East,Onitsha,Small,8,2023-01-14
+ST019,ApexMart Enugu Plaza,South-East,Enugu,Flagship,85,2021-12-07
+ST020,ApexMart Onitsha Central,South-East,Onitsha,Small,9,2024-08-14

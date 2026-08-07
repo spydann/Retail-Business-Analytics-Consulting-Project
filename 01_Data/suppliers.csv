@@ -1,0 +1,13 @@
+Supplier_ID,Supplier_Name,Category,Delivery_Performance,Supplier_Rating
+SUP001,Delta Foods Distribution Ltd,Electronics,89.3,3.0
+SUP002,Novatech Electronics Supplies,Household,83.7,3.8
+SUP003,Prime Household Goods Co,Fashion,97.8,4.7
+SUP004,Trendline Fashion Imports,Personal Care,79.1,3.9
+SUP005,GlowCare Personal Products,Groceries,76.8,4.8
+SUP006,Continental Beverages Ltd,Electronics,95.5,3.5
+SUP007,Fresh Harvest Farms Produce,Household,89.3,4.1
+SUP008,MicroTech Gadgets Nigeria,Fashion,76.1,4.5
+SUP009,Comfort Living Home Essentials,Personal Care,86.6,4.5
+SUP010,Radiance Cosmetics & Care,Groceries,86.3,2.8
+SUP011,AgroPrime Staples Ltd,Electronics,80.8,2.8
+SUP012,Urban Threads Apparel,Household,97.1,4.7

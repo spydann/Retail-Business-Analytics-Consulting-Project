@@ -1,0 +1,58 @@
+Product_ID,Product_Name,Category,Sub_Category,Supplier,Cost_Price,Selling_Price,Product_Status
+P0001,Rice 5kg,Groceries,Staples,SUP005,10005.24,12736.73,Active
+P0002,Spaghetti Pack,Groceries,Staples,SUP005,1164.99,1566.21,Active
+P0003,Vegetable Oil 5L,Groceries,Staples,SUP010,1671.44,2239.92,Active
+P0004,Beans 5kg,Groceries,Staples,SUP005,6402.93,8916.96,New
+P0005,Semovita 2kg,Groceries,Staples,SUP010,8598.45,11260.5,Active
+P0006,Garri 5kg,Groceries,Staples,SUP005,5341.49,7248.56,Active
+P0007,Bottled Water 1.5L,Groceries,Beverages,SUP005,908.71,1052.66,Active
+P0008,Malt Drink 33cl,Groceries,Beverages,SUP005,235.21,337.09,Active
+P0009,Fruit Juice 1L,Groceries,Beverages,SUP005,10879.23,16251.98,Active
+P0010,Soft Drink 50cl,Groceries,Beverages,SUP010,3449.96,4637.32,Active
+P0011,Instant Coffee 200g,Groceries,Beverages,SUP005,3029.52,4057.1,Active
+P0012,Biscuit Pack,Groceries,Snacks,SUP010,1298.63,1717.33,Active
+P0013,Plantain Chips,Groceries,Snacks,SUP005,10386.47,12169.5,Active
+P0014,Chocolate Bar,Groceries,Snacks,SUP005,868.26,1251.41,Active
+P0015,Groundnut 500g,Groceries,Snacks,SUP010,3096.58,3796.67,Active
+P0016,Smartphone Model A,Electronics,Phones & Accessories,SUP001,8501.92,11350.5,Active
+P0017,Phone Charger,Electronics,Phones & Accessories,SUP001,20107.94,30052.11,Active
+P0018,Bluetooth Earphones,Electronics,Phones & Accessories,SUP001,29450.88,40236.83,Active
+P0019,Power Bank 10000mAh,Electronics,Phones & Accessories,SUP006,41708.6,62124.05,Active
+P0020,Standing Fan 18in,Electronics,Home Appliances,SUP001,21816.72,32634.76,Discontinued
+P0021,Electric Kettle,Electronics,Home Appliances,SUP006,17240.1,26620.84,Active
+P0022,Blender 1.5L,Electronics,Home Appliances,SUP011,13050.64,18644.62,Active
+P0023,Microwave Oven 25L,Electronics,Home Appliances,SUP001,29885.65,40186.29,Active
+P0024,Flat Iron,Electronics,Home Appliances,SUP011,43601.31,60242.71,Active
+P0025,LED TV 32in,Electronics,Entertainment,SUP011,14318.13,16753.03,Active
+P0026,Bluetooth Speaker,Electronics,Entertainment,SUP001,7337.24,11257.61,Active
+P0027,DVD Player,Electronics,Entertainment,SUP006,3362.9,3958.75,Active
+P0028,Detergent 1kg,Household,Cleaning,SUP012,1570.66,2365.59,Active
+P0029,Bleach 1L,Household,Cleaning,SUP012,620.94,734.44,Active
+P0030,Dishwashing Liquid,Household,Cleaning,SUP012,6344.98,9669.0,Active
+P0031,Air Freshener,Household,Cleaning,SUP012,3873.08,4865.54,Active
+P0032,Mop Set,Household,Cleaning,SUP002,3704.97,4729.29,Active
+P0033,Non-stick Pot Set,Household,Kitchenware,SUP002,260.39,364.15,Active
+P0034,Cutlery Set,Household,Kitchenware,SUP007,1018.14,1257.67,Active
+P0035,Plastic Storage Container,Household,Kitchenware,SUP002,10588.24,15900.45,Active
+P0036,Cooler Box 25L,Household,Kitchenware,SUP012,5342.49,7304.72,Active
+P0037,Plastic Chair,Household,Furniture Basics,SUP012,6417.95,9095.17,Active
+P0038,Foldable Table,Household,Furniture Basics,SUP002,1377.5,2067.97,Active
+P0039,Storage Rack,Household,Furniture Basics,SUP002,8947.64,10846.14,Active
+P0040,Men Polo Shirt,Fashion,Men,SUP008,8653.7,10656.5,Active
+P0041,Men Jeans,Fashion,Men,SUP003,6139.1,7676.63,Discontinued
+P0042,Men Sneakers,Fashion,Men,SUP003,1243.74,1641.03,Active
+P0043,Women Ankara Dress,Fashion,Women,SUP003,4102.64,4932.72,New
+P0044,Women Handbag,Fashion,Women,SUP003,8933.59,12245.02,Active
+P0045,Women Sandals,Fashion,Women,SUP003,1475.71,2254.91,Active
+P0046,Kids T-Shirt,Fashion,Kids,SUP003,6615.24,9815.94,Active
+P0047,Kids Sandals,Fashion,Kids,SUP003,5242.97,6117.14,Active
+P0048,Body Lotion 400ml,Personal Care,Skincare,SUP004,10802.26,13330.32,Active
+P0049,Facial Cream,Personal Care,Skincare,SUP004,4341.09,5964.46,Active
+P0050,Sunscreen 100ml,Personal Care,Skincare,SUP004,11120.3,13841.38,Active
+P0051,Shampoo 400ml,Personal Care,Haircare,SUP009,10594.78,12289.04,Active
+P0052,Hair Relaxer Kit,Personal Care,Haircare,SUP004,9421.28,12386.02,Active
+P0053,Hair Oil 200ml,Personal Care,Haircare,SUP004,3311.65,4851.4,Active
+P0054,Toothpaste 150g,Personal Care,Hygiene,SUP009,10324.33,12791.57,Active
+P0055,Bar Soap Pack,Personal Care,Hygiene,SUP004,4293.45,6346.64,Active
+P0056,Deodorant Roll-on,Personal Care,Hygiene,SUP004,430.42,528.23,Active
+P0057,Sanitary Pad Pack,Personal Care,Hygiene,SUP009,11607.64,14644.78,Active
